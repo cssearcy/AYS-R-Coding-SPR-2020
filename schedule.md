@@ -253,7 +253,7 @@ In your post, highlight what is interesting about the example and what data made
 
 ## Lab-01 - Practice with Vectors
 
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/labs/lab-01-instructions.html">LAB-01 Instructions</a>
+<a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-01-instructions.html">LAB-01 Instructions</a>
 
 **Submit Solutions to the iCollege Assignment Folder by 11:59pm on January 23.**
 
