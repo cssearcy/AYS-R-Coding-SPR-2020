@@ -34,7 +34,7 @@ instructor:
    linked_in_url: https://www.linkedin.com/in/lorenzo-nicolas-almada-87351242/
    office_hours_time: By Appointment
    office_hours_location:  
-   office_hours_app_url:  'lalmada1@gsu.edu'
+   office_hours_app_url:  lalmada1@gsu.edu
 -  name: Cynthia Searcy
    title: Associate Dean
    email: csearcy@gsu.edu
