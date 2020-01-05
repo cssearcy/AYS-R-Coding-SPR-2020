@@ -10,7 +10,7 @@ description:        Intro. course in data-drive management
 
 # Site subpath, e.g. /blog
 url :               "https://cssearcy.github.io"
-baseurl:            "/AYS-Coding-in-R-Spr-2020"
+baseurl:            "/AYS-R-Coding-SPR-2020"
 course_url:         "https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
@@ -51,8 +51,8 @@ author:
 github_info:
     username:          cssearcy # Github location of the course
     branch:            master
-    website-repo:      AYS-Coding-in-R-Spr-2020
-    course-repo:       AYS-Coding-in-R-Spr-2020
+    website-repo:      AYS-R-Coding-SPR-2020
+    course-repo:       AYS-R-Coding-SPR-2020
 
 
 
