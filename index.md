@@ -23,11 +23,11 @@ info:
  discussion_board_url: 
 
 instructor:
--  name: Lorenzo Alamada
+-  name: Lorenzo Almada
    title: Clinical Assistant Professor
    email: lalmada1@gsu.edu
    office_location: 55 Park Place, Ste. XXX
-   website_url:
+   website_url: https://aysps.gsu.edu/profile/lorenzo-almada/
    github_url:  
    twitter_url: 
    scholar_url: 
