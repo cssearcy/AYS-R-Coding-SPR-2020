@@ -1,2 +1,3 @@
-# cpp-526-fall-2019
-Course material for CPP 526 Foundations of Data Science I 
+# AYS Intro to R Programming Spring 2020
+
+Course material for intro to R Programming
