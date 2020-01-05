@@ -35,7 +35,18 @@ instructor:
    office_hours_time: By Appointment
    office_hours_location:  
    office_hours_app_url:  'https://calendly.com/csearcy/30min'
-   
+-  name: Lorenzo
+   title: Associate Dean
+   email: csearcy@gsu.edu
+   office_location: 14 Marietta Street, Ste. 629
+   website_url:
+   github_url: 'https://github.com/cssearcy' 
+   twitter_url: 
+   scholar_url: 
+   linked_in_url: https://www.linkedin.com/in/cynthia-searcy-a2a040172/
+   office_hours_time: By Appointment
+   office_hours_location:  
+   office_hours_app_url:  'https://calendly.com/csearcy/30min'   
 
 textbooks:
 - title: R Cookbook. Proven recipes
