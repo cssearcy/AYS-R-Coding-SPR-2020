@@ -35,18 +35,18 @@ instructor:
    office_hours_time: By Appointment
    office_hours_location:  
    office_hours_app_url:  'https://calendly.com/csearcy/30min'
--  name: Lorenzo
-   title: Associate Dean
+-  name: Lorenzo Alamada
+   title: Clinical Assistant Professor
    email: csearcy@gsu.edu
-   office_location: 14 Marietta Street, Ste. 629
+   office_location: 55 Park Place, Ste. XXX
    website_url:
-   github_url: 'https://github.com/cssearcy' 
+   github_url:  
    twitter_url: 
    scholar_url: 
-   linked_in_url: https://www.linkedin.com/in/cynthia-searcy-a2a040172/
+   linked_in_url: https://www.linkedin.com/in/lorenzo-nicolas-almada-87351242/
    office_hours_time: By Appointment
    office_hours_location:  
-   office_hours_app_url:  'https://calendly.com/csearcy/30min'   
+   office_hours_app_url:  ''   
 
 textbooks:
 - title: R Cookbook. Proven recipes
