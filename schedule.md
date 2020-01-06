@@ -81,7 +81,7 @@ You will have plenty of practice with these tools this semester. You will submit
 *** { @unit = "Due Jan 17", @title = "Your Course Prep Checklist", @assignment, @foldout }
 
 
-- [ ] [Read the Syllabus](https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020/) 
+- [ ] [Read the Syllabus](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
 
