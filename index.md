@@ -157,6 +157,10 @@ Below 80%   |  C, D, F
 
 The assigned work for the course has three elements:
 
+- **Weekly Labs (50%):**  Each week you will receive a short lab that will help you synthesize the modules from the week though exercises that involve data, analysis, and important formulas from the modules. These labs contain exercises that are similar in form or difficulty to what will be applied in the final project. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
+
+- **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
+
 - **Discussion Topics (20%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article on your own. We will use iCollege discussion boards for this assignment. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points each week are allocated as follows:
 
   - 5 points for a new post with at least 200 words.
@@ -164,10 +168,6 @@ The assigned work for the course has three elements:
   - 2 points if you receive a comment on your post.
   - 3 points if you earn instructor praise for an informative post.
   - max of 20 points can be earned each week.  
-
-- **Weekly Labs (50%):**  Each week you will receive a short lab that will help you synthesize the modules from the week though exercises that involve data, analysis, and important formulas from the modules. These labs contain exercises that are similar in form or difficulty to what will be applied in the final project. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
-
-- **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
 
 ## D. Late and Missing Assignments
 
@@ -189,7 +189,7 @@ Respectful conversations and tolerance of others&#39; opinions will be strictly 
 
 GSU expects the highest standards of academic integrity. Violations of academic integrity include but are not limited to cheating, plagiarism, fabrication, etc. or facilitating any of these activities. This course relies heavily on writing and original critical thought. Any student who is suspected of not producing his or her own original work will be reported to the Dean of Students for investigation. **Plagiarism will not be tolerated**. **Any student who plagiarizes or otherwise fabricates his or her work will receive no credit for that assignment. It will be recorded as zero points—and the student will risk a failing grade for the course.** For more information, refer to the GSU Student Code of Conduct.
 
-## H.  Student Learning Environment: Accommodations
+## H.  Student Accommodations
 
 **Disability Accommodations:** If you have any condition, such as a physical or mental disability, which will make it difficult for you to carry out the work as outlined above or which will require extra time on assignments, please notify us in the first two weeks of the course so that we may make appropriate arrangements. Students who wish to request accommodation for a disability may do so by registering with the GSU Access & Accommodations Center (AACE). Students may only be accommodated upon issuance of a signed Accommodation Plan by AAACE. Students are responsible for providing a copy of that plan to instructors of all classes in which an accommodation is sought.
 
