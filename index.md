@@ -166,15 +166,16 @@ The assigned work for the course has three elements:
   - 3 points if you earn instructor praise for an informative post.
   - max of 20 points can be earned each week.
 
+
 - **Weekly Labs (50%):**  Each week you will receive a short lab that will help you synthesize the modules from the week though exercises that involve data, analysis, and important formulas from the modules. These labs contain exercises that are similar in form or difficulty to what will be applied in the final project. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
 
 - **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
 
-## E. Late and Missing Assignments
+## D. Late and Missing Assignments
 
 Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. **Late submissions will be reduced by a full letter grade.**
 
-## F.  Course Communication and Getting Help
+## E.  Course Communication and Getting Help
 
 All course content is hosted on this website. Readings, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions will be made through iCollege and are due by 11:59pm on the due dates listed on the course schedule.** 
 
@@ -182,15 +183,15 @@ All course content is hosted on this website. Readings, assignments, and other c
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either written work or online discussion work, is between 5 and 10 work days.
 
-## G.  Student Conduct: Expectation of Professional Behavior
+## F.  Student Conduct: Expectation of Professional Behavior
 
 Respectful conversations and tolerance of others&#39; opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course with no refund. Students are required to adhere to the behavior standards listed in the GSU Sudent Code of Conduct.
 
-## H.  Academic Integrity and Honesty
+## G.  Academic Integrity and Honesty
 
 GSU expects the highest standards of academic integrity. Violations of academic integrity include but are not limited to cheating, plagiarism, fabrication, etc. or facilitating any of these activities. This course relies heavily on writing and original critical thought. Any student who is suspected of not producing his or her own original work will be reported to the Dean of Students for investigation. **Plagiarism will not be tolerated**. **Any student who plagiarizes or otherwise fabricates his or her work will receive no credit for that assignment. It will be recorded as zero points—and the student will risk a failing grade for the course.** For more information, refer to the GSU Student Code of Conduct.
 
-## I.  Student Learning Environment: Accommodations
+## H.  Student Learning Environment: Accommodations
 
 **Disability Accommodations:** If you have any condition, such as a physical or mental disability, which will make it difficult for you to carry out the work as outlined above or which will require extra time on assignments, please notify us in the first two weeks of the course so that we may make appropriate arrangements. Students who wish to request accommodation for a disability may do so by registering with the GSU Access & Accommodations Center (AACE). Students may only be accommodated upon issuance of a signed Accommodation Plan by AAACE. Students are responsible for providing a copy of that plan to instructors of all classes in which an accommodation is sought.
 
