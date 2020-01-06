@@ -229,15 +229,13 @@ So ignoring potential problems with big and open data for now, read about two in
 
 <br> 
 
-**ASSIGNMENT:** 
-
-> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know and share it with the group.
+**For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know and share it with the group.**
 
 Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), or this short interview. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTdPpoUp25w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-In your post, highlight what is interesting about the example and what data made it possible. 
+**In your post, highlight what is interesting about the example and what data made it possible.** 
 
 **Due by 11:59pm on January 19.**
 
@@ -501,9 +499,9 @@ The lab requires you to re-create a graph that was featured in the New York Time
 
 This week you will begin working in the core R graphics engine. This discussion topic offers an opportunity to explore some of the myriad [graphics packages in R](https://cran.r-project.org/web/views/Graphics.html).
 
-Your task is to select a specialized graphic that you could use in your own (hypothetical) research or professional life, then describe what data or topic from your own work the visualization would be useful for. Reference the R package you would need for the task.
+**Your task is to select a specialized graphic that you could use in your own (hypothetical) research or professional life, then describe what data or topic from your own work the visualization would be useful for. Reference the R package you would need for the task.**
 
-For example, I might say that I work creating budgets for a government organization. I could use a [Sankey Diagram](https://www.getrichslowly.org/sankey-diagrams/) from the [D3 Package](https://www.r-graph-gallery.com/sankey-diagram/) to visualize our budget. 
+For example, you might want to create budgets for a government organization. You could use a [Sankey Diagram](https://www.getrichslowly.org/sankey-diagrams/) from the [D3 Package](https://www.r-graph-gallery.com/sankey-diagram/) to visualize our budget. 
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
@@ -603,7 +601,7 @@ But we will now add an input widget that allows users to select one team that wi
 
 
 
-*** { @unit = "Due Feb 9", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due Feb 9", @title = "Discussion Topic: Bad Graphs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -616,7 +614,7 @@ There is a lot of science behind data visualization, but the art to storytelling
 
 Unfortunatly, it is much easier to create tragically bad graphics than it is to create good graphics. For your blog this week, read the *Calling Bullshit* overview on [proportional ink](https://callingbullshit.org/tools/tools_proportional_ink.html) and [misleading axes](https://callingbullshit.org/tools/tools_misleading_axes.html) to develop some sensitivity about misleading graphics. 
 
-Find a graph that violates one of these principles, or commits an equally egregious visualization crime. Share the graph and explain what offense has been committed. You might start by searching for "bad graphs" on google images. 
+**Find a graph that violates one of these principles, or commits an equally egregious visualization crime. Share the graph and explain what offense has been committed. You might start by searching for "bad graphs" on google images.** 
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
@@ -712,7 +710,7 @@ Lab 05 will use data on traffic accidents in the City of Tempe:
 
 
 
-*** { @unit = "Due Feb 16", @title = "Discussion Topic Data APIs", @assignment, @foldout  }
+*** { @unit = "Due Feb 16", @title = "Discussion Topic: Data APIs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -824,7 +822,7 @@ We will join the Salaries table to player bios (Master table) and performance da
 
 
 
-*** { @unit = "Due Feb 23", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due Feb 23", @title = "Discussion Topic: Github for Govt", @assignment, @foldout  }
 
 <br>
 
@@ -874,9 +872,9 @@ plot( traffic, col="steelblue" )
 
 ![](assets/img/dc-traffic.png)
 
-For this week, read about how [GitHub has evolved to support government](https://readwrite.com/2014/08/14/github-government-ben-balter-open-source/).
+**For this week, read about how [GitHub has evolved to support government](https://readwrite.com/2014/08/14/github-government-ben-balter-open-source/).**
 
-Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws? 
+**Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws?** 
 
 **Due by 11:59pm on February 23.**
 
