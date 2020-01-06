@@ -19,14 +19,14 @@ info:
  class_meets_when:  Online  
  class_meets_where:  
  review_sessions_when: 12:00 - 1:30 PM 
- review_sessions_where: 55 Park Pl, Rm 801
- discussion_board_url: 
+ review_sessions_where: 55 Park Pl, Rm 501
+ discussion_board_url: https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/ 
 
 instructor:
 -  name: Lorenzo Almada
    title: Clinical Assistant Professor
    email: lalmada1@gsu.edu
-   office_location: 55 Park Place, Ste. XXX
+   office_location: 55 Park Place, Ste. 682
    website_url: https://aysps.gsu.edu/profile/lorenzo-almada/
    github_url:  
    twitter_url: 
