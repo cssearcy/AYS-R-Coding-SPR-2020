@@ -48,7 +48,6 @@ instructor:
    office_hours_location:  
    office_hours_app_url:  'https://calendly.com/csearcy/30min'
 
-
 textbooks:
 - title: R Cookbook. Proven recipes
   authors: Paul Teetor
@@ -77,12 +76,6 @@ textbooks:
   required: Not Required 
   
 --- 
-
-
-
-
-
-
 
 # I.  Course Description & Learning Objectives
 
@@ -179,11 +172,9 @@ The assigned work for the term comes in the form of four elements, described bel
   - 5 points if you earn instructor praise for an informative post.
   - max of 20 points can be earned each week.
 
-<br>
+## D. Grading Rubric for Written Work
 
-## D. General Grading Rubric for Written Work
-
-In general, any submitted written work (assignments and/or exams) is assessed on these criteria:
+In general, any submitted written work is assessed on these criteria:
 
 - Assignment completeness – all elements of the assignment are addressed
 - Quality of analysis – substantively rigorous in addressing the assignment
@@ -195,7 +186,7 @@ The final project will be accompanied by a rubric describing the allocation of p
 
 ## E. Late and Missing Assignments
 
-Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. Late submissions will be reduced by a full letter grade.
+Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. **Late submissions will be reduced by a full letter grade.**
 
 ## F.  Course Communication and Instructor Feedback
 
