@@ -129,7 +129,7 @@ Online discussion boards are design for students to engage with the material tog
 
 ## B. Assigned Reading Materials
 
-We will use a custom textbook for this course available at the link above. 
+We will use a custom textbook for this course. 
 
 * [Course Textbook](https://ds4ps.org/cpp-526-fall-2019/textbook/)
 
@@ -141,7 +141,7 @@ The following texts are recommended as good reference material for topics covere
 * Peng, R. D., &amp; Matsui, E. (2015). _The Art of Data Science._ _A Guide for Anyone Who Works with Data._ Skybrude Consulting, 200, 162.  
 
 
-In addition to the required textbooks, the instructor will supplement the assigned unit readings with various journal articles, policy reports, or other related material. These will be made available in iCollege. Please be sure to set notifications in iCollege so that you receive emails when announcements are posted. 
+In addition to the required textbooks, the instructor may supplement the assigned unit readings with various journal articles, policy reports, or other related material. These will be made available in iCollege. Please be sure to set notifications in iCollege so that you receive emails when announcements are posted. 
 
 ## C. Course Grading
 
@@ -165,7 +165,7 @@ The assigned work for the course has three elements:
   - 2 points if you receive a comment on your post.
   - 3 points if you earn instructor praise for an informative post.
   - max of 20 points can be earned each week.
-
+  
 
 - **Weekly Labs (50%):**  Each week you will receive a short lab that will help you synthesize the modules from the week though exercises that involve data, analysis, and important formulas from the modules. These labs contain exercises that are similar in form or difficulty to what will be applied in the final project. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
 
