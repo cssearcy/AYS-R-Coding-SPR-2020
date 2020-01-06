@@ -220,8 +220,6 @@ Please note: the course instructor may from time to time adjust assigned reading
 
 [Schedule](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/schedule/)
 
-## Course Schedule
-
 ### Week 0: R Data Science Toolkit 
 - CH-01 Core R 
 - CH-02 R Studio
@@ -247,7 +245,8 @@ Please note: the course instructor may from time to time adjust assigned reading
 - Lab #6
 
 ### Week 7: Dashboards
-- Start Final Project
+- Last opportunity for Explainer Project
+- Submit Final Project
 
 
 <br>
