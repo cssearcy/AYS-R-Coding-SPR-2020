@@ -237,13 +237,13 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTdPpoUp25w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-In your post, highlight what is interesting about the example and what data made it possible.
+In your post, highlight what is interesting about the example and what data made it possible. 
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on January 19.**
+**Due by 11:59pm on January 19.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
-
-
 
 *** { @unit = "Due Jan 23", @title = "Lab 01", @assignment, @foldout  }
 
@@ -290,12 +290,6 @@ In your post, highlight what is interesting about the example and what data made
 
 <br>
 <br>
-
-
-
-
-
-
 
 
 *** { @unit = "", @title = "Unit Overview", @reading, @foldout }
@@ -345,7 +339,7 @@ You might not have heard, but [nerd is the new black](https://www.wsj.com/articl
 
 But what is R, and what are the ~~nerds~~ cool kids using it for? 
 
-**This week, your task is to explore a few blogs about tools in R and find one package or application that you are excited about. It can be an analytics package, a graphics package, a specific application, or a tutorial on a topic that interests you. I don't expect you use of understand the package or tutorial, rather just identify a tool that would be useful given your interests.**
+**This week, your task is to explore a few blogs about tools in R and find one package or application that excites you. It can be an analytics package, a graphics package, a specific application, or a tutorial on a topic. I don't expect you to understand the package or tutorial, rather just identify a tool that will be useful given your interests.**
 
 Mine, personally, was the package that allows you to create comic strip graphics in R:
 
@@ -365,7 +359,9 @@ Take note, this assignment asks you to explore a new community where the technic
 
 <br>
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on January 26.**
+**Due by 11:59pm on January 26.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -511,7 +507,9 @@ For example, I might say that I work creating budgets for a government organizat
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 2.**
+**Due by 11:59pm on February 2.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -622,7 +620,9 @@ Find a graph that violates one of these principles, or commits an equally egregi
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 9.**
+**Due by 11:59pm on February 9.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 <br>
 <br>
 
@@ -741,7 +741,9 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 *Note, you do not have to show how to use the API for the post, just identify what information is accessible and how it might be used.*
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 16.**
+**Due by 11:59pm on February 16.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -876,7 +878,9 @@ For this week, read about how [GitHub has evolved to support government](https:/
 
 Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws? 
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 23.**
+**Due by 11:59pm on February 23.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br><br>
 
@@ -928,7 +932,9 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/code-through-assignment.html">Code-Through Instructions</a>
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on March 1.**
+**Due by 11:59pm on March 1.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
