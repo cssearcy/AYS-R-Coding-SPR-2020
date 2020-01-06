@@ -120,7 +120,7 @@ We are going to throw a lot at you, but also provide a lot of support. Over thes
 If you find something confusing let me know (likely others will as well). 
 
 * It is **highly recommended that you join the in-person lab session each week.** It is scheduled on a Monday so that you have time to address your problems before labs are due. Make every attempt to join the lab if you're having problems. 
-* You can post a question to the [homework discussion board](https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020/help/).   
+* You can post a question to the [homework discussion board](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/).   
 
 Reach out if you have questions or feel stuck! 
 
