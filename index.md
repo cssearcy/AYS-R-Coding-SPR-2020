@@ -156,43 +156,29 @@ Letter grades comport with a traditional set of intervals:
 83 – 80%    |  B –  
 Below 80%   |  C, D, F  
 
-The assigned work for the term comes in the form of four elements, described below:
+The assigned work for the course has three elements:
+
+- **Discussion Topics (20%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article on your own. We will use iCollege discussion boards for this assignment. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points each week are allocated as follows:
+
+  - 5 points for a new post with at least 200 words.
+  - 3 points for a substantive comment (> 50 words) made to another student's post.
+  - 2 points if you receive a comment on your post.
+  - 3 points if you earn instructor praise for an informative post.
+  - max of 20 points can be earned each week.
 
 - **Weekly Labs (50%):**  Each week you will receive a short lab that will help you synthesize the modules from the week though exercises that involve data, analysis, and important formulas from the modules. These labs contain exercises that are similar in form or difficulty to what will be applied in the final project. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
 
-- **Final Dashboard Project (30%):**  This course will close with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating material the we have covered throughout the course.
-
-- **Explainer Assignment (10%):**  You are invited to pick one topic from the class that you want to learn more about, or that you think might provide value to your classmates. Create a short tutorial to make your topic accessible to your peers. It can be a blog post, a video, a GIF, or a tutorial that explains an important concept from data programming, presents a helpful framework, illustrates a useful R tool or approach to data programming, or introduces classmates to a new package or function. **You will present this work in no more than 10 minutes in a Monday lab session.** After it is presented in a lab session, you will post it to the discussion board in iCollege. You will be able to sign up to be an "explainer" starting the second week of the course.
-
-- **Discussion Topics (10%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article. We will use iCollege discussion boards for this assignment. You earn points through your activities on the board. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points are allocated as follows:
-
-  - 5 points for a new post with at least 50 words.
-  - 3 points for a substantive comment made to another student's post.
-  - 2 points if you receive a comment on your post.
-  - 5 points if you earn instructor praise for an informative post.
-  - max of 20 points can be earned each week.
-
-## D. Grading Rubric for Written Work
-
-In general, any submitted written work is assessed on these criteria:
-
-- Assignment completeness – all elements of the assignment are addressed
-- Quality of analysis – substantively rigorous in addressing the assignment
-- Demonstrated synthesis of core concepts from modules and ability to apply to new problems
-
-Most assignments in this course are labs that are graded pass-fail based upon completeness and correctness of responses (every attempt must be made to complete labs, and they must be more than 50% correct to receive credit).  
-
-The final project will be accompanied by a rubric describing the allocation of points and criteria for evaluation. 
+- **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
 
 ## E. Late and Missing Assignments
 
 Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. **Late submissions will be reduced by a full letter grade.**
 
-## F.  Course Communication and Instructor Feedback
+## F.  Course Communication and Getting Help
 
-**Course content** is hosted on this website. Modules, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions will be made through iCollege and are due by 11:59pm on the due dates listed on the course schedule.** 
+All course content is hosted on this website. Readings, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions will be made through iCollege and are due by 11:59pm on the due dates listed on the course schedule.** 
 
-Please post lab questions on the [Get Help](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/) page on this site, schedule individual office hours using the Calendly links provided above, or email the instructor directly. 
+**You should make every attempt to attend weekly lab sessions to get help on lab work.** If you miss a lab session, please post questions on the [Get Help](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/) page on this site. You may also schedule individual office hours using the instructor links provided above, or you may email the instructor directly. 
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either written work or online discussion work, is between 5 and 10 work days.
 
@@ -227,25 +213,31 @@ Please note: the course instructor may from time to time adjust assigned reading
 
 ### Week 1: Functions and Vectors
 - CH-03, CH-04
+- Discussion Post
 - Lab #1 
 
 ### Week 2: Operators and Descriptives
+- Discussion Post
 - Lab #2 
 
 ### Week 3: Visualization
+- Discussion Post
 - Lab #3
 
 ### Week 4: Dynamic Visualization
+- Discussion Post
 - Lab #4 
 
 ### Week 5: Data Wrangling
+- Discussion Post
 - Lab #5
 
 ### Week 6: Data IO and Joins
+- Discussion Post
 - Lab #6
 
 ### Week 7: Dashboards
-- Last opportunity for Explainer Project
+- Discussion Post
 - Submit Final Project
 
 
