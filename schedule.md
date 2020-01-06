@@ -725,7 +725,7 @@ Your skill level in data science can be measured by how quickly you can take a r
 
 Next week we will discuss some ways to get data into R. You can always download data from a website in its current format (CSV, SPSS, or Stata, etc.) then import it into R. Alternatively, it is typically more efficient to use an API.
 
-API stands for "Application Programming Interface", which is computer science jargon for the protocols that allow two applications to speak to each other. If you are using your mobile phone and you want to log into your bank using an app, an API will send your user credential and password to your bank, and will return information about your balances and transactions. In other words, APIs are structured ways of sending requests back and fourth between systems. The provide permission for external users to query some parts of internal databases (e.g. what is my checking account balance?), and control what information will be returned.
+API stands for "Application Programming Interface", which is computer science jargon for the protocols that allow two applications to speak to each other. If you are using your mobile phone and you want to log into your bank using an app, an API sends your user credential and password to your bank, and will return information about your balances and transactions. In other words, APIs are structured ways of sending requests back and fourth between systems. They provide permission for external users to query some parts of internal databases (e.g. what is my checking account balance?), and control what information will be returned.
 
 In some cases, organizations that host public datasets have created data APIs to make it easier to request and share the data. To see some examples visit the [Data Science Toolkit](http://www.datasciencetoolkit.org) website, and test out some APIs. In some cases you give some search parameters (such as a zip code), and it returns a new dataset (census data). In other cases, you send data (raw text), and the API sends you a processed version of the data (a sentiment score based upon words in the text). Thus APIs can be used both to access new data sources, as well as to clean or process your current data as part of your project.
 
@@ -739,7 +739,7 @@ For the discussion topic this week find an example of an API that could be usefu
 
 You can find APIs through a Google search, or browse datasets on the [DS4PS Open Data](https://ds4ps.org/data/) page. Altnernatively, you can report on a package in R that uses a data API and describe what kinds of data the package allows you to access. 
 
-*Note, you do not have to show how to use the API for the post, just identify what information is accessible and how it might be used.*
+*Note, you do not have to show how to use the API for the post. Just identify what information is accessible and how it might be used.*
 
 **Due by 11:59pm on February 16.**
 
@@ -919,12 +919,12 @@ This lab is designed to introduce you to primary data join functions in R.
 <br>
 
 
-*** { @unit = "Due Mar 1", @title = "Code-Through Assignment", @assignment, @foldout  }
+*** { @unit = "Due Mar 1", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
 
 <br>
 <br>
 
-## Code-Through
+## Discussion Topic: Code-Through
 
 Since you are sharing your code-through with your classmates on iCollege, it will serve as your discussion topic this week.
 
@@ -940,7 +940,7 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 <br>
 
 
-*** { @unit = "Due Mar 2", @title = "FINAL PROJECT", @assignment, @foldout  }
+*** { @unit = "Due Mar 2", @title = "Final Project: Data Dashboard", @assignment, @foldout  }
 
 <br>
 <br>
