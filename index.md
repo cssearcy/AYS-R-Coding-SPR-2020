@@ -77,7 +77,7 @@ textbooks:
   
 --- 
 
-# I.  Course Description & Learning Objectives
+# I.  Course Description
 
 Data is an essential ingredient of any program evaluation or performance management system. Organizations that want to embrace an evidence-based approach to policy need to develop processes for gathering data, linking multiple datasets, running analysis, and sharing results with stakeholders through reports, dashboards, or web applications. The ability to collect, organize and analyze data is a desirable skill set for professional analysts, high-level management, and evaluators.
 
@@ -87,6 +87,8 @@ Typically only 10-20% of a project is spent analyzing data. The other 80-90% con
 
 This course, Coding in R for Policy Analytics, will cover the building blocks of data programming in R. We will learn about variables, operators, functions, dataset construction, group structure in data, and visualization. Students will also be introduced to markdown documents and automated reporting.
 
+## A. Learning Objectives
+
 The six learning objectives for the course are:
 
 - Mastery of functions as the building blocks of all R programs, including arguments and scope
@@ -95,7 +97,7 @@ The six learning objectives for the course are:
 - Ability to build custom visualizations through the base R graphics package
 - Creation of dynamic graphics and data dashboards using R shiny tools
 
-## Course Prerequisites
+## B. Course Prerequisites
 
 There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed R and R Studio, and worked through a basic tutorial on R Studio.
 
@@ -181,7 +183,7 @@ All course content is hosted on this website. Readings, assignments, and other c
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either written work or online discussion work, is between 5 and 10 work days.
 
-## F.  Student Conduct: Expectation of Professional Behavior
+## F.  Student Conduct
 
 Respectful conversations and tolerance of others&#39; opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course with no refund. Students are required to adhere to the behavior standards listed in the GSU Sudent Code of Conduct.
 
