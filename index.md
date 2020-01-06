@@ -103,15 +103,14 @@ There are no prerequisites, and we do not assume any prior background in compute
 
 Assessment of student performance in this course is based on indications that the course learning objectives stated above have been achieved.  Several areas of measurement will be used to produce a final grade.  These areas include:
 
-- The ability to build a custom dataset by important data from multiple sources, merging data, and reshaping, filtering or subsetting as necessary.
+- The ability to build a custom dataset from multiple sources, merging, reshaping, filtering, or subsetting as necessary.
 - Translating from plain English business cases to logical statements in R using logical operators and analytical techniques applied to groups.
 - Communicating information by developing custom visualizations and graphics.
 - Using markdown documents to generate data-driven reports and data dashboards.
 
-Students will demonstrate competency in understanding, producing and communicating results of their analyses through the following assignments:
+Students will demonstrate competency in understanding, producing, and communicating results of their analyses through the following assignments:
 
-- In-lecture assessment questions to ensure basic comprehension of key concepts and to help students and instructors track progress through the course.
-- Weekly labs that provide opportunities to consolidate and apply material from the lectures.
+- Weekly labs that provide opportunities to consolidate and apply material from course content.
 - Discussion topics on broad data science trends. 
 - A final project that integrates several skills to create a data dashboard. 
 
@@ -165,7 +164,7 @@ The assigned work for the course has three elements:
   - 2 points if you receive a comment on your post.
   - 3 points if you earn instructor praise for an informative post.
   - max of 20 points can be earned each week.
-  
+<br>  
 
 - **Weekly Labs (50%):**  Each week you will receive a short lab that will help you synthesize the modules from the week though exercises that involve data, analysis, and important formulas from the modules. These labs contain exercises that are similar in form or difficulty to what will be applied in the final project. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
 
