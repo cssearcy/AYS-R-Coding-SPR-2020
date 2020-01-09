@@ -35,7 +35,8 @@ header:
 - title: Course Schedule
   url: schedule/
 - title: Textbook
-  url: textbook/
+  url: https://ds4ps.org/dp4ss/
+#  url: textbook/
 - title: Resources
   url: resources/
 - title: Get Help
