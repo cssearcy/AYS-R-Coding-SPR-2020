@@ -28,13 +28,13 @@ instructor:
    email: lalmada1@gsu.edu
    office_location: 55 Park Place, Ste. 682
    website_url: https://aysps.gsu.edu/profile/lorenzo-almada/
-   github_url:  
+   github_url: https://github.com/lalmada1 
    twitter_url: 
    scholar_url: 
    linked_in_url: https://www.linkedin.com/in/lorenzo-nicolas-almada-87351242/
    office_hours_time: By Appointment
    office_hours_location:  
-   office_hours_app_url:  lalmada1@gsu.edu
+   office_hours_app_url:
 -  name: Cynthia Searcy
    title: Associate Dean
    email: csearcy@gsu.edu
