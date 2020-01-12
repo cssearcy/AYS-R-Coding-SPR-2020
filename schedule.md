@@ -78,7 +78,7 @@ You will have plenty of practice with these tools this semester. You will submit
 <br>
 
 
-*** { @unit = "Due Jan 17", @title = "Your Course Prep Checklist", @assignment, @foldout }
+*** { @unit = "Due Jan 16", @title = "Your Course Prep Checklist", @assignment, @foldout }
 
 
 - [ ] [Read the Syllabus](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/) 
@@ -86,7 +86,7 @@ You will have plenty of practice with these tools this semester. You will submit
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
 
 
-*** { @unit = "Due Jan 17", @title = "Introduce Yourself", @assignment, @foldout   }
+*** { @unit = "Due Jan 16", @title = "Introduce Yourself", @assignment, @foldout   }
 
 ## Introduce yourself to the class
 
@@ -194,7 +194,7 @@ table()                 # summarize factors / character vectors
 
 **Data**:
 
-Syracuse tax parcels: [ [documentation](https://ds4ps.org/Data-Science-Class/DATA/syr_parcels.html) ]
+Syracuse tax parcels: [documentation](https://ds4ps.org/Data-Science-Class/DATA/syr_parcels.html) ]
 
 ```r
 URL <- "https://raw.githubusercontent.com/DS4PS/Data-Science-Class/master/DATA/syr_parcels.csv"
