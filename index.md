@@ -132,7 +132,7 @@ Online discussion boards are design for students to engage with the material tog
 
 We will use a custom textbook for this course. 
 
-* [Course Textbook](https://ds4ps.org/cpp-526-fall-2019/textbook/)
+* [Course Textbook](https://ds4ps.org/dp4ss/)
 
 The following texts are recommended as good reference material for topics covered in this course:
 
