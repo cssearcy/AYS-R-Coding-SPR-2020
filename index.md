@@ -32,7 +32,7 @@ instructor:
    twitter_url: 
    scholar_url: 
    linked_in_url: https://www.linkedin.com/in/lorenzo-nicolas-almada-87351242/
-   office_hours_time: By Appointment (via email: lalmada1@gsu.edu)
+   office_hours_time: By Appointment Via Email
    office_hours_location:  
    office_hours_app_url: 
 -  name: Cynthia Searcy
