@@ -276,9 +276,7 @@ If you are interested in some of the actual math behind Moneyball ("Sabermetrics
 
 # Submission Instructions
 
-After you have completed your lab, knit your RMD file. **Submit your code and a printed view of your final table.**
-
-Login to Canvas at <http://canvas.asu.edu> and navigate to the assignments tab in the course repository. Upload your RMD and your HTML files to the appropriate lab submission link.
+After you have completed your lab, knit your RMD file. **Submit your code and a printed view of your final table.** Login to iCollege and navigate to Assignments, Lab 6. Upload your zipped folder to the submission folder.
 
 Remember to:
 
