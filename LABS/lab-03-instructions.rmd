@@ -219,7 +219,9 @@ help( abline )
 
 # Submission Instructions
 
-Login to Canvas at <http://canvas.asu.edu> and navigate to the assignments tab in the course repository. Upload your HTML file and RMD file to the appropriate lab submission link.
+When you have completed your assignment, knit your RMD file to generate your rendered HTML file. Platforms like iCollege often disallow you from submitting HTML files when there is embedded computer code, so create a zipped folder with both the RMD and HTML files.
+
+Login to iCollege and navigate to Assignments, Lab 3. Upload your zipped folder to the submission folder.
 
 Remember to:
 
