@@ -100,7 +100,7 @@ Load the map file:
 
 ```{r, cache=TRUE}
 URL <- "https://raw.githubusercontent.com/DS4PS/Data-Science-Class/master/DATA/syr_parcels.geojson"
-syr <- geojson_read( URL, method="local", what="sp" )
+syr <- geojson_read( URL, what="sp" )
 plot( syr,  border=NA, col="gray80" )
 ```
 
