@@ -5,6 +5,8 @@ output:
     theme: readable
     df_print: paged
     highlight: tango
+    include:
+      after_body: footer.html 
 ---
 
 ```{r setup, include=FALSE}
@@ -277,22 +279,6 @@ Your RMD file will not knit if you have errors in your code. If you get stuck on
 <br>
 <br>
 
-
-
-<div class="footer">
-<div class="row"  align="center">
-
-  Labs designed by <a href=https:lecy.info target="_blank">Jesse D. Lecy</a><br>
-  Content licensed under Creative Commons: <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/ target="_blank"> (CC BY-NC-SA 4.0)</a><br>
-  Source code is available on <a href=https://github.com/DS4PS target="_blank">GitHub</a><br>
-
-<br>
-<br>
-<br>
-<br>
-
-</div>
-</div>
 
 
 
