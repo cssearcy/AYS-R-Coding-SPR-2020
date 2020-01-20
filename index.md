@@ -5,7 +5,7 @@ title: Syllabus
 index:
     title: Coding in R for Policy Analytics
     image: r-logo.png
-    subtitle: This course introduces students to the field of data science and its applications in the public and nonprofit sectors. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offer a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. It will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
+    subtitle: This course introduces students to the field of data science and its applications in the public and nonprofit sectors. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offers a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. It will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
     
 info: 
  program_title: 
@@ -19,22 +19,22 @@ info:
  class_meets_when:  Online  
  class_meets_where:  
  review_sessions_when: 12:00 - 1:30 PM 
- review_sessions_where: 55 Park Pl, Rm 801
- discussion_board_url: 
+ review_sessions_where: 55 Park Pl, Rm 501
+ discussion_board_url: https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/ 
 
 instructor:
 -  name: Lorenzo Almada
    title: Clinical Assistant Professor
    email: lalmada1@gsu.edu
-   office_location: 55 Park Place, Ste. XXX
+   office_location: 55 Park Place, Ste. 682
    website_url: https://aysps.gsu.edu/profile/lorenzo-almada/
-   github_url:  
+   github_url: https://github.com/lalmada1 
    twitter_url: 
    scholar_url: 
    linked_in_url: https://www.linkedin.com/in/lorenzo-nicolas-almada-87351242/
-   office_hours_time: By Appointment
+   office_hours_time: By Appointment Via Email
    office_hours_location:  
-   office_hours_app_url:  lalmada1@gsu.edu
+   office_hours_app_url: 
 -  name: Cynthia Searcy
    title: Associate Dean
    email: csearcy@gsu.edu
@@ -47,7 +47,6 @@ instructor:
    office_hours_time: By Appointment
    office_hours_location:  
    office_hours_app_url:  'https://calendly.com/csearcy/30min'
-
 
 textbooks:
 - title: R Cookbook. Proven recipes
@@ -78,13 +77,7 @@ textbooks:
   
 --- 
 
-
-
-
-
-
-
-# I.  Course Description & Learning Objectives
+# I.  Course Description
 
 Data is an essential ingredient of any program evaluation or performance management system. Organizations that want to embrace an evidence-based approach to policy need to develop processes for gathering data, linking multiple datasets, running analysis, and sharing results with stakeholders through reports, dashboards, or web applications. The ability to collect, organize and analyze data is a desirable skill set for professional analysts, high-level management, and evaluators.
 
@@ -94,6 +87,8 @@ Typically only 10-20% of a project is spent analyzing data. The other 80-90% con
 
 This course, Coding in R for Policy Analytics, will cover the building blocks of data programming in R. We will learn about variables, operators, functions, dataset construction, group structure in data, and visualization. Students will also be introduced to markdown documents and automated reporting.
 
+## A. Learning Objectives
+
 The six learning objectives for the course are:
 
 - Mastery of functions as the building blocks of all R programs, including arguments and scope
@@ -102,7 +97,7 @@ The six learning objectives for the course are:
 - Ability to build custom visualizations through the base R graphics package
 - Creation of dynamic graphics and data dashboards using R shiny tools
 
-## Course Prerequisites
+## B. Course Prerequisites
 
 There are no prerequisites, and we do not assume any prior background in computer programming or statistics. Students should, however, have installed R and R Studio, and worked through a basic tutorial on R Studio.
 
@@ -110,15 +105,14 @@ There are no prerequisites, and we do not assume any prior background in compute
 
 Assessment of student performance in this course is based on indications that the course learning objectives stated above have been achieved.  Several areas of measurement will be used to produce a final grade.  These areas include:
 
-- The ability to build a custom dataset by important data from multiple sources, merging data, and reshaping, filtering or subsetting as necessary.
+- The ability to build a custom dataset from multiple sources, merging, reshaping, filtering, or subsetting as necessary.
 - Translating from plain English business cases to logical statements in R using logical operators and analytical techniques applied to groups.
 - Communicating information by developing custom visualizations and graphics.
 - Using markdown documents to generate data-driven reports and data dashboards.
 
-Students will demonstrate competency in understanding, producing and communicating results of their analyses through the following assignments:
+Students will demonstrate competency in understanding, producing, and communicating results of their analyses through the following assignments:
 
-- In-lecture assessment questions to ensure basic comprehension of key concepts and to help students and instructors track progress through the course.
-- Weekly labs that provide opportunities to consolidate and apply material from the lectures.
+- Weekly labs that provide opportunities to consolidate and apply material from course content.
 - Discussion topics on broad data science trends. 
 - A final project that integrates several skills to create a data dashboard. 
 
@@ -136,9 +130,9 @@ Online discussion boards are design for students to engage with the material tog
 
 ## B. Assigned Reading Materials
 
-We will use a custom textbook for this course available at the link above. 
+We will use a custom textbook for this course. 
 
-* [Course Textbook](https://ds4ps.org/cpp-526-fall-2019/textbook/)
+* [Course Textbook](https://ds4ps.org/dp4ss/)
 
 The following texts are recommended as good reference material for topics covered in this course:
 
@@ -148,7 +142,7 @@ The following texts are recommended as good reference material for topics covere
 * Peng, R. D., &amp; Matsui, E. (2015). _The Art of Data Science._ _A Guide for Anyone Who Works with Data._ Skybrude Consulting, 200, 162.  
 
 
-In addition to the required textbooks, the instructor will supplement the assigned unit readings with various journal articles, policy reports, or other related material. These will be made available in iCollege. Please be sure to set notifications in iCollege so that you receive emails when announcements are posted. 
+In addition to the required textbooks, the instructor may supplement the assigned unit readings with various journal articles, policy reports, or other related material. These will be made available in iCollege. Please be sure to set notifications in iCollege so that you receive emails when announcements are posted. 
 
 ## C. Course Grading
 
@@ -163,57 +157,41 @@ Letter grades comport with a traditional set of intervals:
 83 – 80%    |  B –  
 Below 80%   |  C, D, F  
 
-The assigned work for the term comes in the form of four elements, described below:
+The assigned work for the course has three elements:
 
 - **Weekly Labs (50%):**  Each week you will receive a short lab that will help you synthesize the modules from the week though exercises that involve data, analysis, and important formulas from the modules. These labs contain exercises that are similar in form or difficulty to what will be applied in the final project. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
 
-- **Final Dashboard Project (30%):**  This course will close with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating material the we have covered throughout the course.
+- **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
 
-- **Explainer Assignment (10%):**  You are invited to pick one topic from the class that you want to learn more about, or that you think might provide value to your classmates. Create a short tutorial to make your topic accessible to your peers. It can be a blog post, a video, a GIF, or a tutorial that explains an important concept from data programming, presents a helpful framework, illustrates a useful R tool or approach to data programming, or introduces classmates to a new package or function. **You will present this work in no more than 10 minutes in a Monday lab session.** After it is presented in a lab session, you will post it to the discussion board in iCollege. You will be able to sign up to be an "explainer" starting the second week of the course.
+- **Discussion Topics (20%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article on your own. We will use iCollege discussion boards for this assignment. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points each week are allocated as follows:
 
-- **Discussion Topics (10%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover go in-depth into exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article. We will use iCollege discussion boards for this assignment. You earn points through your activities on the board. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points are allocated as follows:
-
-  - 5 points for a new post with at least 50 words.
-  - 3 points for a substantive comment made to another student's post.
+  - 5 points for a new post with at least 200 words.
+  - 3 points for a substantive comment (> 50 words) made to another student's post.
   - 2 points if you receive a comment on your post.
-  - 5 points if you earn instructor praise for an informative post.
-  - max of 20 points can be earned each week.
+  - 3 points if you earn instructor praise for an informative post.
+  - max of 20 points can be earned each week.  
 
-<br>
+## D. Late and Missing Assignments
 
-## D. General Grading Rubric for Written Work
+Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. **Late submissions will be reduced by a full letter grade.**
 
-In general, any submitted written work (assignments and/or exams) is assessed on these criteria:
+## E.  Course Communication and Getting Help
 
-- Assignment completeness – all elements of the assignment are addressed
-- Quality of analysis – substantively rigorous in addressing the assignment
-- Demonstrated synthesis of core concepts from modules and ability to apply to new problems
+All course content is hosted on this website. Readings, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions will be made through iCollege and are due by 11:59pm on the due dates listed on the course schedule.** 
 
-Most assignments in this course are labs that are graded pass-fail based upon completeness and correctness of responses (every attempt must be made to complete labs, and they must be more than 50% correct to receive credit).  
-
-The final project will be accompanied by a rubric describing the allocation of points and criteria for evaluation. 
-
-## E. Late and Missing Assignments
-
-Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. Late submissions will be reduced by a full letter grade.
-
-## F.  Course Communication and Instructor Feedback
-
-**Course content** is hosted on this website. Modules, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions will be made through iCollege and are due by 11:59pm on the due dates listed on the course schedule.** 
-
-Please post lab questions on the [Get Help](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/) page on this site, schedule individual office hours using the Calendly links provided above, or email the instructor directly. 
+**You should make every attempt to attend weekly lab sessions to get help on lab work.** If you miss a lab session, please post questions on the [Get Help](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/) page on this site. You may also schedule individual office hours using the instructor links provided above, or you may email the instructor directly. 
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either written work or online discussion work, is between 5 and 10 work days.
 
-## G.  Student Conduct: Expectation of Professional Behavior
+## F.  Student Conduct
 
 Respectful conversations and tolerance of others&#39; opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course with no refund. Students are required to adhere to the behavior standards listed in the GSU Sudent Code of Conduct.
 
-## H.  Academic Integrity and Honesty
+## G.  Academic Integrity and Honesty
 
 GSU expects the highest standards of academic integrity. Violations of academic integrity include but are not limited to cheating, plagiarism, fabrication, etc. or facilitating any of these activities. This course relies heavily on writing and original critical thought. Any student who is suspected of not producing his or her own original work will be reported to the Dean of Students for investigation. **Plagiarism will not be tolerated**. **Any student who plagiarizes or otherwise fabricates his or her work will receive no credit for that assignment. It will be recorded as zero points—and the student will risk a failing grade for the course.** For more information, refer to the GSU Student Code of Conduct.
 
-## I.  Student Learning Environment: Accommodations
+## H.  Student Accommodations
 
 **Disability Accommodations:** If you have any condition, such as a physical or mental disability, which will make it difficult for you to carry out the work as outlined above or which will require extra time on assignments, please notify us in the first two weeks of the course so that we may make appropriate arrangements. Students who wish to request accommodation for a disability may do so by registering with the GSU Access & Accommodations Center (AACE). Students may only be accommodated upon issuance of a signed Accommodation Plan by AAACE. Students are responsible for providing a copy of that plan to instructors of all classes in which an accommodation is sought.
 
@@ -229,8 +207,6 @@ Please note: the course instructor may from time to time adjust assigned reading
 
 [Schedule](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/schedule/)
 
-## Course Schedule
-
 ### Week 0: R Data Science Toolkit 
 - CH-01 Core R 
 - CH-02 R Studio
@@ -238,25 +214,32 @@ Please note: the course instructor may from time to time adjust assigned reading
 
 ### Week 1: Functions and Vectors
 - CH-03, CH-04
+- Discussion Post
 - Lab #1 
 
 ### Week 2: Operators and Descriptives
+- Discussion Post
 - Lab #2 
 
 ### Week 3: Visualization
+- Discussion Post
 - Lab #3
 
 ### Week 4: Dynamic Visualization
+- Discussion Post
 - Lab #4 
 
 ### Week 5: Data Wrangling
+- Discussion Post
 - Lab #5
 
 ### Week 6: Data IO and Joins
+- Discussion Post
 - Lab #6
 
 ### Week 7: Dashboards
-- Start Final Project
+- Discussion Post
+- Submit Final Project
 
 
 <br>

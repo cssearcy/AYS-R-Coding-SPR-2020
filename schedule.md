@@ -78,15 +78,15 @@ You will have plenty of practice with these tools this semester. You will submit
 <br>
 
 
-*** { @unit = "Due Jan 17", @title = "Your Course Prep Checklist", @assignment, @foldout }
+*** { @unit = "Due Jan 16", @title = "Your Course Prep Checklist", @assignment, @foldout }
 
 
-- [ ] [Read the Syllabus](https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020/) 
+- [ ] [Read the Syllabus](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
 
 
-*** { @unit = "Due Jan 17", @title = "Introduce Yourself", @assignment, @foldout   }
+*** { @unit = "Due Jan 16", @title = "Introduce Yourself", @assignment, @foldout   }
 
 ## Introduce yourself to the class
 
@@ -120,7 +120,7 @@ We are going to throw a lot at you, but also provide a lot of support. Over thes
 If you find something confusing let me know (likely others will as well). 
 
 * It is **highly recommended that you join the in-person lab session each week.** It is scheduled on a Monday so that you have time to address your problems before labs are due. Make every attempt to join the lab if you're having problems. 
-* You can post a question to the [homework discussion board](https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020/help/).   
+* You can post a question to the [homework discussion board](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/).   
 
 Reach out if you have questions or feel stuck! 
 
@@ -194,7 +194,7 @@ table()                 # summarize factors / character vectors
 
 **Data**:
 
-Syracuse tax parcels: [ [documentation](https://ds4ps.org/Data-Science-Class/DATA/syr_parcels.html) ]
+Syracuse tax parcels: [documentation](https://ds4ps.org/Data-Science-Class/DATA/syr_parcels.html) ]
 
 ```r
 URL <- "https://raw.githubusercontent.com/DS4PS/Data-Science-Class/master/DATA/syr_parcels.csv"
@@ -229,21 +229,19 @@ So ignoring potential problems with big and open data for now, read about two in
 
 <br> 
 
-**ASSIGNMENT:** 
-
-> For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know and share it with the group.
+**For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know and share it with the group.**
 
 Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), or this short interview. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZTdPpoUp25w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-In your post, highlight what is interesting about the example and what data made it possible.
+**In your post, highlight what is interesting about the example and what data made it possible.** 
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on January 19.**
+**Due by 11:59pm on January 19.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
-
-
 
 *** { @unit = "Due Jan 23", @title = "Lab 01", @assignment, @foldout  }
 
@@ -290,12 +288,6 @@ In your post, highlight what is interesting about the example and what data made
 
 <br>
 <br>
-
-
-
-
-
-
 
 
 *** { @unit = "", @title = "Unit Overview", @reading, @foldout }
@@ -345,7 +337,7 @@ You might not have heard, but [nerd is the new black](https://www.wsj.com/articl
 
 But what is R, and what are the ~~nerds~~ cool kids using it for? 
 
-**This week, your task is to explore a few blogs about tools in R and find one package or application that you are excited about. It can be an analytics package, a graphics package, a specific application, or a tutorial on a topic that interests you. I don't expect you use of understand the package or tutorial, rather just identify a tool that would be useful given your interests.**
+**This week, your task is to explore a few blogs about tools in R and find one package or application that excites you. It can be an analytics package, a graphics package, a specific application, or a tutorial on a topic. I don't expect you to understand the package or tutorial, rather just identify a tool that will be useful given your interests.**
 
 Mine, personally, was the package that allows you to create comic strip graphics in R:
 
@@ -365,7 +357,9 @@ Take note, this assignment asks you to explore a new community where the technic
 
 <br>
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on January 26.**
+**Due by 11:59pm on January 26.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -505,13 +499,15 @@ The lab requires you to re-create a graph that was featured in the New York Time
 
 This week you will begin working in the core R graphics engine. This discussion topic offers an opportunity to explore some of the myriad [graphics packages in R](https://cran.r-project.org/web/views/Graphics.html).
 
-Your task is to select a specialized graphic that you could use in your own (hypothetical) research or professional life, then describe what data or topic from your own work the visualization would be useful for. Reference the R package you would need for the task.
+**Your task is to select a specialized graphic that you could use in your own (hypothetical) research or professional life, then describe what data or topic from your own work the visualization would be useful for. Reference the R package you would need for the task.**
 
-For example, I might say that I work creating budgets for a government organization. I could use a [Sankey Diagram](https://www.getrichslowly.org/sankey-diagrams/) from the [D3 Package](https://www.r-graph-gallery.com/sankey-diagram/) to visualize our budget. 
+For example, you might want to create budgets for a government organization. You could use a [Sankey Diagram](https://www.getrichslowly.org/sankey-diagrams/) from the [D3 Package](https://www.r-graph-gallery.com/sankey-diagram/) to visualize our budget. 
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 2.**
+**Due by 11:59pm on February 2.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -605,7 +601,7 @@ But we will now add an input widget that allows users to select one team that wi
 
 
 
-*** { @unit = "Due Feb 9", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due Feb 9", @title = "Discussion Topic: Bad Graphs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -618,11 +614,13 @@ There is a lot of science behind data visualization, but the art to storytelling
 
 Unfortunatly, it is much easier to create tragically bad graphics than it is to create good graphics. For your blog this week, read the *Calling Bullshit* overview on [proportional ink](https://callingbullshit.org/tools/tools_proportional_ink.html) and [misleading axes](https://callingbullshit.org/tools/tools_misleading_axes.html) to develop some sensitivity about misleading graphics. 
 
-Find a graph that violates one of these principles, or commits an equally egregious visualization crime. Share the graph and explain what offense has been committed. You might start by searching for "bad graphs" on google images. 
+**Find a graph that violates one of these principles, or commits an equally egregious visualization crime. Share the graph and explain what offense has been committed. You might start by searching for "bad graphs" on google images.** 
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 9.**
+**Due by 11:59pm on February 9.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 <br>
 <br>
 
@@ -712,7 +710,7 @@ Lab 05 will use data on traffic accidents in the City of Tempe:
 
 
 
-*** { @unit = "Due Feb 16", @title = "Discussion Topic Data APIs", @assignment, @foldout  }
+*** { @unit = "Due Feb 16", @title = "Discussion Topic: Data APIs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -725,7 +723,7 @@ Your skill level in data science can be measured by how quickly you can take a r
 
 Next week we will discuss some ways to get data into R. You can always download data from a website in its current format (CSV, SPSS, or Stata, etc.) then import it into R. Alternatively, it is typically more efficient to use an API.
 
-API stands for "Application Programming Interface", which is computer science jargon for the protocols that allow two applications to speak to each other. If you are using your mobile phone and you want to log into your bank using an app, an API will send your user credential and password to your bank, and will return information about your balances and transactions. In other words, APIs are structured ways of sending requests back and fourth between systems. The provide permission for external users to query some parts of internal databases (e.g. what is my checking account balance?), and control what information will be returned.
+API stands for "Application Programming Interface", which is computer science jargon for the protocols that allow two applications to speak to each other. If you are using your mobile phone and you want to log into your bank using an app, an API sends your user credential and password to your bank, and will return information about your balances and transactions. In other words, APIs are structured ways of sending requests back and fourth between systems. They provide permission for external users to query some parts of internal databases (e.g. what is my checking account balance?), and control what information will be returned.
 
 In some cases, organizations that host public datasets have created data APIs to make it easier to request and share the data. To see some examples visit the [Data Science Toolkit](http://www.datasciencetoolkit.org) website, and test out some APIs. In some cases you give some search parameters (such as a zip code), and it returns a new dataset (census data). In other cases, you send data (raw text), and the API sends you a processed version of the data (a sentiment score based upon words in the text). Thus APIs can be used both to access new data sources, as well as to clean or process your current data as part of your project.
 
@@ -739,9 +737,11 @@ For the discussion topic this week find an example of an API that could be usefu
 
 You can find APIs through a Google search, or browse datasets on the [DS4PS Open Data](https://ds4ps.org/data/) page. Altnernatively, you can report on a package in R that uses a data API and describe what kinds of data the package allows you to access. 
 
-*Note, you do not have to show how to use the API for the post, just identify what information is accessible and how it might be used.*
+*Note, you do not have to show how to use the API for the post. Just identify what information is accessible and how it might be used.*
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 16.**
+**Due by 11:59pm on February 16.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -822,7 +822,7 @@ We will join the Salaries table to player bios (Master table) and performance da
 
 
 
-*** { @unit = "Due Feb 23", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due Feb 23", @title = "Discussion Topic: Github for Govt", @assignment, @foldout  }
 
 <br>
 
@@ -872,11 +872,13 @@ plot( traffic, col="steelblue" )
 
 ![](assets/img/dc-traffic.png)
 
-For this week, read about how [GitHub has evolved to support government](https://readwrite.com/2014/08/14/github-government-ben-balter-open-source/).
+**For this week, read about how [GitHub has evolved to support government](https://readwrite.com/2014/08/14/github-government-ben-balter-open-source/).**
 
-Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws? 
+**Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws?** 
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on February 23.**
+**Due by 11:59pm on February 23.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br><br>
 
@@ -915,12 +917,12 @@ This lab is designed to introduce you to primary data join functions in R.
 <br>
 
 
-*** { @unit = "Due Mar 1", @title = "Code-Through Assignment", @assignment, @foldout  }
+*** { @unit = "Due Mar 1", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
 
 <br>
 <br>
 
-## Code-Through
+## Discussion Topic: Code-Through
 
 Since you are sharing your code-through with your classmates on iCollege, it will serve as your discussion topic this week.
 
@@ -928,13 +930,15 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/code-through-assignment.html">Code-Through Instructions</a>
 
-**[Post on iCollege](https://gastate.view.usg.edu/d2l/le/2013035/discussions/List) by 11:59pm on March 1.**
+**Due by 11:59pm on March 1.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
 
 
-*** { @unit = "Due Mar 2", @title = "FINAL PROJECT", @assignment, @foldout  }
+*** { @unit = "Due Mar 2", @title = "Final Project: Data Dashboard", @assignment, @foldout  }
 
 <br>
 <br>
