@@ -256,11 +256,12 @@ blockquote {
 }
 
 .footer {
-  background-color:#726e6e;
-  height:150px;
   color:white;
-  padding: 20px 3px 20px 3px;
-  margin:0px;
+  min-height: 340px;
+  background-color: #696969;
+  padding-bottom: 3em;
+  padding-top: 3em;
+  margin: auto;
 }
 
 .footer a {
@@ -278,30 +279,30 @@ blockquote {
 }
      
 .footerFloatOuter {
-	width: 100%;
-	float: none;
+	width: 25%;
+	float: left;
 }
 
 .footerFloatInner1 {
-	width: 100%;
-	float: none;
-  text-align: center;
-	margin-left: 10px;
+	width: 20%;
+	float: left;
+	align: left;
+	margin-left: 0px;
 }
 
 .footerFloatInner2 {
-	width: 100%;
-	float: none;
-  text-align: center;
+	width: 50%;
+	float: left;
+	text-align: left;
 }
 
 
 
 .footer ul li {
 	font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-  font-size:calc(0.75em + 0.25vw) !important;
+  font-size:calc(0.55em + 0.25vw) !important;
   font-weight:300;
-  line-height:1.6 !important;
+  line-height:1.2 !important;
   color: #FFF;
 	text-transform: uppercase;
 }
