@@ -5,6 +5,8 @@ output:
     theme: readable
     df_print: paged
     highlight: tango
+    include:
+      after_body: footer.html
 ---
 
 
@@ -13,9 +15,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE, message=F, warning=F)
 ```
 
-
-
-#### [DS4PS](https://ds4ps.org/cpp-526-fall-2019/)
 
 <br>
 
