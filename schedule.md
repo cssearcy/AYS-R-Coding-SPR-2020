@@ -387,7 +387,7 @@ Read the following sections from the [course chapter on groups](http://ds4ps.org
 
 The rest of the chapter is useful information to come back to, but not needed for the lab. Similar to last week the chapter will highlight some easy ways to make errors with your code, not to convince you that R is hard, but rather to ensure you are paying attention to some subtle features of computer languages that can impact your data. 
 
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-02-instructions.html">LAB-02 Instructions</a>
+<a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-02-instructions.html">LAB-02 Instructions</a>
 
 **Submit Solutions to the iCollege Assignment Folder by 11:59pm on January 30.**
 
