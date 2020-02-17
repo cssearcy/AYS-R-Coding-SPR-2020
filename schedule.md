@@ -759,7 +759,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 *Note, this data will be used for your final dashboard. This assignment is a preview of the types of analysis and graphics you might report on the dashboard.*
 
-<a class="uk-button uk-button-default" href="https://github.com/cssearcy/AYS-R-Coding-SPR-2020/blob/master/LABS/lab-05-instructions_new.html">LAB-05 Instructions</a>
+<a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-05-instructions_new.html">LAB-05 Instructions</a>
 
 **Submit solutions to the iCollege Assignment Folder by 11:59pm on February 20.**
 
