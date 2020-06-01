@@ -22,30 +22,16 @@ info:
  discussion_board_url: https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/ 
 
 instructor:
--  name: Lorenzo Almada
-   title: Clinical Assistant Professor
-   email: lalmada1@gsu.edu
-   office_location: 55 Park Place, Ste. 682
-   website_url: https://aysps.gsu.edu/profile/lorenzo-almada/
-   github_url: https://github.com/lalmada1 
-   twitter_url: 
-   scholar_url: 
-   linked_in_url: https://www.linkedin.com/in/lorenzo-nicolas-almada-87351242/
-   office_hours_time: By Appointment Via Email
-   office_hours_location:  
-   office_hours_app_url: 
--  name: Cynthia Searcy
-   title: Associate Dean
-   email: csearcy@gsu.edu
-   office_location: 14 Marietta Street, Ste. 629
-   website_url:
-   github_url: 'https://github.com/cssearcy' 
-   twitter_url: 
-   scholar_url: 
-   linked_in_url: https://www.linkedin.com/in/cynthia-searcy-a2a040172/
-   office_hours_time: By Appointment
-   office_hours_location:  
-   office_hours_app_url:  'https://calendly.com/csearcy/30min'
+-  name: Jamison Crawford
+   title: Associate Faculty
+   email: jcrawford52@gsu.edu
+   office_location: 55 Park Place NE #320
+   website_url: 'https://rpubs.com/jamisoncrawford'
+   github_url: 'https://github.com/jamisoncrawford' 
+   linked_in_url: 'https://www.linkedin.com/in/jamisoncrawford/'
+   office_hours_time: 5:30 - 7:30 PM EST; Sun, Mon, Tues, Thur
+   office_hours_location:  Online
+   office_hours_app_url:  'https://calendly.com/jamisoncrawford/20min'
 
 textbooks:
 - title: R Cookbook. Proven recipes
@@ -205,40 +191,6 @@ This course spans a rigorous seven week schedule. A schedule for each week of th
 Please note: the course instructor may from time to time adjust assigned readings or adjust the due dates for assignment. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
 [Schedule](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/schedule/)
-
-### Week 0: R Data Science Toolkit 
-- CH-01 Core R 
-- CH-02 R Studio
-- CH-03 Data-Driven Docs & RMD
-
-### Week 1: Functions and Vectors
-- CH-03, CH-04
-- Discussion Post
-- Lab #1 
-
-### Week 2: Operators and Descriptives
-- Discussion Post
-- Lab #2 
-
-### Week 3: Visualization
-- Discussion Post
-- Lab #3
-
-### Week 4: Dynamic Visualization
-- Discussion Post
-- Lab #4 
-
-### Week 5: Data Wrangling
-- Discussion Post
-- Lab #5
-
-### Week 6: Data IO and Joins
-- Discussion Post
-- Lab #6
-
-### Week 7: Dashboards
-- Discussion Post
-- Submit Final Project
 
 
 <br>
