@@ -78,7 +78,7 @@ You will have plenty of practice with these tools this semester. You will submit
 <br>
 
 
-*** { @unit = "Due Jan 16", @title = "Your Course Prep Checklist", @assignment, @foldout }
+*** { @unit = "Due June 11", @title = "Your Course Prep Checklist", @assignment, @foldout }
 
 
 - [ ] [Read the Syllabus](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/) 
@@ -86,7 +86,7 @@ You will have plenty of practice with these tools this semester. You will submit
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
 
 
-*** { @unit = "Due Jan 16", @title = "Introduce Yourself", @assignment, @foldout   }
+*** { @unit = "Due June 14", @title = "Introduce Yourself", @assignment, @foldout   }
 
 ## Introduce yourself to the class
 
@@ -213,7 +213,7 @@ head( dat )
 
 
 
-*** { @unit = "Due Jan 19", @title = "Discussion Topic: The Promise of Big and Open Data", @assignment, @foldout  }
+*** { @unit = "Due June 18", @title = "Discussion Topic: The Promise of Big and Open Data", @assignment, @foldout  }
 
 ## The Promise of Big, Open Data
 
@@ -237,13 +237,13 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 **In your post, highlight what is interesting about the example and what data made it possible.** 
 
-**Due by 11:59pm on January 19.**
+**Due by 11:59pm on June 21.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
 
-*** { @unit = "Due Jan 23", @title = "Lab 01", @assignment, @foldout  }
+*** { @unit = "Due June 21", @title = "Lab 01", @assignment, @foldout  }
 
 
 <br>
@@ -327,7 +327,7 @@ Lab-02 covers the following topics:
 
 
 
-*** { @unit = "Due Jan 26", @title = "Discussion Topic: A Tour of R Packages", @assignment, @foldout  }
+*** { @unit = "Due June 25", @title = "Discussion Topic: A Tour of R Packages", @assignment, @foldout  }
 
 <br>
 
@@ -357,7 +357,7 @@ Take note, this assignment asks you to explore a new community where the technic
 
 <br>
 
-**Due by 11:59pm on January 26.**
+**Due by 11:59pm on June 28.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -368,7 +368,7 @@ Take note, this assignment asks you to explore a new community where the technic
 
 
 
-*** { @unit = "Due Jan 30", @title = "Lab 02", @assignment, @foldout }
+*** { @unit = "Due June 28", @title = "Lab 02", @assignment, @foldout }
 
 <br>
 <br>
@@ -490,7 +490,7 @@ The lab requires you to re-create a graph that was featured in the New York Time
 
 
 
-*** { @unit = "Due Feb 2", @title = "Discussion Topic: Data Viz Packages", @assignment, @foldout  }
+*** { @unit = "Due July 2", @title = "Discussion Topic: Data Viz Packages", @assignment, @foldout  }
 
 <br>
 <br>
@@ -505,7 +505,7 @@ For example, you might want to create budgets for a government organization. You
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
-**Due by 11:59pm on February 2.**
+**Due by 11:59pm on July 5.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -515,7 +515,7 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 
 
 
-*** { @unit = "Due Feb 6", @title = "Lab 03", @assignment, @foldout  }
+*** { @unit = "Due July 5", @title = "Lab 03", @assignment, @foldout  }
 
 <br>
 <br>
@@ -601,7 +601,7 @@ But we will now add an input widget that allows users to select one team that wi
 
 
 
-*** { @unit = "Due Feb 9", @title = "Discussion Topic: Bad Graphs", @assignment, @foldout  }
+*** { @unit = "Due July 9", @title = "Discussion Topic: Bad Graphs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -618,7 +618,7 @@ Unfortunatly, it is much easier to create tragically bad graphics than it is to 
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
-**Due by 11:59pm on February 9.**
+**Due by 11:59pm on July 12.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 <br>
@@ -642,7 +642,7 @@ For more widget examples visit the [R Shiny Widget Gallery](https://shiny.rstudi
 
 
 
-*** { @unit = "Due Feb 13", @title = "Lab 04", @assignment, @foldout  }
+*** { @unit = "Due July 12", @title = "Lab 04", @assignment, @foldout  }
 
 
 <br>
@@ -710,7 +710,7 @@ Lab 05 will use data on traffic accidents in the City of Tempe:
 
 
 
-*** { @unit = "Due Feb 16", @title = "Discussion Topic: Data APIs", @assignment, @foldout  }
+*** { @unit = "Due July 16", @title = "Discussion Topic: Data APIs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -739,7 +739,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 *Note, you do not have to show how to use the API for the post. Just identify what information is accessible and how it might be used.*
 
-**Due by 11:59pm on February 16.**
+**Due by 11:59pm on July 19.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -748,7 +748,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 
 
-*** { @unit = "Due Feb 20", @title = "Lab 05", @assignment, @foldout  }
+*** { @unit = "Due July 19", @title = "Lab 05", @assignment, @foldout  }
 
 <br>
 <br>
@@ -822,7 +822,7 @@ We will join the Salaries table to player bios (Master table) and performance da
 
 
 
-*** { @unit = "Due Feb 23", @title = "Discussion Topic: Github for Govt", @assignment, @foldout  }
+*** { @unit = "Due July 23", @title = "Discussion Topic: Github for Govt", @assignment, @foldout  }
 
 <br>
 
@@ -876,14 +876,14 @@ plot( traffic, col="steelblue" )
 
 **Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws?** 
 
-**Due by 11:59pm on February 23.**
+**Due by 11:59pm on July 23.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br><br>
 
 
-*** { @unit = "Due Feb 27", @title = "Lab 06", @assignment, @foldout  }
+*** { @unit = "Due July 26", @title = "Lab 06", @assignment, @foldout  }
 
 <br>
 <br>
@@ -917,7 +917,7 @@ This lab is designed to introduce you to primary data join functions in R.
 <br>
 
 
-*** { @unit = "Due Mar 1", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
+*** { @unit = "Due July 30", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
 
 <br>
 <br>
@@ -930,7 +930,7 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/code-through-assignment.html">Code-Through Instructions</a>
 
-**Due by 11:59pm on March 1.**
+**Due by 11:59pm on July 30.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -938,7 +938,7 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 <br>
 
 
-*** { @unit = "Due Mar 2", @title = "Final Project: Data Dashboard", @assignment, @foldout  }
+*** { @unit = "Due July 31", @title = "Final Project: Data Dashboard", @assignment, @foldout  }
 
 <br>
 <br>
