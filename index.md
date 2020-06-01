@@ -14,11 +14,10 @@ info:
  course_number: ECON 8000/PMAP 8921 
  course_level: Graduate 
  course_website: 'https://gastate.view.usg.edu/d2l/home/2013035'
- course_start_end_dates: Jan 13 to Mar 2, 2020  
+ course_start_end_dates: June 7 to July 26, 2021 
  course_prerequisites:  
  class_meets_when:  Online  
- class_meets_where:  
- review_sessions_when: 12:00 - 1:30 PM 
+ class_meets_where:  Online
  review_sessions_where: 55 Park Pl, Rm 501
  discussion_board_url: https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/ 
 
