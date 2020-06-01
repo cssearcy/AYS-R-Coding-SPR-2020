@@ -29,7 +29,7 @@ instructor:
    website_url: 'https://rpubs.com/jamisoncrawford'
    github_url: 'https://github.com/jamisoncrawford' 
    linked_in_url: 'https://www.linkedin.com/in/jamisoncrawford/'
-   office_hours_time: Click to View
+   office_hours_time: 
    office_hours_location:  Online
    office_hours_app_url:  'https://calendly.com/jamisoncrawford/20min'
 
