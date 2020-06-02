@@ -327,7 +327,7 @@ Lab-02 covers the following topics:
 
 
 
-*** { @unit = "Due June 25", @title = "Discussion Topic: A Tour of R Packages", @assignment, @foldout  }
+*** { @unit = "Due June 21", @title = "Discussion Topic: A Tour of R Packages", @assignment, @foldout  }
 
 <br>
 
@@ -490,7 +490,7 @@ The lab requires you to re-create a graph that was featured in the New York Time
 
 
 
-*** { @unit = "Due July 2", @title = "Discussion Topic: Data Viz Packages", @assignment, @foldout  }
+*** { @unit = "Due June 28", @title = "Discussion Topic: Data Viz Packages", @assignment, @foldout  }
 
 <br>
 <br>
@@ -601,7 +601,7 @@ But we will now add an input widget that allows users to select one team that wi
 
 
 
-*** { @unit = "Due July 9", @title = "Discussion Topic: Bad Graphs", @assignment, @foldout  }
+*** { @unit = "Due July 5", @title = "Discussion Topic: Bad Graphs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -710,7 +710,7 @@ Lab 05 will use data on traffic accidents in the City of Tempe:
 
 
 
-*** { @unit = "Due July 16", @title = "Discussion Topic: Data APIs", @assignment, @foldout  }
+*** { @unit = "Due July 12", @title = "Discussion Topic: Data APIs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -822,7 +822,7 @@ We will join the Salaries table to player bios (Master table) and performance da
 
 
 
-*** { @unit = "Due July 23", @title = "Discussion Topic: Github for Govt", @assignment, @foldout  }
+*** { @unit = "Due July 19", @title = "Discussion Topic: Github for Govt", @assignment, @foldout  }
 
 <br>
 
