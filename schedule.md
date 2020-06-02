@@ -213,7 +213,7 @@ head( dat )
 
 
 
-*** { @unit = "Due June 21", @title = "Discussion Topic: The Promise of Big and Open Data", @assignment, @foldout  }
+*** { @unit = "Due June 14", @title = "Discussion Topic: The Promise of Big and Open Data", @assignment, @foldout  }
 
 ## The Promise of Big, Open Data
 
@@ -243,7 +243,7 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 <br>
 
-*** { @unit = "Due June 21", @title = "Lab 01", @assignment, @foldout  }
+*** { @unit = "Due June 18", @title = "Lab 01", @assignment, @foldout  }
 
 
 <br>
@@ -357,7 +357,7 @@ Take note, this assignment asks you to explore a new community where the technic
 
 <br>
 
-**Due by 11:59pm on June 28.**
+**Due by 11:59pm on June 25.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -368,7 +368,7 @@ Take note, this assignment asks you to explore a new community where the technic
 
 
 
-*** { @unit = "Due June 28", @title = "Lab 02", @assignment, @foldout }
+*** { @unit = "Due June 25", @title = "Lab 02", @assignment, @foldout }
 
 <br>
 <br>
@@ -505,7 +505,7 @@ For example, you might want to create budgets for a government organization. You
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
-**Due by 11:59pm on July 5.**
+**Due by 11:59pm on July 2.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -515,7 +515,7 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 
 
 
-*** { @unit = "Due July 5", @title = "Lab 03", @assignment, @foldout  }
+*** { @unit = "Due July 2", @title = "Lab 03", @assignment, @foldout  }
 
 <br>
 <br>
@@ -618,7 +618,7 @@ Unfortunatly, it is much easier to create tragically bad graphics than it is to 
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
-**Due by 11:59pm on July 12.**
+**Due by 11:59pm on July 9.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 <br>
@@ -642,7 +642,7 @@ For more widget examples visit the [R Shiny Widget Gallery](https://shiny.rstudi
 
 
 
-*** { @unit = "Due July 12", @title = "Lab 04", @assignment, @foldout  }
+*** { @unit = "Due July 9", @title = "Lab 04", @assignment, @foldout  }
 
 
 <br>
@@ -739,7 +739,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 *Note, you do not have to show how to use the API for the post. Just identify what information is accessible and how it might be used.*
 
-**Due by 11:59pm on July 19.**
+**Due by 11:59pm on July 16.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -748,7 +748,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 
 
-*** { @unit = "Due July 19", @title = "Lab 05", @assignment, @foldout  }
+*** { @unit = "Due July 16", @title = "Lab 05", @assignment, @foldout  }
 
 <br>
 <br>
@@ -883,7 +883,7 @@ plot( traffic, col="steelblue" )
 <br><br>
 
 
-*** { @unit = "Due July 26", @title = "Lab 06", @assignment, @foldout  }
+*** { @unit = "Due July 23", @title = "Lab 06", @assignment, @foldout  }
 
 <br>
 <br>
@@ -894,7 +894,7 @@ This lab is designed to introduce you to primary data join functions in R.
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-06-instructions.html">LAB-06 Instructions</a>
 
-**Submit solutions to the iCollege Assignment Folder by 11:59pm on February 27.**
+**Submit solutions to the iCollege Assignment Folder by 11:59pm on July 23.**
 
 <br>
 <br>
@@ -917,7 +917,7 @@ This lab is designed to introduce you to primary data join functions in R.
 <br>
 
 
-*** { @unit = "Due July 30", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
+*** { @unit = "Due July 31", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
 
 <br>
 <br>
@@ -930,7 +930,7 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/code-through-assignment.html">Code-Through Instructions</a>
 
-**Due by 11:59pm on July 30.**
+**Due by 11:59pm on July 31.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -950,7 +950,7 @@ Working with the crash data from Lab-05, you will extend the work you began in L
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/final-project-instructions.html">Final Project Instructions</a>
 
-**Submit your project to the iCollege Assignment Folder by 11:59pm on March 2.**
+**Submit your project to the iCollege Assignment Folder by 11:59pm on July 31.**
 
 <br>
 <br>
