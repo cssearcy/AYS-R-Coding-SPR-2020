@@ -28,7 +28,21 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 ** Welcome
 
+*** { @unit = "", @title = "Meet Your Instructor", @lecture, @foldout }
 
+<br>
+
+## Introduction
+
+Play the video below to learn a bit more about Jamison Crawford, your instructor for Coding in R for Policy Analytics.
+
+<br>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Abe4rd5vrvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+<br>
 
 *** { @unit = "", @title = "The R Toolkit", @reading, @foldout }
 
