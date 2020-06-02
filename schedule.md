@@ -237,7 +237,7 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 **In your post, highlight what is interesting about the example and what data made it possible.** 
 
-**Due by 11:59pm on June 18.**
+**Due by 11:59pm on June 14.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -253,7 +253,7 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 <a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-01-instructions.html">LAB-01 Instructions</a>
 
-**Submit Solutions to the iCollege Assignment Folder by 11:59pm on January 23.**
+**Submit Solutions to the iCollege Assignment Folder by 11:59pm on January 25.**
 
 <br>
 <br>
@@ -357,7 +357,7 @@ Take note, this assignment asks you to explore a new community where the technic
 
 <br>
 
-**Due by 11:59pm on June 25.**
+**Due by 11:59pm on June 21.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -389,7 +389,7 @@ The rest of the chapter is useful information to come back to, but not needed fo
 
 <a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-02-instructions.html">LAB-02 Instructions</a>
 
-**Submit Solutions to the iCollege Assignment Folder by 11:59pm on January 30.**
+**Submit Solutions to the iCollege Assignment Folder by 11:59pm on June 25.**
 
 <br>
 <br>
@@ -505,7 +505,7 @@ For example, you might want to create budgets for a government organization. You
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
-**Due by 11:59pm on July 2.**
+**Due by 11:59pm on June 28.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -531,7 +531,7 @@ You are advised to **skim** the chapters on graphing functions and custom graphi
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-03-instructions.html">LAB-03 Instructions</a>
 
-**Submit solutions to the iCollege Assignment Folder by 11:59pm on February 6.**
+**Submit solutions to the iCollege Assignment Folder by 11:59pm on July 2.**
 
 <br>
 <br>
@@ -654,7 +654,7 @@ This lab is designed to introduce you to R Shiny functions by adding a dynamic e
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-04-instructions.html">LAB-04 Instructions</a>
 
-**Submit solutions to the iCollege Assignments Folder by 11:59pm on February 13.**
+**Submit solutions to the iCollege Assignments Folder by 11:59pm on July 9.**
 
 <br>
 <br>
@@ -761,7 +761,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 <a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-05-instructions_new.html">LAB-05 Instructions</a>
 
-**Submit solutions to the iCollege Assignment Folder by 11:59pm on February 20.**
+**Submit solutions to the iCollege Assignment Folder by 11:59pm on July 12.**
 
 <br>
 <br>
@@ -876,7 +876,7 @@ plot( traffic, col="steelblue" )
 
 **Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws?** 
 
-**Due by 11:59pm on July 23.**
+**Due by 11:59pm on July 19.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
