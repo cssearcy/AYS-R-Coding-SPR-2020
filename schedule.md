@@ -86,7 +86,7 @@ You will have plenty of practice with these tools this semester. You will submit
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
 
 
-*** { @unit = "Due June 14", @title = "Introduce Yourself", @assignment, @foldout   }
+*** { @unit = "Due June 11", @title = "Introduce Yourself", @assignment, @foldout   }
 
 ## Introduce yourself to the class
 
@@ -213,7 +213,7 @@ head( dat )
 
 
 
-*** { @unit = "Due June 18", @title = "Discussion Topic: The Promise of Big and Open Data", @assignment, @foldout  }
+*** { @unit = "Due June 21", @title = "Discussion Topic: The Promise of Big and Open Data", @assignment, @foldout  }
 
 ## The Promise of Big, Open Data
 
@@ -237,7 +237,7 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 **In your post, highlight what is interesting about the example and what data made it possible.** 
 
-**Due by 11:59pm on June 21.**
+**Due by 11:59pm on June 18.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
