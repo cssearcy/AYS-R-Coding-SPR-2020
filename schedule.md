@@ -39,7 +39,7 @@ Play the video below to learn a bit more about Jamison Crawford, your instructor
 <br>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Abe4rd5vrvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Abe4rd5vrvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
