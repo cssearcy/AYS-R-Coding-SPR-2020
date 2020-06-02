@@ -253,7 +253,7 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 <a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-01-instructions.html">LAB-01 Instructions</a>
 
-**Submit Solutions to the iCollege Assignment Folder by 11:59pm on January 25.**
+**Submit Solutions to the iCollege Assignment Folder by 11:59pm on June 18.**
 
 <br>
 <br>
@@ -618,7 +618,7 @@ Unfortunatly, it is much easier to create tragically bad graphics than it is to 
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
-**Due by 11:59pm on July 9.**
+**Due by 11:59pm on July 5.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 <br>
@@ -739,7 +739,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 *Note, you do not have to show how to use the API for the post. Just identify what information is accessible and how it might be used.*
 
-**Due by 11:59pm on July 16.**
+**Due by 11:59pm on July 12.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
@@ -761,7 +761,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 <a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-05-instructions_new.html">LAB-05 Instructions</a>
 
-**Submit solutions to the iCollege Assignment Folder by 11:59pm on July 12.**
+**Submit solutions to the iCollege Assignment Folder by 11:59pm on July 16.**
 
 <br>
 <br>
@@ -951,6 +951,8 @@ Working with the crash data from Lab-05, you will extend the work you began in L
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/final-project-instructions.html">Final Project Instructions</a>
 
 **Submit your project to the iCollege Assignment Folder by 11:59pm on July 31.**
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
