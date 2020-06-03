@@ -34,7 +34,23 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 ## Introduction
 
-Play the video below to learn a bit more about Jamison Crawford, your instructor for Coding in R for Policy Analytics.
+Jamison Crawford is an institutional researcher at *The Graduate School at Georgia State University* and *Center for the Advancement of Students & Alumni (CASA)*, instructs Foundations of Data Science at *Arizona State University's Watts College*, and consults social sector organizations in data analytics, specializing in nonprofit and philanthropic organizations.
+
+<br>
+
+He is the co-author of this course's textbook, "Data Science for Public Service (DS4PS)", and has taught R and other data analytic tools to social sector professionals since 2016.  Visit the links below to view Jamison's portfolios and professional media:
+
+* [LinkedIn Profile](https://www.linkedin.com/in/jamisoncrawford/)
+
+* [RPubs Portfolio](https://rpubs.com/JamisonCrawford)
+
+* [GitHub Profile](https://github.com/jamisoncrawford)
+
+<br>
+
+## A Little About Me
+
+View the following video to learn more about Jamison.
 
 <br>
 <br>
