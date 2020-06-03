@@ -928,7 +928,7 @@ This lab is designed to introduce you to primary data join functions in R.
 <br>
 
 
-*** { @unit = "Due July 31", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
+*** { @unit = "Due July 26", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
 
 <br>
 <br>
@@ -941,7 +941,7 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/code-through-assignment.html">Code-Through Instructions</a>
 
-**Due by 11:59pm on July 31.**
+**Due by 11:59pm on July 26.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
 
