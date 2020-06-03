@@ -275,6 +275,8 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 <a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-01-instructions.html">LAB-01 Instructions</a>
 
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+
 **Submit Solutions to the iCollege Assignment Folder by 11:59pm on June 18.**
 
 <br>
@@ -410,6 +412,8 @@ Read the following sections from the [course chapter on groups](http://ds4ps.org
 The rest of the chapter is useful information to come back to, but not needed for the lab. Similar to last week the chapter will highlight some easy ways to make errors with your code, not to convince you that R is hard, but rather to ensure you are paying attention to some subtle features of computer languages that can impact your data. 
 
 <a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-02-instructions.html">LAB-02 Instructions</a>
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
 **Submit Solutions to the iCollege Assignment Folder by 11:59pm on June 25.**
 
@@ -553,6 +557,8 @@ You are advised to **skim** the chapters on graphing functions and custom graphi
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-03-instructions.html">LAB-03 Instructions</a>
 
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+
 **Submit solutions to the iCollege Assignment Folder by 11:59pm on July 2.**
 
 <br>
@@ -676,6 +682,8 @@ This lab is designed to introduce you to R Shiny functions by adding a dynamic e
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-04-instructions.html">LAB-04 Instructions</a>
 
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+
 **Submit solutions to the iCollege Assignments Folder by 11:59pm on July 9.**
 
 <br>
@@ -782,6 +790,8 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 *Note, this data will be used for your final dashboard. This assignment is a preview of the types of analysis and graphics you might report on the dashboard.*
 
 <a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-05-instructions_new.html">LAB-05 Instructions</a>
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
 **Submit solutions to the iCollege Assignment Folder by 11:59pm on July 16.**
 
@@ -916,6 +926,8 @@ This lab is designed to introduce you to primary data join functions in R.
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-06-instructions.html">LAB-06 Instructions</a>
 
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+
 **Submit solutions to the iCollege Assignment Folder by 11:59pm on July 23.**
 
 <br>
@@ -952,6 +964,8 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/code-through-assignment.html">Code-Through Instructions</a>
 
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+
 **Due by 11:59pm on July 26.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
@@ -971,6 +985,8 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 Working with the crash data from Lab-05, you will extend the work you began in Lab-04 by creating a dynamic data dashboard that will be used to search for patterns in Tempe crash data.
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/final-project-instructions.html">Final Project Instructions</a>
+
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
 **Submit your project to the iCollege Assignment Folder by 11:59pm on July 31.**
 
