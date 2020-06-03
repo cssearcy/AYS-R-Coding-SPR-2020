@@ -21,13 +21,6 @@ library( pander )
 *This lab introduces core plotting functions in order to create customized graphics in R.*
 
 
-
-You can create a new RMarkdown file, or download the **LAB-03 RMD template**: 
-
-
-[![](images/download.png)](https://www.dropbox.com/s/uz4m8bptbtip8x3/lab-03-template.rmd?dl=1)
-
-
 --- 
 
 <br><br>
