@@ -34,7 +34,7 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 ## Introduction
 
-Jamison Crawford is an institutional researcher at *The Graduate School at Georgia State University* and *Center for the Advancement of Students & Alumni (CASA)*, instructs Foundations of Data Science at *Arizona State University's Watts College*, and consults social sector organizations in data analytics, specializing in nonprofit and philanthropic organizations.
+**Jamison Crawford, MPA** is an institutional researcher at *The Graduate School at Georgia State University* and *Center for the Advancement of Students & Alumni (CASA)*, instructs Foundations of Data Science at *Arizona State University's Watts College*, and consults social sector organizations in data analytics, specializing in nonprofit and philanthropic organizations.
 
 He is the co-author of this course's textbook, "Data Science for Public Service (DS4PS)", and has taught R and other data analytic tools to social sector professionals since 2016.  Visit the links below to view Jamison's portfolios and professional media:
 
