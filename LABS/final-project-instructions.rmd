@@ -17,9 +17,7 @@ library( pander )
 
 <br>
 
-A dashboard template has been provided:
-
-[![](images/download.png)](https://www.dropbox.com/s/9l2kdaxk942q6ob/final-project-dashboard-template.rmd?dl=1)
+A dashboard template has been provided.  See the link in the Course Schedule.
 
 
 
