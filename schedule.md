@@ -126,7 +126,7 @@ We will be using the discussion board in iCollege for this course. Introduce you
 
 
 
-*** { @unit = "", @title = "Orientation", @reading, @foldout   }
+*** { @unit = "", @title = "Orientation", @lecture, @foldout   }
 
 
 ## Welcome !
