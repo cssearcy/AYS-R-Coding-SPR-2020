@@ -18,7 +18,7 @@ info:
  course_prerequisites:  
  class_meets_when:  Online  
  class_meets_where:  Online
- review_sessions_where: 55 Park Pl, Rm 501
+ review_sessions_where: Online
  discussion_board_url: https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/ 
 
 instructor:
@@ -148,17 +148,19 @@ The assigned work for the course has three elements:
 
 - **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
 
-- **Discussion Topics (20%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article on your own. We will use iCollege discussion boards for this assignment. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points each week are allocated as follows:
+- **Code-Through Project (10%):**  In addition to the final dashboard project, you will be asked to complete a "Code Through", or tutorial of sorts, in R Markdown. This tutorial is an introduction to a new concept, technique, function, package, or dataset in R that has not been covered in this course.  See the Course Schedule for more details.
 
-  - 5 points for a new post with at least 200 words.
-  - 3 points for a substantive comment (> 50 words) made to another student's post.
-  - 2 points if you receive a comment on your post.
-  - 3 points if you earn instructor praise for an informative post.
-  - max of 20 points can be earned each week.  
+- **Discussion Topics (10%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article on your own. We will use iCollege discussion boards for this assignment. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points each week are allocated as follows:
+
+  - 5 points for a new post with at least 200 words
+  - 3 points for a substantive comment (> 50 words) made to another student's post
+  - 2 points if you receive a comment on your post
+  - 3 points if you earn instructor praise for an informative post
+  - Max of 20 points can be earned each week
 
 ## D. Late and Missing Assignments
 
-Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. **Late submissions will be reduced by a full letter grade.**
+Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. **Late submissions will be reduced by one point per day late, rounding up.**
 
 ## E.  Course Communication and Getting Help
 
