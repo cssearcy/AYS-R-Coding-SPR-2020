@@ -142,7 +142,7 @@ Letter grades comport with a traditional set of intervals:
 83 – 80%    |  B –  
 Below 80%   |  C, D, F  
 
-The assigned work for the course has three elements:
+The assigned work for the course has four components:
 
 - **Weekly Labs (50%):**  Each week you will receive a short lab that will help you synthesize the modules from the week though exercises that involve data, analysis, and important formulas from the modules. These labs contain exercises that are similar in form or difficulty to what will be applied in the final project. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
 
