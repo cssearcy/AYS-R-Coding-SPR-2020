@@ -109,7 +109,7 @@ You will have plenty of practice with these tools this semester. You will submit
 - [ ] [Read the Syllabus](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
-- [ ] [View the Vitual Orientation](https://www.youtube.com/watch?v=cyrAovBCt4Q&feature=youtu.be) 
+- [ ] [View the Virtual Orientation](https://www.youtube.com/watch?v=cyrAovBCt4Q&feature=youtu.be) 
 
 
 *** { @unit = "Due June 11", @title = "Introduce Yourself", @assignment, @foldout   }
