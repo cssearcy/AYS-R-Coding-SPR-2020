@@ -97,9 +97,10 @@ Assessment of student performance in this course is based on indications that th
 
 Students will demonstrate competency in understanding, producing, and communicating results of their analyses through the following assignments:
 
-- Weekly labs that provide opportunities to consolidate and apply material from course content.
-- Discussion topics on broad data science trends. 
-- A final project that integrates several skills to create a data dashboard. 
+- Weekly labs that provide opportunities to consolidate and apply material from course content
+- Discussion topics on broad data science trends
+- A final project that comprises a tutorial of a new skill, package, or dataset
+- A final project that integrates several skills to create a data dashboard
 
 Assigned work, including the course final project, and the quality of active participation in online discussion sessions that are a critical part of the course learning strategy are the tools the instructors will use to measure comprehension and skill; the student&#39;s course grade is a direct reflection of demonstrated performance. Students should take stated expectations seriously regarding preparation, conduct, and academic honesty in order to receive a grade reflective of outstanding performance.  Students should be aware that merely completing assigned work in no way guarantees an outstanding grade in the course. To receive an outstanding course grade (using the grading scheme described below and the performance assessment approach noted above) all assigned work should completed on time with careful attention to assignment details.
 
