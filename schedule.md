@@ -109,6 +109,7 @@ You will have plenty of practice with these tools this semester. You will submit
 - [ ] [Read the Syllabus](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
+- [ ] [View the Vitual Orientation](https://www.youtube.com/watch?v=cyrAovBCt4Q&feature=youtu.be) 
 
 
 *** { @unit = "Due June 11", @title = "Introduce Yourself", @assignment, @foldout   }
@@ -135,6 +136,12 @@ R is a foundational tool within a toolkit that I will refer to as the "data scie
 If you were not able to make the first lab session, we did a brief introduction to the ecosystem - the community of people that are creating cool analytical tools and building tutorials and case studies for how they might be applied, as well as a core set of tools that are all designed to work nicely together in order to implement projects. 
 
 You can think of R, R Studio, and Markdown kind of like Excel (for analysis), Word (for report writing), and Power Point (for presentations). R allows you to analyze your data, but these results are not useful unless you can share them with others. Here is where [data-driven documents](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) developed using R Studio and Markdown really shine. You can quickly package your R code as cool reports, websites, presentations, or dashboards to format the information in whatever way is most accessible and useful for your clients or stakeholders. 
+
+## Virtual Orientation
+
+Learn more about the assignments, platforms, and resources you'll use throughout the course. You can jump to different sections of the video by using the bookmarks in the description.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyrAovBCt4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Getting Help
 
