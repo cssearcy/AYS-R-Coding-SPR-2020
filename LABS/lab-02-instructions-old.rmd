@@ -26,10 +26,7 @@ library( pander )
 #### This lab offers practice with logical statements used to create groups from your data.
 
 
-I have provided you with a **LAB-02 RMD template**: 
-
-
-[![](images/download.png)](https://www.dropbox.com/s/tmiqepil1u05e1q/Lab-02-LastName%20.Rmd?dl=1)
+I have provided you with a **LAB-02 RMD template** in the Course Schedule.
 
 
 --- 
