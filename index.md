@@ -8,36 +8,36 @@ index:
     subtitle: This course introduces students to the field of data science and its applications in the public and nonprofit sectors. Modern performance management and evaluation processes require strong data literacy and the ability to combine and analyze data from a variety of sources to inform managerial processes. This course offers a practical, tools-based approach that is designed to build strong foundations for people that want to work as analysts, data-driven managers, or data-driven journalists. It will cover data programming fundamentals, visualization, text analysis, automated reporting, and dynamic reporting using dashboards. The course is analytically rigorous, but no prior programming experience is assumed.
     
 info: 
- program_title: 
- program_website:
+ program_title: AYS Digital Landscape Initiative
+ program_website: 'https://aysps.gsu.edu/digital-landscape/'
  course_title: Coding in R for Policy Analytics
- course_number: ECON 8000/PMAP 8921 
+ course_number: ECON 8000 / PMAP 8921 / CRJU 8830
  course_level: Graduate 
- course_website: 'https://gastate.view.usg.edu/d2l/home/2056378'
- course_start_end_dates: June 8 to July 31, 2021 
+ course_website: 'https://gastate.view.usg.edu/d2l/home/2322808'
+ course_start_end_dates: June 7 to July 26, 2021
  course_prerequisites:  
- class_meets_when:  Online  
+ class_meets_when:  Asynchronous  
  class_meets_where:  Online
  review_sessions_where: Online
- discussion_board_url: https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/ 
+ discussion_board_url: 'https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/'
 
 instructor:
 -  name: Jamison Crawford
    title: Associate Faculty
    email: jcrawford52@gsu.edu
-   office_location: 55 Park Place NE #320
+   office_location: 
    website_url: 'https://rpubs.com/jamisoncrawford'
    github_url: 'https://github.com/jamisoncrawford' 
    linked_in_url: 'https://www.linkedin.com/in/jamisoncrawford/'
-   office_hours_time: 
+   office_hours_time: See Schedule
    office_hours_location:  Online
    office_hours_app_url:  'https://calendly.com/jamisoncrawford/20min'
 
 textbooks:
-- title: R Cookbook. Proven recipes
-  authors: Paul Teetor
-  edition: 2015
-  link: http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf
+- title: R Cookbook, Second Edition
+  authors: James, L., & Teetor, P.
+  edition: 2019
+  link: https://rc2e.com/
   required: Not Required
 - title: R for Data Science
   authors: Wickham, H., & Grolemund, G.
