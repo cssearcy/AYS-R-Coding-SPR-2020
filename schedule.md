@@ -368,7 +368,7 @@ The following checklist will help you organize and prepare for success in this c
 - [ ] [Read the Syllabus](https://ds4ps.org/cpp-526-spr-2020/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
-- [ ] Introduce Yourself on [YellowDig](https://canvas.asu.edu/courses/54986/assignments/1306428) (See Below)
+- [ ] Introduce Yourself on [iCollege](https://gastate.view.usg.edu/d2l/home/2322808) (See Below)
 - [ ] (Recommended) Skim Readings
 - [ ] (Recommended) Videos
 
@@ -380,13 +380,13 @@ The following checklist will help you organize and prepare for success in this c
 
 ## Introduce Yourself to the Class
 
-We will be using a discussion board called **YellowDig** for this course. Introduce yourself to the class:
+We will be using the course discussion board in **iCollege** for this course. Find the thread and introduce yourself to the class:
 
 1. A little about yourself
 2. Your previous experience with data analytics 
 3. One thing you hope to do with your new skills in data analytics 
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">Post to YellowDig</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Visit iCollege</a>
 
 <br>
 <br>
