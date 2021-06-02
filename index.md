@@ -240,7 +240,7 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 **Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [**iCollege course shell**](https://gastate.view.usg.edu/d2l/home/2322808). 
 
-Please post lab questions on the course [**GitHub repository**](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues), schedule individual office hours using the Calendly link provided above, and *email the instructor directly instead of using the iCollege system*. 
+Please post lab questions on the course [**GitHub repository**](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues), schedule individual office hours using the Calendly link provided above, and *email the instructor directly instead of using the iCollege system*. You can learn more about how to create an effective GitHub issue by visiting this **[quick guide](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues/3)**.
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either written work or online discussion, is approximately one week after submission deadlines.
 
