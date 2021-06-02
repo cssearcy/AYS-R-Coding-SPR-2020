@@ -242,7 +242,7 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 Please post lab questions on the [**Help Page**](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help), as well as schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the Canvas system. 
 
-Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either writer work or online discussion work, is between 5 and 10 work days.
+Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either written work or online discussion, is approximately one week after submission deadlines.
 
 ## G. Student Conduct: Expectation of Professional Behavior
 
