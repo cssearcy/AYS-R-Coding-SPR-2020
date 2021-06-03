@@ -704,9 +704,9 @@ So ignoring potential problems with big and open data for now, read about two in
 
 > For your discussion topic this week, find one data-driven blog post from Ben Wellington's [I Quant NY](http://iquantny.tumblr.com/) and/or OK Cupid's [OK Trends](https://theblog.okcupid.com/tagged/data) where you discovered something cool that you did not know, and share it with the group. In your post highlight what is interesting about the example, and what data made it possible.
 
-**Please post your reflection as a new pin on YellowDig.**
+**Please post your reflection as a new pin on iCollege.**
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">Post to Yellowdig</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Post to iCollege</a>
 
 <br>
 
@@ -716,9 +716,9 @@ You can also check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIx
 
 <br>
 
-**Note:** You get points on Yellowdig by interacting with content. That means creating new posts and participating in posts that your classmates create. Your Yellowdig posts are due on Friday, but you gain points throughout the week by participating in discussions. 
+**Note:** You get points on iCollege by interacting with content. That means creating new posts and participating in posts that your classmates create. Your iCollege posts are due at the end of each week, but you gain points throughout the week by participating in discussions. 
 
-You can earn up to 20 points a week, and points reset on Fridays. You need to earn 100 points throughout the seven-week term, which means averaging 15 points a week. 
+You can earn up to 20 points a week, and points reseton the due date. You need to earn 100 points throughout the seven-week term, which means averaging 15 points a week. 
 
 <br>
 <br>
@@ -917,9 +917,9 @@ Take note, this assignment asks you to explore a new community where the technic
 
 <br>
 
-**Please post your reflection as a new pin on YellowDig:**
+**Please post your reflection as a new pin on iCollege:**
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Post to iCollege</a>
 
 <br>
 <br>
@@ -1102,7 +1102,7 @@ For example, I might say that I work creating budgets for a government organizat
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Post to iCollege</a>
 
 <br>
 <br>
@@ -1297,7 +1297,7 @@ Find a graph that violates one of these principles, or commits an equally egregi
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Post to iCollege</a>
 
 <br>
 <br>
@@ -1486,7 +1486,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 *Note, you do not have to show how to use the API for the post, just identify what information is accessible and how it might be used.* 
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Post to iCollege</a>
 
 <br>
 <br>
@@ -1653,7 +1653,7 @@ For this week, read about how [GitHub has evolved to support government](https:/
 
 Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws? 
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Post to iCollege</a>
 
 <br>
 <br>
@@ -1723,7 +1723,7 @@ The following checklist will help you stay organized for your final week.
 
 ## Code-Through
 
-Since you are sharing your code-through with your classmates on Yellowdig, it will serve as your discussion topic this week.
+Since you are sharing your code-through with your classmates on iCollege, it will serve as your discussion topic this week.
 
 If you send me your RMD and HTML files via email, I will post them to GitHub and create a link for you if you would like to share a URL instead of a file. 
 
@@ -1739,9 +1739,9 @@ Download the recommended template for your code-through with the below link.
 
 <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT CODE-THROUGH</a>
 
-## Post on Yellowdig
+## Post on iCollege
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.yellowdig_url}}">YELLOWDIG</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Visit iCollege</a>
 
 <br>
 <br>
