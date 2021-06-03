@@ -731,7 +731,7 @@ You can earn up to 20 points a week, and points reseton the due date. You need t
 
 This lab is designed to introduce you to basic functions that explore datasets and variables.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://ds4ps.org/cpp-526-sum-2020/labs/lab-01-instructions.html')">LAB-01 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-01-instructions.html')">LAB-01 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
@@ -945,7 +945,7 @@ The rest of the chapter is useful information to come back to, but not needed fo
 
 *Similar to last week, the chapter highlights some easy ways to make errors with your code. We don't want to convince you that R is hard, but rather to ensure that you are paying attention to some subtle features of machine language that can impact your data.*
 
-<a class="uk-button uk-button-default" onclick="window.open('https://ds4ps.org/cpp-526-sum-2020/labs/lab-02-instructions-v2.html')">LAB-02 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-02-instructions.html')">LAB-02 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
@@ -1123,7 +1123,7 @@ We recommend you **skim** the chapters on graphing functions and custom graphics
 
 Code is provided to get you started, but you will have to use documentation and the web to push the boundaries of your new knowledge of these functions.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://ds4ps.org/cpp-526-sum-2020/labs/lab-03-instructions.html')">LAB-03 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-03-instructions.html')">LAB-03 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
@@ -1311,7 +1311,7 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 
 This lab is designed to introduce you to R Shiny by making last week's graphic interactive and dynamic.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://ds4ps.org/cpp-526-sum-2020/labs/lab-04-instructions.html')">LAB-04 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-04-instructions.html')">LAB-04 Instructions</a>
 
 Click to download the lab template.
 
@@ -1502,7 +1502,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 **Note:** *These data and techniques will be used for your final project in building an interactive dashboard.*
 
-<a class="uk-button uk-button-default" onclick="window.open('https://ds4ps.org/cpp-526-sum-2020/labs/lab-05-instructions.html')">LAB-05 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-05-instructions.html')">LAB-05 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
@@ -1667,7 +1667,7 @@ Do you think open source frameworks would help open the black box and make gover
 
 This lab is designed to introduce you to primary data join functions in R.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://ds4ps.org/cpp-526-sum-2020/labs/lab-06-instructions.html')">LAB-06 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-06-instructions.html')">LAB-06 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
@@ -1727,7 +1727,7 @@ Since you are sharing your code-through with your classmates on iCollege, it wil
 
 If you send me your RMD and HTML files via email, I will post them to GitHub and create a link for you if you would like to share a URL instead of a file. 
 
-<a class="uk-button uk-button-default" onclick="window.open('https://ds4ps.org/cpp-526-spr-2020/labs/code-through-assignment.html')">Code-Through Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/code-through-assignment.html')">Code-Through Instructions</a>
 
 Download the recommended template for your code-through with the below link. 
 
@@ -1741,7 +1741,7 @@ Download the recommended template for your code-through with the below link.
 
 ## Post on iCollege
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Visit iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Post to iCollege</a>
 
 <br>
 <br>
@@ -1754,7 +1754,7 @@ Download the recommended template for your code-through with the below link.
 
 Working with the crash data from Lab-05, you will extend the work you began in Lab-04 by building on a dynamic data dashboard that will be used to explore and reveal insights in Tempe crash data.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://ds4ps.org/cpp-526-spr-2020/labs/final-project-instructions.html')">Final Project Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/final-project-instructions.html')">Final Project Instructions</a>
 
 The following link downloads two templates:
 
