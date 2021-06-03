@@ -882,7 +882,7 @@ The following checklist will help you stay organized in your second week.
 - [ ] Complete Assigned Readings: [Group Construction with Logical Statements](http://ds4ps.org/dp4ss-textbook/p-050-business-logic.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
 - [ ] Complete & Submit [Lab 02](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-02-instructions.html) (See Below)
-- [ ] (Recommended) Explore Packages for [Code Through Project](https://ds4ps.org/cpp-526-spr-2020/labs/code-through-assignment.html)
+- [ ] (Recommended) Explore Packages for [Code Through Project](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/code-through-assignment.html)
 - [ ] (Recommended) Videos
 
 <br>
