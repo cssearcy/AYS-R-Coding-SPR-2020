@@ -3,7 +3,7 @@ layout: schedule
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=2013035'
+  assignment_url: 'https://gastate.view.usg.edu/d2l/home/2322808'
 ---
  
 <!--- 
@@ -20,7 +20,7 @@ Unit Metadata is comprised of:
 @assignment - turn on lecture icon
 @lecture - turn on lecture icon
 @foldout - activate unit content (allow foldout)
-Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">Submit Lab</a>
+Submit Button - <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Submit Lab</a>
 -->
 
 
@@ -737,9 +737,9 @@ Click to download the lab template. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-01-v2_LastName.zip?raw=true')">LAB-01 Template</a>
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -953,7 +953,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 ## Submit Solutions to Canvas
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -1131,7 +1131,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 ## Submit Solutions to Canvas
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -1321,7 +1321,7 @@ Click to download the lab template.
 
 ## Submit Solutions to Canvas
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -1510,7 +1510,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 ## Submit Solutions to Canvas
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -1675,7 +1675,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 ## Submit Solutions to Canvas
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -1737,7 +1737,7 @@ Download the recommended template for your code-through with the below link.
 
 ## Submit to Canvas
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT CODE-THROUGH</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT CODE-THROUGH</a>
 
 ## Post on Yellowdig
 
@@ -1767,7 +1767,7 @@ We recommended creating new tabs independently, then incorporating them into the
 
 ## Submit to Canvas
 
-<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">SUBMIT DASHBOARD</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT DASHBOARD</a>
 
 <br>
 <br>
