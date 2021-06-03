@@ -5,16 +5,14 @@ output:
     theme: readable
     df_print: paged
     highlight: tango
-    include:
-      after_body: footer.html
 ---
-
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message=F, warning=F)
 ```
 
+
+#### [Coding in R for Policy Analytics](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/)
 
 <br>
 
@@ -23,16 +21,21 @@ knitr::opts_chunk$set(echo = TRUE, message=F, warning=F)
 
 This lab builds on the previous lab, but you will now add the drop-down menu similar to the original [NYT version](https://archive.nytimes.com/www.nytimes.com/interactive/2013/03/29/sports/baseball/Strikeouts-Are-Still-Soaring.html?_r=0&ref=baseball), and highlight season statistics from that team (the yellow line). 
 
+<br>
+
 ![](images/strikeouts2.png)
 
-
 <br>
-<br>
-
 
 ## Dynamic Graphics
 
 Shiny allows you to build interactive components in graphics or dashboards. The terms "dynamic" or "interactive" mean specifically that a set of widgets are used to gather user input, and that input changes the analysis or visualization accordingly. 
+
+<br>
+
+![](images/cpp-526-lab-04-demo.gif)
+
+<br>
 
 You can try it out using the Shiny Demo file or the example from the [Shiny tutorial](https://rmarkdown.rstudio.com/flexdashboard/shiny.html#loading_data): 
 
@@ -76,27 +79,20 @@ Note that in the subsequent code instead of using the specific team name for dat
 
 ```{r, eval=F}
 ## TEAM NAME HARD-CODED: APPEARS MULTIPLE TIMES IN CODE
-
 # adding season stats for the team:
 dat.one.team <- filter( Teams, name == "Chicago Cubs" )
 points( x=dat.one.team$yearID, y=dat.one.team$ave.so, 
         pch=20,  cex=1.2, col="goldenrod1", type="b" )
-
 # adding the team name to the legend:
 segments( x0=1900, y0=8.3, x1=1904, y1=8.32, col="goldenrod1", lwd = 1.5 )
 points( x=c(1900,1904), y=c(8.3,8.3), col="goldenrod1", pch=20, cex=1.2 )
 text ( x=1912, y=8.3, col="goldenrod1", labels="Chicago Cubs", cex=0.8 )
-
-
 ## GENERALIZED TEAM NAME:
-
 team.name <- "Chicago Cubs"   # only place it appears
-
 # adding season stats for the team:
 dat.one.team <- filter( Teams, name == team.name )
 points( x=dat.one.team$yearID, y=dat.one.team$ave.so, 
         pch=20,  cex=1.2, col="goldenrod1", type="b" )
-
 # adding the team name to the legend:
 segments( x0=1900, y0=8.3, x1=1904, y1=8.32, col="goldenrod1", lwd = 1.5 )
 points( x=c(1900,1904), y=c(8.3,8.3), col="goldenrod1", pch=20, cex=1.2 )
@@ -137,11 +133,13 @@ data( Teams )
 ```
 
 
-Use the following template to complete this lab: 
+To get started, download the **Lab-04 RMD template**:
 
-[RMD Template](https://www.dropbox.com/s/lfw91ev0fl182n3/lab-04-template.rmd?dl=1)
+<center>
 
+[![](images/download.png)](https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-04-v2-LastName.zip?raw=true)
 
+</center>
 
 <br><br>
 
@@ -236,18 +234,49 @@ Teams %>%
 
 
 
-# Submission Instructions
+# How to Submit
 
-**Submit your RMD file but no HTML file this time.** When you include "runtime: shiny" in your header, it launches a real-time app instead of generating an HTML file that can be shared.
+Use the following instructions to submit your assignment, which may vary depending on your course's platform.
 
-Remember to:
+<br>
 
-* name your files according to the convention: **Lab-##-LastName.Rmd**
-* show your solution, include your code.
-* do not print excessive output (like a full data set).
-* follow appropriate style guidelines (spaces between arguments, etc.).
+### Knitting to HTML
+
+When you have completed your assignment, click the "Run App" button to ensure your dashboard functions.
+
+<br>
+
+### Special Instructions
+
+Perform the following depending on your course's platform:
+
+* **Canvas:** Upload your `.RMD` file to the appropriate link
+* **Blackboard or iCollege:** Compress your `.RMD` file in a `.ZIP` file and upload to the appropriate link
+
+<br>
+
+### Before You Submit
+
+Remember to ensure the following before submitting your assignment.
+
+1. Name your files using this format: **Lab-##-LastName.rmd** and **Lab-##-LastName.html**
+2. Follow appropriate styling conventions, e.g. spaces after commas, etc.
+3. Above all, ensure that your conventions are consistent
+
+See [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml) for examples of common conventions.
 
 <br>
 <br>
 
+### Common Knitting Issues
 
+`.RMD` files are knit into `.HTML` and other formats procedural, or line-by-line.
+
+* An error in code when knitting will halt the process; error messages will tell you the specific line with the error
+* Certain functions like `install.packages()` or `setwd()` are bound to cause errors in knitting 
+* Altering a dataset or variable in one chunk will affect their use in all later chunks
+* If an object is "not found", make sure it was created or loaded with `library()` in a previous chunk
+
+<br>
+<br>
+<br>

@@ -17,8 +17,6 @@ knitr::opts_chunk$set( echo=F, fig.width=9, fig.height=6, warning=F, message=F )
 
 -----
 
-
-
 # What is a Code-Through? 
 
 A code-through is a short tutorial where you explain how to do something in R. They are similar to [explainer videos](https://blog.hubspot.com/marketing/explainer-videos) that you often see shared.
@@ -98,7 +96,7 @@ You can also create a slideshow presentation if you like:
 
 Submit your RMD and knitted HTML file on Canvas. 
 
-Also post a link to your file on Yellowdig and explain your concept to your classmates. 
+Also post a link to your file on iCollege and explain your concept to your classmates. 
 
 
 <br>
@@ -107,8 +105,3 @@ Also post a link to your file on Yellowdig and explain your concept to your clas
 
 <br>
 <br>
-
-
-
-
-

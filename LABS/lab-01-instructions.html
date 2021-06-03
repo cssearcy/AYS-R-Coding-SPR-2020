@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -200,6 +200,22 @@ window.buildTabsets = function(tocID) {
 };
 
 </script>
+<script>// Hide empty <a> tag within highlighted CodeBlock for screen reader accessibility (see https://github.com/jgm/pandoc/issues/6352#issuecomment-626106786) -->
+// v0.0.1
+// Written by JooYoung Seo (jooyoung@psu.edu) and Atsushi Yasumoto on June 1st, 2020.
+
+document.addEventListener('DOMContentLoaded', function() {
+  const codeList = document.getElementsByClassName("sourceCode");
+  for (var i = 0; i < codeList.length; i++) {
+    var linkList = codeList[i].getElementsByTagName('a');
+    for (var j = 0; j < linkList.length; j++) {
+      if (linkList[j].innerHTML === "") {
+        linkList[j].setAttribute('aria-hidden', 'true');
+      }
+    }
+  }
+});
+</script>
 <style type="text/css">.pagedtable {
 overflow: auto;
 padding-left: 8px;
@@ -228,7 +244,7 @@ display: none;
 padding: 0 4px 0 4px;
 }
 .pagedtable .even {
-background-color: #fcfcfc;
+background-color: rgba(140, 140, 140, 0.1);
 }
 .pagedtable-padding-col {
 display: none;
@@ -1474,10 +1490,10 @@ window.onload = function() {
 
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-a.sourceLine { display: inline-block; line-height: 1.25; }
-a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
-a.sourceLine:empty { height: 1.2em; }
+<style type="text/css" data-origin="pandoc">
+code.sourceCode > span { display: inline-block; line-height: 1.25; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode { white-space: pre; position: relative; }
 div.sourceCode { margin: 1em 0; }
@@ -1487,14 +1503,16 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 code.sourceCode { white-space: pre-wrap; }
-a.sourceLine { text-indent: -1em; padding-left: 1em; }
+code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
-pre.numberSource a.sourceLine
-  { position: relative; left: -4em; }
-pre.numberSource a.sourceLine::before
-  { content: attr(data-line-number);
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
     position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; pointer-events: all; display: inline-block;
+    border: none; display: inline-block;
     -webkit-touch-callout: none; -webkit-user-select: none;
     -khtml-user-select: none; -moz-user-select: none;
     -ms-user-select: none; user-select: none;
@@ -1503,9 +1521,9 @@ pre.numberSource a.sourceLine::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  { background-color: #f8f8f8; }
+  {  background-color: #f8f8f8; }
 @media screen {
-a.sourceLine::before { text-decoration: underline; }
+code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ef2929; } /* Alert */
 code span.an { color: #8f5902; font-weight: bold; font-style: italic; } /* Annotation */
@@ -1535,7 +1553,29 @@ code span.st { color: #4e9a06; } /* String */
 code span.va { color: #000000; } /* Variable */
 code span.vs { color: #4e9a06; } /* VerbatimString */
 code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warning */
+
 </style>
+<script>
+// apply pandoc div.sourceCode style to pre.sourceCode instead
+(function() {
+  var sheets = document.styleSheets;
+  for (var i = 0; i < sheets.length; i++) {
+    if (sheets[i].ownerNode.dataset["origin"] !== "pandoc") continue;
+    try { var rules = sheets[i].cssRules; } catch (e) { continue; }
+    for (var j = 0; j < rules.length; j++) {
+      var rule = rules[j];
+      // check if there is a div.sourceCode rule
+      if (rule.type !== rule.STYLE_RULE || rule.selectorText !== "div.sourceCode") continue;
+      var style = rule.style.cssText;
+      // check if color or background-color is set
+      if (rule.style.color === '' && rule.style.backgroundColor === '') continue;
+      // replace div.sourceCode by a pre.sourceCode rule
+      sheets[i].deleteRule(j);
+      sheets[i].insertRule('pre.sourceCode{' + style + '}', j);
+    }
+  }
+})();
+</script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -1571,9 +1611,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -1587,7 +1625,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -1598,22 +1635,81 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -1627,28 +1723,29 @@ $(document).ready(function () {
 </div>
 
 
-<div id="Coding in R for Policy Analytics" class="section level4">
-<h4><a href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/">Coding in R</a></h4>
-<p><br></p>
+<div id="coding-in-r-for-policy-analytics" class="section level4">
+<h4><a href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/">Coding in R for Policy Analytics</a></h4>
+<p><br> <br></p>
 <hr />
-<p><br></p>
 </div>
 <div id="this-lab-offers-practice-with-some-basic-r-functions-for-summarizing-vectors." class="section level4">
 <h4>This lab offers practice with some basic R functions for summarizing vectors.</h4>
-<p>I have provided you with a <strong>LAB-01 RMD template</strong> to get you started:</p>
-<p><a href="https://www.dropbox.com/s/43dj0oszgg34clc/Lab-01-LastName.Rmd?dl=1"><img src="data:image/png;base64,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" /></a></p>
+<p>I have provided you with a <strong>LAB-01 RMD template</strong>. Click to download:</p>
+<center>
+<p><a href="https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-01-v2_LastName.zip?raw=true"><img src="data:image/png;base64,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" /></a></p>
+</center>
 <hr />
-<p><br><br></p>
+<p><br> <br></p>
 </div>
 <div id="functions" class="section level2">
 <h2>Functions</h2>
 <p>You will use the following functions for this lab:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="kw">names</span>()                 <span class="co"># variable names</span></a>
-<a class="sourceLine" id="cb1-2" data-line-number="2"><span class="kw">head</span>()                  <span class="co"># preview dataset</span></a>
-<a class="sourceLine" id="cb1-3" data-line-number="3"><span class="kw">length</span>()                <span class="co"># vector length (number of elements)</span></a>
-<a class="sourceLine" id="cb1-4" data-line-number="4"><span class="kw">dim</span>(), <span class="kw">nrow</span>(), <span class="kw">ncol</span>()   <span class="co"># dataset dimensions</span></a>
-<a class="sourceLine" id="cb1-5" data-line-number="5"><span class="kw">sum</span>(), <span class="kw">summary</span>()        <span class="co"># summarize numeric vectors</span></a>
-<a class="sourceLine" id="cb1-6" data-line-number="6"><span class="kw">table</span>()                 <span class="co"># summarize factors / character vectors</span></a></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">names</span>()                 <span class="co"># variable names</span></span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="kw">head</span>()                  <span class="co"># preview dataset</span></span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="kw">length</span>()                <span class="co"># vector length (number of elements)</span></span>
+<span id="cb1-4"><a href="#cb1-4"></a><span class="kw">dim</span>(), <span class="kw">nrow</span>(), <span class="kw">ncol</span>()   <span class="co"># dataset dimensions</span></span>
+<span id="cb1-5"><a href="#cb1-5"></a><span class="kw">sum</span>(), <span class="kw">summary</span>()        <span class="co"># summarize numeric vectors</span></span>
+<span id="cb1-6"><a href="#cb1-6"></a><span class="kw">table</span>()                 <span class="co"># summarize factors / character vectors</span></span></code></pre></div>
 <p><br><br></p>
 </div>
 <div id="data" class="section level1">
@@ -1669,10 +1766,10 @@ $(document).ready(function () {
 <div id="loading-data-into-r" class="section level2">
 <h2>Loading Data Into R</h2>
 <p>You can load the dataset by including the following code chunk in your file:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb2-1" data-line-number="1">URL &lt;-<span class="st"> &quot;https://raw.githubusercontent.com/DS4PS/Data-Science-Class/master/DATA/syr_parcels.csv&quot;</span></a>
-<a class="sourceLine" id="cb2-2" data-line-number="2">dat &lt;-<span class="st"> </span><span class="kw">read.csv</span>( URL, <span class="dt">stringsAsFactors=</span><span class="ot">FALSE</span> )</a></code></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a>URL &lt;-<span class="st"> &quot;https://raw.githubusercontent.com/DS4PS/Data-Science-Class/master/DATA/syr_parcels.csv&quot;</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a>dat &lt;-<span class="st"> </span><span class="kw">read.csv</span>( URL, <span class="dt">stringsAsFactors=</span><span class="ot">FALSE</span> )</span></code></pre></div>
 <p>Note that referencing variables in R requires both the <strong>dataset name</strong> and <strong>variable name</strong>, separated by the <code>$</code> operator:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" data-line-number="1"><span class="kw">summary</span>( dat<span class="op">$</span>acres )</a></code></pre></div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a><span class="kw">summary</span>( dat<span class="op">$</span>acres )</span></code></pre></div>
 <p>Unlike other stats programs, you can have several datasets loaded at the same time in R. They will often have variables with the same name (if you create a subset, for example, and save it as a new object you will have two datasets with identical names). To avoid conflicts R forces you to use the <code>dataset$variable</code> convention.</p>
 <p><br><br></p>
 </div>
@@ -1685,37 +1782,32 @@ $(document).ready(function () {
 <div id="how-many-tax-parcels-are-in-syracuse" class="section level4">
 <h4>1. How many tax parcels are in Syracuse?</h4>
 <blockquote>
-<p>dataset dimensions: <strong>dim()</strong> or <strong>nrow()</strong></p>
+<p>dataset dimensions: <strong>dim()</strong> or <strong>nrow()</strong> <br></p>
 </blockquote>
-<p><br></p>
 </div>
 <div id="how-many-acres-of-land-are-in-syracuse" class="section level4">
 <h4>2. How many acres of land are in syracuse?</h4>
 <blockquote>
-<p><strong>sum()</strong> over the numeric <strong>acres</strong> vector</p>
+<p><strong>sum()</strong> over the numeric <strong>acres</strong> vector <br></p>
 </blockquote>
-<p><br></p>
 </div>
 <div id="how-many-vacant-buildings-are-there-in-syracuse" class="section level4">
 <h4>3. How many vacant BUILDINGS are there in Syracuse?</h4>
 <blockquote>
-<p><strong>sum()</strong> over the <strong>vacantbuil</strong> logical vector</p>
+<p><strong>sum()</strong> over the <strong>vacantbuil</strong> logical vector <br></p>
 </blockquote>
-<p><br></p>
 </div>
 <div id="what-proportion-of-parcels-are-tax-exempt" class="section level4">
 <h4>4. What proportion of parcels are tax exempt?</h4>
 <blockquote>
-<p><strong>sum()</strong> plus <strong>length()</strong> functions withthe logical <strong>tax.exempt</strong> vector</p>
+<p><strong>sum()</strong> plus <strong>length()</strong> functions withthe logical <strong>tax.exempt</strong> vector <br></p>
 </blockquote>
-<p><br></p>
 </div>
 <div id="which-neighborhood-contains-the-most-tax-parcels" class="section level4">
 <h4>5. Which neighborhood contains the most tax parcels?</h4>
 <blockquote>
-<p><strong>table()</strong> with the <strong>neighborhood</strong> variable</p>
+<p><strong>table()</strong> with the <strong>neighborhood</strong> variable <br></p>
 </blockquote>
-<p><br></p>
 </div>
 <div id="which-neighborhood-contains-the-most-vacant-lots" class="section level4">
 <h4>6. Which neighborhood contains the most vacant LOTS?</h4>
@@ -1726,39 +1818,59 @@ $(document).ready(function () {
 <p><br></p>
 <p><strong>HELPFUL HINTS:</strong></p>
 <p>When you apply a <strong>sum()</strong> function to a numeric vector it returns the sum of all elements in the vector.</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb4-1" data-line-number="1"><span class="kw">sum</span>( <span class="kw">c</span>(<span class="dv">10</span>,<span class="dv">20</span>,<span class="dv">5</span>) )  <span class="co"># 35</span></a></code></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a><span class="kw">sum</span>( <span class="kw">c</span>(<span class="dv">10</span>,<span class="dv">20</span>,<span class="dv">5</span>) )  <span class="co"># 35</span></span></code></pre></div>
 <p>When you apply a <strong>sum()</strong> function to a logical vector, it will count all of the TRUEs:</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb5-1" data-line-number="1">x &lt;-<span class="st"> </span><span class="kw">c</span>( <span class="ot">TRUE</span>, <span class="ot">TRUE</span>, <span class="ot">FALSE</span>, <span class="ot">FALSE</span>, <span class="ot">FALSE</span> )</a>
-<a class="sourceLine" id="cb5-2" data-line-number="2"><span class="kw">sum</span>( x )                <span class="co"># number of TRUEs</span></a>
-<a class="sourceLine" id="cb5-3" data-line-number="3"><span class="kw">sum</span>( x ) <span class="op">/</span><span class="st"> </span><span class="kw">length</span>( x )  <span class="co"># proportion of TRUEs</span></a></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1"></a>x &lt;-<span class="st"> </span><span class="kw">c</span>( <span class="ot">TRUE</span>, <span class="ot">TRUE</span>, <span class="ot">FALSE</span>, <span class="ot">FALSE</span>, <span class="ot">FALSE</span> )</span>
+<span id="cb5-2"><a href="#cb5-2"></a><span class="kw">sum</span>( x )                <span class="co"># number of TRUEs</span></span>
+<span id="cb5-3"><a href="#cb5-3"></a><span class="kw">sum</span>( x ) <span class="op">/</span><span class="st"> </span><span class="kw">length</span>( x )  <span class="co"># proportion of TRUEs</span></span></code></pre></div>
 <p>R wants to make sure you are aware of missing values, so it will return NA (not available) for functions performed on vectors with missing values.</p>
 <p>Add the ‘NA remove’ argument (<code>na.rm=TRUE</code>) to functions to ignore missing values:</p>
-<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb6-1" data-line-number="1"><span class="kw">sum</span>( dat<span class="op">$</span>star, <span class="dt">na.rm=</span>T )</a></code></pre></div>
-<hr />
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1"></a><span class="kw">sum</span>( dat<span class="op">$</span>star, <span class="dt">na.rm=</span>T )</span></code></pre></div>
+<p><br> <br></p>
+</div>
+</div>
+<div id="how-to-submit" class="section level1">
+<h1>How to Submit</h1>
+<p>Use the following instructions to submit your assignment, which may vary depending on your course’s platform.</p>
+<p><br></p>
+<div id="knitting-to-html" class="section level3">
+<h3>Knitting to HTML</h3>
+<p>When you have completed your assignment, click the “Knit” button to render your <code>.RMD</code> file into a <code>.HTML</code> report.</p>
 <p><br></p>
 </div>
-</div>
-<div id="submission-instructions" class="section level1">
-<h1>Submission Instructions</h1>
-<p>When you have completed your assignment, knit your RMD file to generate your rendered HTML file. Platforms like iCollege often disallow you from submitting HTML files when there is embedded computer code, so create a zipped folder with both the RMD and HTML files.</p>
-<p>Login to iColleges and navigate to Assignments, Lab 1. Upload your zipped folder to the submission folder.</p>
-<p>Remember to:</p>
+<div id="special-instructions" class="section level3">
+<h3>Special Instructions</h3>
+<p>Perform the following depending on your course’s platform:</p>
 <ul>
-<li>name your files according to the convention: <strong>Lab-##-LastName.Rmd</strong></li>
-<li>show your solution, include your code.</li>
-<li>do not print excessive output (like a full data set).</li>
-<li>follow appropriate style guidelines (spaces between arguments, etc.).</li>
+<li><strong>Canvas:</strong> Upload both your <code>.RMD</code> and <code>.HTML</code> files to the appropriate link</li>
+<li><strong>Blackboard or iCollege:</strong> Compress your <code>.RMD</code> and <code>.HTML</code> files in a <code>.ZIP</code> file and upload to the appropriate link</li>
 </ul>
-<p>See <a href="https://google.github.io/styleguide/Rguide.xml">Google’s R Style Guide</a> for examples.</p>
-<hr />
+<p><code>.HTML</code> files are preferred but not allowed by all platforms.</p>
 <p><br></p>
-<div id="markdown-trouble" class="section level2">
-<h2>Markdown Trouble?</h2>
-<p>If you are having problems with your RMD file, visit the <a href="https://ds4ps.org/cpp-526-fall-2019/labs/r-markdown-files.html"><strong>RMD File Styles and Knitting Tips</strong></a> manual.</p>
-<div id="notes-on-knitting" class="section level3">
-<h3>Notes on Knitting</h3>
-<p>Note that when you knit a file, it starts from a blank slate. You might have packages loaded or datasets active on your local machine, so you can run code chunks fine. But when you knit you might get errors that functions cannot be located or datasets don’t exist. Be sure that you have included chunks to load these in your RMD file.</p>
-<p>Your RMD file will not knit if you have errors in your code. If you get stuck on a question, just add <code>eval=F</code> to the code chunk and it will be ignored when you knit your file. That way I can give you credit for attempting the question and provide guidance on fixing the problem.</p>
+</div>
+<div id="before-you-submit" class="section level3">
+<h3>Before You Submit</h3>
+<p>Remember to ensure the following before submitting your assignment.</p>
+<ol style="list-style-type: decimal">
+<li>Name your files using this format: <strong>Lab-##-LastName.rmd</strong> and <strong>Lab-##-LastName.html</strong></li>
+<li>Show both the solution for your code and write out your answers in the body text</li>
+<li>Do not show excessive output; truncate your output, e.g. with function <code>head()</code></li>
+<li>Follow appropriate styling conventions, e.g. spaces after commas, etc.</li>
+<li>Above all, ensure that your conventions are consistent</li>
+</ol>
+<p>See <a href="https://google.github.io/styleguide/Rguide.xml">Google’s R Style Guide</a> for examples of common conventions.</p>
+<p><br> <br></p>
+</div>
+<div id="common-knitting-issues" class="section level3">
+<h3>Common Knitting Issues</h3>
+<p><code>.RMD</code> files are knit into <code>.HTML</code> and other formats procedural, or line-by-line.</p>
+<ul>
+<li>An error in code when knitting will halt the process; error messages will tell you the specific line with the error</li>
+<li>Certain functions like <code>install.packages()</code> or <code>setwd()</code> are bound to cause errors in knitting</li>
+<li>Altering a dataset or variable in one chunk will affect their use in all later chunks</li>
+<li>If an object is “not found”, make sure it was created or loaded with <code>library()</code> in a previous chunk</li>
+</ul>
+<p><strong>If All Else Fails:</strong> If you cannot determine and fix the errors in a code chunk that’s preventing you from knitting your document, add <code>eval = FALSE</code> inside the brackets of <code>{r}</code> at the beginning of a chunk to ensure that R does not attempt to evaluate it, that is: <code>{r eval = FALSE}</code>. This will prevent an erroneous chunk of code from halting the knitting process.</p>
 <p><br> <br></p>
 <style>
 blockquote {
@@ -1768,7 +1880,6 @@ blockquote {
     border-left: 5px solid lightgray;
 }
 </style>
-</div>
 </div>
 </div>
 
@@ -1789,6 +1900,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

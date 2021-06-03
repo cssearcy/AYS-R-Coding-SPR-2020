@@ -5,14 +5,13 @@ output:
     theme: readable
     df_print: paged
     highlight: tango
-    include:
-      after_body: footer.html
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message=F, warning=F, fig.align='center', fig.width=9 )
 ```
 
+#### [Coding in R for Policy Analytics](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/)
 
 <br>
 
@@ -38,23 +37,19 @@ library( ggplot2 )
 library( leaflet )
 library( viridis )
 library( ggthemes )
-
 URL <- "https://github.com/DS4PS/Data-Science-Class/blob/master/DATA/TempeTrafficAccidents.rds?raw=true"
 dat <- readRDS(gzcon(url( URL )))
-
 dat$Age_Drv1[ dat$Age_Drv1 > 99 ] <- NA
 dat$Age_Drv1[ dat$Age_Drv1 < 16 ] <- NA
 dat$age <- cut( dat$Age_Drv1, breaks=c(16,18,25,35,45,55,65,75,100) )
 labz <- paste0( c(16,18,25,35,45,55,65,75), "-", c(18,25,35,45,55,65,75,100) )
 dat$age <- cut( dat$Age_Drv1, breaks=c(16,18,25,35,45,55,65,75,100), labels=labz )
-
 dat$Collisionmanner <- recode( dat$Collisionmanner, 
                              "ANGLE (Front To Side)(Other Than Left Turn)"="Angle" )
 dat$Collisionmanner <- recode( dat$Collisionmanner, "Sideswipe Same Direction"="Lane Change" )
 drop.these <- c("Unknown","10","Rear To Side","Rear To Rear","Sideswipe Opposite Direction","Other")
 dat <- filter( dat, ! ( Collisionmanner %in% drop.these ) )
 dat$Collisionmanner <- factor( dat$Collisionmanner )
-
 date.vec <- strptime( dat$DateTime, format="%m/%d/%y %H:%M" )
 dat$hour   <- format( date.vec, format="%H" )
 dat$hour12   <- format( date.vec, format="%l %p" )
@@ -63,16 +58,13 @@ dat$day    <- format( date.vec, format="%a" )
 dat$day365 <- format( date.vec, format="%j" )
 dat$week   <- format( date.vec, format="%V" )
 dat$day <- factor( dat$day, levels=c("Mon","Tue","Wed","Thu","Fri","Sat","Sun") )
-
 dat$hour12 <- factor( dat$hour12,
                       levels=c( "12 AM", " 1 AM", " 2 AM", " 3 AM", " 4 AM", " 5 AM", 
 " 6 AM", " 7 AM", " 8 AM", " 9 AM", "10 AM", "11 AM", 
 "12 PM", " 1 PM", " 2 PM", " 3 PM", " 4 PM", " 5 PM", 
 " 6 PM", " 7 PM", " 8 PM", " 9 PM", "10 PM", "11 PM" ) )
-
 d5 <- filter( dat, !is.na(age) )
 d5$age <- paste0( "Age ", d5$age )
-
 qmplot( Longitude, Latitude, data=d5, geom = "blank", 
   zoom = 13, maptype = "toner-background", darken = .1 ) + 
   stat_density_2d( aes(fill = ..level..), geom = "polygon", alpha=0.2, color = NA) +
@@ -82,10 +74,6 @@ qmplot( Longitude, Latitude, data=d5, geom = "blank",
   scale_x_continuous(breaks = NULL) +
   scale_y_continuous(breaks = NULL) +
   ggtitle("Crash Locations by Age Group")
-
-
-
-
 ```
 
 <br><br>
@@ -106,21 +94,16 @@ qmplot( Longitude, Latitude, data=d5, geom = "blank",
 <br><br>
 
 ```{r, echo=F, fig.width=10, fig.height=6}
-
 dat$age <- factor( dat$age )
-
 d3 <- 
   dat %>% 
   count( hour, age )
-
 d3 <- na.omit( d3 )
 d3$age <- paste0( "Age ", d3$age )
-
 # ggplot( d3, aes( x=as.numeric(as.character(hour)), y=n, fill=age )) + 
 #     geom_area( position='fill' ) +
 #     scale_fill_brewer(  type="qual" ) +
 #     xlab("Time of Day (24hrs)") + ylab("Number of Accidents")
-
 qplot( data=d3, x=as.numeric(as.character(hour)), y=n ) + 
   geom_line( size=0.8, color="firebrick4" ) + 
   geom_point( size=3, color="darkred" ) + 
@@ -130,9 +113,6 @@ qplot( data=d3, x=as.numeric(as.character(hour)), y=n ) +
   ggtitle("Number of Accidents by Time and Age Group") +
   # theme_minimal() 
   theme_wsj( base_size=10, color="gray" )
-
-
-
 ```
 
 
@@ -143,18 +123,12 @@ d3 <-
 dat %>% 
 group_by( hour, age ) %>%
 summarize( harm = mean( Totalinjuries > 0 | Totalfatalities > 0 ) )
-
 d3 <- na.omit( d3 )
 d3$age <- paste0( "Age ", d3$age )
-
-
 # ggplot( d3, aes( x=as.numeric(as.character(hour)), y=harm, fill=age )) + 
 #     geom_area( position='fill' ) +
 #     xlab("Time of Day (24hrs)") + ylab("Rate of Harm")
-
 mean.harm <- mean( d3$harm )
-
-
 qplot( data=d3, x=as.numeric(as.character(hour)), y=harm ) + 
   geom_line( color="steelblue", size=0.8 ) + 
   geom_point( color="darkblue", size=3 ) + 
@@ -242,7 +216,6 @@ The dataset contains the following variables:
 
 ```{r}
 date.vec <- strptime( dat$DateTime, format="%m/%d/%y %H:%M" )
-
 dat$hour   <- format( date.vec, format="%H" )
 dat$month  <- format( date.vec, format="%b" )
 dat$day    <- format( date.vec, format="%a" )
@@ -254,7 +227,6 @@ Correct the order of categorical variables by making them ordered factors:
 
 ```{r}
 table( dat$day ) %>% pander()
-
 # correct order of days
 dat$day <- factor( dat$day, levels=c("Mon","Tue","Wed","Thu","Fri","Sat","Sun") )
 table( dat$day ) %>% pander()
@@ -265,14 +237,12 @@ Create 12-hour format and order the times correctly:
 ```{r}
 dat$hour12 <- format( date.vec, format="%l %p" )
 table( dat$hour12 ) %>% head() %>% pander()
-
 # set the levels so they are in the correct order
 time.levels <-
   c( "12 AM", " 1 AM", " 2 AM", " 3 AM", " 4 AM", " 5 AM", 
      " 6 AM", " 7 AM", " 8 AM", " 9 AM", "10 AM", "11 AM", 
      "12 PM", " 1 PM", " 2 PM", " 3 PM", " 4 PM", " 5 PM", 
      " 6 PM", " 7 PM", " 8 PM", " 9 PM", "10 PM", "11 PM" )
-
 dat$hour12 <- factor( dat$hour12, levels=time.levels )
 table( dat$hour12 ) %>% head() %>% pander()
 ```
@@ -283,7 +253,6 @@ table( dat$hour12 ) %>% head() %>% pander()
 ```{r}
 age.labels <- paste0( "Age ", c(16,18,25,35,45,55,65,75), "-", c(18,25,35,45,55,65,75,100) )
 age.labels
-
 dat$age <- cut( dat$Age_Drv1, breaks=c(16,18,25,35,45,55,65,75,100), labels=age.labels )
 ```
 
@@ -301,7 +270,13 @@ We will define "harm" as any accident that causes at least one injury OR fatalit
 
 For each question, write down your data recipe or pseudocode. 
 
-You can create a new RMarkdown file, or download the lab template: [RMD Template](https://cdn.rawgit.com/DS4PS/Data-Science-Class/c464d527/TEMPLATES/MarkdownTemplateSimple.Rmd)
+You can create a new R Markdown file, or download the **LAB-05 RMD template**: 
+
+<center>
+
+[![](images/download.png)](https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-05-v2-LastName.zip?raw=true)
+
+</center>
 
 
 <br><br>
@@ -395,7 +370,6 @@ Do NOT confuse this question with, what age group is most likely to cause an acc
 # d <- data.frame( f1, f2, x )
 # d <- arrange( d, f1, f2 ) 
 # d
-
 d <- 
 structure(list(f1 = structure(c(1L, 1L, 1L, 1L, 1L, 1L, 2L, 2L, 
 2L, 2L), .Label = c("A", "B"), class = "factor"), f2 = structure(c(1L, 
@@ -546,11 +520,8 @@ dat %>%
   mutate( n.hour = sum( n ) ) %>%
   mutate( p = n / sum(n), p.age = n / n.age, p.hour = n / n.hour ) %>%
   filter( hour12 == " 7 AM" ) 
-
 d1 %>% kable( digits=2 )
-
 d1 <- d1[ 1:8 , ]
-
 plot( d1$p.age, bty="n", pch=19, cex=3, type="b", lwd=2,
       ylab="Proportion of All Accidents Within Each Age Group",
       xaxt="n", xlab="", ylim=c(0,0.08), main="Within Age Accident Rates at 7AM" )
@@ -577,48 +548,34 @@ Should we focus on the volume of traffic accidents, or the types of accidents th
 
 
 ```{r, echo=F}
-
 d2 <- 
   dat %>% 
   count( hour )
-
 plot( as.numeric(d2$hour), d2$n, pch=19, type="b", cex=2, bty="n",
       xlab="Hour of the Day", ylab="Number of Crashes", 
       main="Number of Crashes by Hour of the Day" )
-
-
 d2 <- 
   dat %>% 
   group_by( hour ) %>%
   summarize( tot.num.injuries = sum( Totalinjuries + Totalfatalities ) )
-
 plot( as.numeric(d2$hour), d2$tot.num.injuries, pch=19, type="b", cex=2, bty="n",
       xlab="Hour of the Day", ylab="Total Number of Passengers Hurt or Killed",
       main="Total Injuries or Fatalities by Hour of the Day")
-
-
 d2 <- 
   dat %>% 
   group_by( hour ) %>%
   summarize( harm = mean( Totalinjuries > 0 | Totalfatalities > 0 ) )
-
 plot( as.numeric(d2$hour), d2$harm, pch=19, type="b", cex=2, bty="n",
       xlab="Hour of the Day", ylab="Proportion of Accidents Resulting in Harm",
       main="Proportion of Crashes that Result in Injuries or Fatalities")
-
 d2 <- 
   dat %>% 
   filter(  Totalinjuries > 0 | Totalfatalities > 0 ) %>%
   group_by( hour ) %>%
   summarize( ave.num.injuries = mean( Totalinjuries + Totalfatalities ) )
-
 plot( as.numeric(d2$hour), d2$ave.num.injuries, pch=19, type="b", cex=2, bty="n",
       xlab="Hour of the Day", ylab="Ave. Number of Passengers Hurt",
       main="Average Injuries or Fatalities Per Harmful Crash")
-
-
-
-
 ```
 
 Calculate each of these four descriptive statistics above as a function of the 24 hours of the day, and either **print a table with times and counts/rates, or plot a graph of the statistics** as a function of time similar to the examples above.
@@ -701,17 +658,12 @@ We can now use the **format()** function to specify how we want the date represe
 
 ```{r}
 format( head( date.vec ), format="%H" )  # hour of day 0-23
-
 format( head( date.vec ), format="%I" )  # hour of day 1-12
-
 format( head( date.vec ), format="%p" )  # AM or PM
  
 format( head( date.vec ), format="%m" )  # month 1-12
-
 format( head( date.vec ), format="%b" )  # abbreviated month Jan, Feb, etc
-
 format( head( date.vec ), format="%A" )  # day of the week Monday, Tuesday, etc.
-
 format( head( date.vec ), format="%a" )  # abbreviated day of the week Mon, Tue, etc.
 ```
 
@@ -840,20 +792,17 @@ Signed offset in hours and minutes from UTC, so -0800 is 8 hours behind UTC. Val
 
 ```{r}
 date.vec <- strptime( dat$DateTime, format="%m/%d/%y %H:%M" )
-
 dat$hour   <- format( date.vec, format="%H" )
 dat$month  <- format( date.vec, format="%b" )
 dat$day    <- format( date.vec, format="%a" )
 dat$day365 <- format( date.vec, format="%j" )
 dat$week   <- format( date.vec, format="%V" )
-
 # set the levels so they are in the correct order
 time.levels <-
   c( "12 AM", " 1 AM", " 2 AM", " 3 AM", " 4 AM", " 5 AM", 
      " 6 AM", " 7 AM", " 8 AM", " 9 AM", "10 AM", "11 AM", 
      "12 PM", " 1 PM", " 2 PM", " 3 PM", " 4 PM", " 5 PM", 
      " 6 PM", " 7 PM", " 8 PM", " 9 PM", "10 PM", "11 PM" )
-
 dat$hour12 <- format( date.vec, format="%l %p" )
 dat$hour12 <- factor( dat$hour12, levels=time.levels )
 ```
@@ -861,7 +810,6 @@ dat$hour12 <- factor( dat$hour12, levels=time.levels )
 
 
 ```{r, fig.width=10, fig.height=14}
-
 qmplot( Longitude, Latitude, data=dat, geom = "blank", 
   zoom = 13, maptype = "toner-background", darken = .1 ) + 
   stat_density_2d( aes(fill = ..level..), geom = "polygon", alpha=0.3, color = NA) +
@@ -882,28 +830,22 @@ qmplot( Longitude, Latitude, data=dat, geom = "blank",
 <br><br>
 
 ```{r}
-
 d2 <- 
   dat %>% 
   filter( as.numeric(week) <= 52 ) %>%
   count( week )
-
 plot( as.numeric(d2$week), d2$n, pch=19, type="b", cex=2, bty="n",
       xlab="Week", ylab="Number of Crashes", 
       main="Cumulative Crashes by Week of the Year: 2012-2018" )
-
 d2 <- 
   dat %>% 
   filter( as.numeric(week) <= 52 ) %>%
   group_by( week ) %>%
   summarize( harm = mean( Totalinjuries > 0 | Totalfatalities > 0 ) )
-
 plot( as.numeric(d2$week), d2$harm, pch=19, type="b", cex=2, bty="n",
       xlab="Weeks in the Year", ylab="Rate of Harm",
       main="Proportion of Crashes that Result in Harm Across Weeks")
-
 abline( h=mean(d2$harm), col="gray", lty=2, lwd=2 )
-
 ```
 
 
@@ -917,12 +859,10 @@ d2 <-
   count( week ) %>%
   group_by( week ) %>%
   summarize( ave.crashes.per.week = mean(n) )
-
 plot( as.numeric(d2$week), d2$ave.crashes.per.week, 
       pch=19, type="b", cex=2, bty="n",
       xlab="Week", ylab="Number of Crashes", 
       main="Ave Crashes by Week of Year" )
-
 ```
 
 
@@ -939,17 +879,12 @@ count( dat, Collisionmanner ) %>% arrange(n) %>% pander()
 
 
 ```{r}
-
 dat$Collisionmanner <- recode( dat$Collisionmanner, 
                              "ANGLE (Front To Side)(Other Than Left Turn)"="Angle" )
-
 dat$Collisionmanner <- recode( dat$Collisionmanner, "Sideswipe Same Direction"="Lane Change" )
-
 drop.these <- c("Unknown","10","Rear To Side","Rear To Rear","Sideswipe Opposite Direction","Other")
 dat <- filter( dat, ! ( Collisionmanner %in% drop.these ) )
-
 dat$Collisionmanner <- factor( dat$Collisionmanner )
-
 count( dat, Collisionmanner ) %>% arrange(n) %>% pander()
 ```
 
@@ -958,9 +893,7 @@ Patterns in types of crashes by time of day:
 
 ```{r}
 table( dat$hour, dat$Collisionmanner ) %>% pander()
-
 d3 <- data.frame( table( dat$hour, dat$Collisionmanner ) )
-
 ggplot( d3, aes( x=as.numeric(Var1), y=Freq, fill=Var2 ) ) + 
     geom_area( position='fill' ) +
     scale_fill_brewer(  type="qual" ) +
@@ -973,35 +906,26 @@ ggplot( d3, aes( x=as.numeric(Var1), y=Freq, fill=Var2 ) ) +
 
 
 ```{r, eval=F, echo=F}
-
 dat$day <- factor( dat$day, levels=c("Mon","Tue","Wed","Thu","Fri","Sat","Sun") )
 table( dat$day, dat$Collisionmanner ) %>% prop.table(margin=1) %>% round(2) %>% pander()
-
 d3 <- data.frame( table( dat$day, dat$Collisionmanner ) )
-
 ggplot( d3, aes( x=as.numeric(Var1), y=Freq, fill=Var2 ) ) + 
     geom_area( position='fill' ) +
     scale_fill_brewer(  type="qual" ) +
     xlab("Day") + ylab("Proportion of Accidents")
-
 # qplot( data=d3, x=as.numeric(Var1), y=Freq ) + 
 #   geom_point() + geom_line() + 
 #   facet_wrap( d3$Var2 ) +
 #   xlab("Day (Mon-Sun)") + ylab("Number of Accidents")
-
-
 d4 <-
   dat %>%
   group_by( day, Collisionmanner ) %>%
   summarize( harm=mean( Totalinjuries > 0 | Totalfatalities > 0) )
-
 # qplot( data=d4, x=as.numeric(day), y=harm ) + 
 #   geom_point() + geom_line() + 
 #   facet_wrap( d4$Collisionmanner ) +
 #   xlab("Day (Mon-Sun)") + ylab("Harm Rate") # +
 #   # scale_x_discrete( labels=c("1"="Mon","2"="Tue","3"="Wed","4"="Thu","5"="Fri","6"="Sat","7"="Sun") )
-
-
 ```
 
 
@@ -1014,11 +938,9 @@ We have a wide range of driver ages:
 
 ```{r}
 summary( dat$Age_Drv1 ) %>% pander()
-
 # remove meaningless ages
 dat$Age_Drv1[ dat$Age_Drv1 > 99 ] <- NA
 dat$Age_Drv1[ dat$Age_Drv1 < 16 ] <- NA
-
 dat %>%
   filter( ! is.na(Age_Drv1) ) %>%
   count( Age_Drv1 ) %>%
@@ -1053,9 +975,7 @@ We can now analyze some trends by age group.
 d3 <- 
   dat %>% 
   count( hour, age )
-
 d3 <- na.omit( d3 )
-
 qplot( data=d3, x=as.numeric(as.character(hour)), y=n ) + 
   geom_line( size=0.8, color="firebrick4" ) + 
   geom_point( size=3, color="darkred" ) + 
@@ -1071,28 +991,20 @@ qplot( data=d3, x=as.numeric(as.character(hour)), y=n ) +
 
 ```{r, eval=F, echo=F}
 d5 <- filter( dat, !is.na(age) )
-
 qmplot( Longitude, Latitude, data=d5, geom = "blank", 
   zoom = 13, maptype = "toner-background", darken = .1 ) + 
   stat_density_2d( aes(fill = ..level..), geom = "polygon", alpha=0.2, color = NA) +
   scale_fill_viridis( begin=0, end=1, option="C" ) + 
   facet_wrap( ~ age, ncol=4 )
-
-
-
 d3 <- 
 dat %>% 
 group_by( hour, age ) %>%
 summarize( harm = mean( Totalinjuries > 0 | Totalfatalities > 0 ) )
-
 d3 <- na.omit( d3 )
-
 ggplot( d3, aes( x=as.numeric(as.character(hour)), y=harm, fill=age )) + 
     geom_area( position='fill' ) +
     xlab("Time of Day (24hrs)") + ylab("Rate of Harm")
-
 mean.harm <- mean( d3$harm )
-
 qplot( data=d3, x=as.numeric(as.character(hour)), y=harm ) + 
   geom_point( color="steelblue", size=3 ) + geom_line( color="steelblue" ) + 
   geom_hline( yintercept=mean.harm, color="black" ) + 
@@ -1101,21 +1013,15 @@ qplot( data=d3, x=as.numeric(as.character(hour)), y=harm ) +
   ggtitle("Proportion of Accidents Resulting in Harm") +
   # theme_fivethirtyeight() 
   theme_stata()
-
-
 dat$age <- factor( dat$age )
-
 d3 <- 
   dat %>% 
   count( hour, age )
-
 d3 <- na.omit( d3 )
-
 ggplot( d3, aes( x=as.numeric(as.character(hour)), y=n, fill=age )) + 
     geom_area( position='fill' ) +
     scale_fill_brewer(  type="qual" ) +
     xlab("Time of Day (24hrs)") + ylab("Number of Accidents")
-
 qplot( data=d3, x=as.numeric(as.character(hour)), y=n ) + 
   geom_point() + geom_line() + 
   facet_wrap( ~ age, ncol=4 ) +
@@ -1133,20 +1039,55 @@ qplot( data=d3, x=as.numeric(as.character(hour)), y=n ) +
 
 <br><br>
 
-# Submission Instructions
+# How to Submit
 
-When you have completed your assignment, knit your RMD file to generate your rendered HTML file. Platforms like iCollege often disallow you from submitting HTML files when there is embedded computer code, so create a zipped folder with both the RMD and HTML files.
+Use the following instructions to submit your assignment, which may vary depending on your course's platform.
 
-Login to iCollege and navigate to Assignments, Lab 5. Upload your zipped folder to the submission folder.
+<br>
 
-Remember to:
+### Knitting to HTML
 
-* name your files according to the convention: **Lab-##-LastName.Rmd**
-* show your solution, include your code.
-* do not print excessive output (like a full data set).
-* follow appropriate style guidelines (spaces between arguments, etc.).
+When you have completed your assignment, click the "Knit" button to render your `.RMD` file into a `.HTML` report.
+
+<br>
+
+### Special Instructions
+
+Perform the following depending on your course's platform:
+
+* **Canvas:** Upload both your `.RMD` and `.HTML` files to the appropriate link
+* **Blackboard or iCollege:** Compress your `.RMD` and `.HTML` files in a `.ZIP` file and upload to the appropriate link
+
+`.HTML` files are preferred but not allowed by all platforms.
+
+<br>
+
+### Before You Submit
+
+Remember to ensure the following before submitting your assignment.
+
+1. Name your files using this format: **Lab-##-LastName.rmd** and **Lab-##-LastName.html**
+2. Show both the solution for your code and write out your answers in the body text 
+3. Do not show excessive output; truncate your output, e.g. with function `head()`
+4. Follow appropriate styling conventions, e.g. spaces after commas, etc.
+5. Above all, ensure that your conventions are consistent
+
+See [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml) for examples of common conventions.
 
 <br>
 <br>
 
+### Common Knitting Issues
 
+`.RMD` files are knit into `.HTML` and other formats procedural, or line-by-line.
+
+* An error in code when knitting will halt the process; error messages will tell you the specific line with the error
+* Certain functions like `install.packages()` or `setwd()` are bound to cause errors in knitting 
+* Altering a dataset or variable in one chunk will affect their use in all later chunks
+* If an object is "not found", make sure it was created or loaded with `library()` in a previous chunk
+
+**If All Else Fails:** If you cannot determine and fix the errors in a code chunk that's preventing you from knitting your document, add `eval = FALSE` inside the brackets of `{r}` at the beginning of a chunk to ensure that R does not attempt to evaluate it, that is: `{r eval = FALSE}`. This will prevent an erroneous chunk of code from halting the knitting process.  
+
+<br>
+<br>
+<br>

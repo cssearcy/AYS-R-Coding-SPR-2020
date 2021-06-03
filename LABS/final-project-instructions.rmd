@@ -13,11 +13,13 @@ library( dplyr )
 library( pander )
 ```
 
-#### CPP 526
+#### [Coding in R for Policy Analytics](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/)
 
 <br>
 
-A dashboard template has been provided.  See the link in the Course Schedule.
+A dashboard template has been provided:
+
+[![](images/download.png)](https://www.dropbox.com/s/9l2kdaxk942q6ob/final-project-dashboard-template.rmd?dl=1)
 
 
 
@@ -86,11 +88,8 @@ The template includes a data table with the raw data that allows the users to fi
 We use the Data Table **DT** package to embed data in a dashboard. 
 
 ```{r, echo=T, eval=F}
-
 # library( DT )
-
 these.buttons <- c( 'copy', 'csv', 'excel', 'pdf', 'print' )
-
 datatable( dat,
            filter='bottom', rownames=FALSE, 
            #options=list( pageLength=5, autoWidth=TRUE ),
@@ -102,7 +101,6 @@ datatable( dat,
                          buttons=these.buttons  )) %>%
   
   formatStyle( "name", "white-space"="nowrap" )
-
 ```
 
 
@@ -200,12 +198,10 @@ I suggest that you develop each analytical step outside of the dashboard, then a
 days.of.week <- c("Sat","Sun")
 start.time <- 3
 end.time <- 6
-
 # filter data
 d2 <-
   dat %>%
   filter( day %in% days.of.week, hour >= start.time & hour <= end.time )
-
 # analyze data
 d2 %>%
   count( Collisionmanner ) %>%
@@ -217,7 +213,6 @@ Now to link to your shiny widgets, you just need to grab the user inputs:
 
 ```{r, eval=F}
 # shiny widgets
-
 checkboxGroupInput("days", label = h3("Day of Week"), 
     choices = list("Monday"    = "Mon", 
                    "Tuesday"   = "Tue", 
@@ -227,10 +222,8 @@ checkboxGroupInput("days", label = h3("Day of Week"),
                    "Saturday"  = "Sat",
                    "Sunday"    = "Sun" ),
     selected = c("Mon","Tue","Wed","Thu","Fri","Sat","Sun"),
-
 sliderInput("hour", label = h3("Time of Day"), 
             min = 0, max = 23, value = c(6, 12))
-
 # parameters
 days.of.week <- input$days    # vector will all checked values
 start.time <- input$hour[1]   # sliderInput lower value
@@ -338,6 +331,5 @@ The dataset contains the following variables:
 |DrugUse_Drv2        |text      |Drug Use 2                 |Indicates whether drug use was a contributing factor in the crash or not.                                                   |
 |Latitude            |numeric   |Latitude                   |Used to specify the precise location of the crash.                                                                          |
 |Longitude           |numeric   |Longitude                  |Used to specify the precise location of the crash.                                                                          |
-
 
 
