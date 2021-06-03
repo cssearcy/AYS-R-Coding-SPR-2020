@@ -951,7 +951,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-02-v2-LastName.zip?raw=true')">LAB-02 Template</a>
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
@@ -1129,7 +1129,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-03-v2-LastName.zip?raw=true')">LAB-03 Template</a>
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
@@ -1319,7 +1319,7 @@ Click to download the lab template.
 
 <a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-04-v2-LastName.zip?raw=true')">LAB-04 Template</a>
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
@@ -1508,7 +1508,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-05-v2-LastName.zip?raw=true')">LAB-05 Template</a>
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
@@ -1673,7 +1673,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 <a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-06-v2-LastName.zip?raw=true')">LAB-06 Template</a>
 
-## Submit Solutions to Canvas
+## Submit Solutions to iCollege
 
 <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
 
@@ -1735,7 +1735,7 @@ Download the recommended template for your code-through with the below link.
 
 <a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-projects/cpp-526-CodeThrough-LastName.zip?raw=true')">Base Code-Through Template</a>
 
-## Submit to Canvas
+## Submit to iCollege
 
 <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT CODE-THROUGH</a>
 
@@ -1765,7 +1765,7 @@ We recommended creating new tabs independently, then incorporating them into the
 
 <a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-projects/cpp-526-DashboardTemplates.zip?raw=true')">Final Project Templates</a>
 
-## Submit to Canvas
+## Submit to iCollege
 
 <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT DASHBOARD</a>
 
