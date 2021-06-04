@@ -146,7 +146,7 @@ The online discussions are explicitly intended to meet the objectives stated abo
 
 ### Video Lectures
 
-Several videos are provided throughout the course.  They are not mandatory viewing, however we have recently integrated them into the Course Schedule and elsewhere to provide an additional medium for audio-visual learning in demonstrating core concepts.  We recommend reproducing the data analytic tasks you see while watching each in order to ensure retention.  Video lectures are designed as a supplement and not intended for use in lieu of assigned reading.  Take advantage of the bookmarks and timestamps to quickly navigate to topics of interest in each video and consider subscribing as new course content is published frequently.
+Several videos are provided throughout the course.  They are not mandatory viewing, however we have recently integrated them into the Course Schedule and elsewhere to provide an additional medium for audio-visual learning in demonstrating core concepts.  We recommend reproducing the data analytic tasks you see while watching each in order to ensure retention.  Video lectures are designed as a supplement and not intended for use in lieu of assigned reading.  Take advantage of the bookmarks and timestamps to quickly navigate to topics of interest in each video and consider subscribing as new course content is published from time to time.
 
 ## B. Assigned Reading Materials
 
