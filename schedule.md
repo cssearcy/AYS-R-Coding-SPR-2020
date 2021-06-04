@@ -368,7 +368,7 @@ The following checklist will help you organize and prepare for success in this c
 - [ ] [Read the Syllabus](https://ds4ps.org/cpp-526-spr-2020/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
-- [ ] Introduce Yourself on [iCollege](https://gastate.view.usg.edu/d2l/home/2322808) (See Below)
+- [ ] Introduce Yourself on [iCollege](https://gastate.view.usg.edu/d2l/le/2322808/discussions/List) (See Below)
 - [ ] (Recommended) Skim Readings
 - [ ] (Recommended) Videos
 
@@ -386,7 +386,7 @@ We will be using the course discussion board in **iCollege** for this course. Fi
 2. Your previous experience with data analytics 
 3. One thing you hope to do with your new skills in data analytics 
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Visit iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2322808/discussions/List">Post on iCollege</a>
 
 <br>
 <br>
