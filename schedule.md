@@ -374,7 +374,7 @@ The following checklist will help you organize and prepare for success in this c
 
 <br>
 
-*** { @unit = "{{page.discussion-dates.topic-00}}", @title = "Introduce Yourself", @assignment, @foldout }
+*** { @unit = "Due June 12", @title = "Introduce Yourself", @assignment, @foldout }
 
 <br>
 
@@ -685,7 +685,7 @@ The following checklist will help you stay organized in your first week.
 
 <br>
 
-*** { @unit = "{{page.discussion-dates.topic-01}}", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due June 17", @title = "Discussion Topic", @assignment, @foldout  }
 
 ## The Promise of Big, Open Data
 
@@ -887,7 +887,7 @@ The following checklist will help you stay organized in your second week.
 
 <br>
 
-*** { @unit = "{{page.discussion-dates.topic-02}}", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due June 24", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 
@@ -1087,7 +1087,7 @@ The following checklist will help you stay organized in your third week.
 
 <br>
 
-*** { @unit = "{{page.discussion-dates.topic-03}}", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "July 1", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1280,7 +1280,7 @@ The following checklist will help you stay organized in your fourth week.
 
 <br>
 
-*** { @unit = "{{page.discussion-dates.topic-04}}", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due July 8", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1457,7 +1457,7 @@ The following checklist will help you stay organized in your fifth week.
 
 <br>
 
-*** { @unit = "{{page.discussion-dates.topic-05}}", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due July 15", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1600,7 +1600,7 @@ The following checklist will help you stay organized in your sixth week.
 
 <br>
 
-*** { @unit = "{{page.discussion-dates.topic-06}}", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due July 22", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 
@@ -1717,7 +1717,7 @@ The following checklist will help you stay organized for your final week.
 
 <br>
 
-*** { @unit = "{{page.code-through.due-date}}", @title = "Code-Through Project", @assignment, @foldout  }
+*** { @unit = "Due July 29", @title = "Code-Through Project", @assignment, @foldout  }
 
 <br>
 
@@ -1746,7 +1746,7 @@ Download the recommended template for your code-through with the below link.
 <br>
 <br>
 
-*** { @unit = "{{page.final-project.due-date}}", @title = "Final Dashboard Project", @assignment, @foldout  }
+*** { @unit = "Due July 30", @title = "Final Dashboard Project", @assignment, @foldout  }
 
 <br>
 
