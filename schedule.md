@@ -1107,7 +1107,7 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 <br>
 <br>
 
-*** { @unit = "Due July 6", @title = "Lab 03", @assignment, @foldout  }
+*** { @unit = "Due July 5", @title = "Lab 03", @assignment, @foldout  }
 
 <br>
 <br>
