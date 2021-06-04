@@ -1087,7 +1087,7 @@ The following checklist will help you stay organized in your third week.
 
 <br>
 
-*** { @unit = "July 1", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "Due July 1", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
