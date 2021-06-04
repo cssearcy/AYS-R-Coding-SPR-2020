@@ -723,7 +723,7 @@ You can earn up to 20 points a week, and points reseton the due date. You need t
 <br>
 <br>
 
-*** { @unit = "{{page.lab-due-dates.lab-01}}", @title = "Lab 01", @assignment, @foldout  }
+*** { @unit = "Due June 20", @title = "Lab 01", @assignment, @foldout  }
 
 <br>
 
@@ -924,7 +924,7 @@ Take note, this assignment asks you to explore a new community where the technic
 <br>
 <br>
 
-*** { @unit = "{{page.lab-due-dates.lab-02}}", @title = "Lab 02", @assignment, @foldout }
+*** { @unit = "Due June 27", @title = "Lab 02", @assignment, @foldout }
 
 <br>
 <br>
@@ -1107,7 +1107,7 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 <br>
 <br>
 
-*** { @unit = "{{page.lab-due-dates.lab-03}}", @title = "Lab 03", @assignment, @foldout  }
+*** { @unit = "Due July 6", @title = "Lab 03", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1302,7 +1302,7 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 <br>
 <br>
 
-*** { @unit = "{{page.lab-due-dates.lab-04}}", @title = "Lab 04", @assignment, @foldout  }
+*** { @unit = "Due July 11", @title = "Lab 04", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1491,7 +1491,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 <br>
 <br>
 
-*** { @unit = "{{page.lab-due-dates.lab-05}}", @title = "Lab 05", @assignment, @foldout  }
+*** { @unit = "Due July 18", @title = "Lab 05", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1658,7 +1658,7 @@ Do you think open source frameworks would help open the black box and make gover
 <br>
 <br>
 
-*** { @unit = "{{page.lab-due-dates.lab-06}}", @title = "Lab 06", @assignment, @foldout  }
+*** { @unit = "Due July 25", @title = "Lab 06", @assignment, @foldout  }
 
 <br>
 <br>
