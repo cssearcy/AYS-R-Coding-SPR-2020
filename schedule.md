@@ -42,16 +42,25 @@ Play the video below to learn a bit more about your instructor for the course, J
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5rG8Pp1XUW4?rel=0&modestbranding=1&autohide=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C1A5x6LCDJo?rel=0&modestbranding=1&autohide=1&showinfo=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
-Visit the [video](https://youtu.be/5rG8Pp1XUW4) to navigate using timestamps in the description or bookmarks in the progress bar.
+Visit the [video](https://youtu.be/C1A5x6LCDJo) to navigate using timestamps in the description or bookmarks in the progress bar.
 
-* (**00:00**) Introduction
-* (**00:57**) My Background
-* (**02:03**) Teaching R & Connection to Course
-* (**04:10**) What I'm Excited About!
+* **(00:00)** Introduction
+* **(00:07)** Two Universities, One Course
+* **(01:06)** My Relationship to the Course
+* **(01:38)** Teaching Experience & Course Origins
+* **(02:30)** What I Do as a Data Scientist
+* **(04:10)** Want a "Hard" Skill?  Do the Work!
+* **(05:40)** Course Resources & Assignment Tips
+* **(07:21)** Resources to Learn & Resources to Ignore
+* **(09:06)** Why the "Unofficial" YouTube Channel Is Invaluable
+* **(09:44)** Weekly To-Do Checklists 
+* **(10:26)** Dispute Your Irrational Beliefs on Data Science
+* **(11:18)** First Assignment: Introduce Yourself
+* **(11:33)** Express Yourself
 
 <br>
 
