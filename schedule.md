@@ -902,7 +902,7 @@ The following checklist will help you stay organized in your second week.
 
 ## A Tour of R Packages
 
-You might not have heard, but [nerd is the new black](https://www.wsj.com/articles/SB10001424127887323478304578332850293360468), data science is the [sexiest job of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), and there is [nothing hotter](http://www.startfactor.pt/uploads/3/8/5/0/38505347/r-is-still-hot.pdf) than learning R.
+You might not have heard, but [nerd is the new black](https://www.wsj.com/articles/SB10001424127887323478304578332850293360468), data science is the [sexiest job of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), and there is [nothing hotter](https://blog.revolutionanalytics.com/r-is-hot/) than learning R.
 
 But what is R, and what are the ~~nerds~~ cool kids using it for? 
 
