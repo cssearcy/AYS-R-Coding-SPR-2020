@@ -32,33 +32,6 @@ instructor:
    office_hours_time: See Schedule
    office_hours_location:  
    office_hours_app_url: 'https://calendly.com/jamisoncrawford/20min'
-
-textbooks:
-- title: R Cookbook, Second Edition
-  authors: James, L., & Teetor, P.
-  edition: 2019
-  link: https://rc2e.com/
-  required: Not Required
-- title: R for Data Science
-  authors: Wickham, H., & Grolemund, G.
-  edition: Free Online
-  link: http://r4ds.had.co.nz/
-  required: Not Required
-- title: The Art of Data Science
-  authors: Peng, R. D., & Matsui, E.
-  edition: Free Online
-  link: https://leanpub.com/artofdatascience
-  required: Not Required
-- title: Modern Dive, Intro to Stats and Data Sciences via R
-  authors: Chester Ismay & Albert Y. Kim
-  edition: Free Online
-  link: https://moderndive.com/4-tidy.html
-  required: Not Required  
-- title: Big Book of Dashboards
-  authors: Smith, Smith, and Johnson
-  edition: 2017
-  link: https://www.amazon.com/Big-Book-Dashboards-Visualizing-Real-World/dp/1119282713/
-  required: Not Required 
   
 --- 
 
