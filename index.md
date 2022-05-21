@@ -13,7 +13,7 @@ info:
  course_title: Coding in R for Policy Analytics
  course_number: ECON 8000 / PMAP 8921 / CRJU 8830
  course_level: Graduate 
- course_website: 'https://gastate.view.usg.edu/d2l/home/2322808'
+ course_website: 'https://gastate.view.usg.edu/d2l/home/2578896'
  course_start_end_dates: Monday, June 6 to Monday, July 25, 2022
  course_prerequisites:  
  class_meets_when:  Asynchronous  
@@ -238,7 +238,7 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 ## F. Course Communications and Instructor Feedback:
 
-**Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [**iCollege course shell**](https://gastate.view.usg.edu/d2l/home/2322808). 
+**Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [**iCollege course shell**](https://gastate.view.usg.edu/d2l/home/2578896). 
 
 Please post lab questions on the course [**GitHub repository**](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues), schedule individual office hours using the Calendly link provided above, and *email the instructor directly instead of using the iCollege system*. You can learn more about how to create an effective GitHub issue by visiting this **[quick guide](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues/3)**.
 
