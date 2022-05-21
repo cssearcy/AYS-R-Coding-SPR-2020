@@ -248,7 +248,7 @@ Students should be aware that the course instructor will attempt to respond to a
 
 Respectful conversations and tolerance of others&#39; opinions will be strictly enforced. Any inappropriate language, threatening, harassing, or otherwise inappropriate behavior during discussion could result in the student(s) being administratively dropped from the course.
 
-For more information, refer to Georgia State University's **[Student Code of Conduct](https://codeofconduct.gsu.edu/files/2020/02/GSU-Student-Code-of-Conduct-020520.pdf)**.
+For more information, refer to Georgia State University's **[Student Code of Conduct](https://deanofstudents.gsu.edu/document/student-code-of-conduct/?wpdmdl=5233)**.
 
 # H. Academic Integrity and Honesty
 
