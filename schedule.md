@@ -383,7 +383,7 @@ The following checklist will help you organize and prepare for success in this c
 
 <br>
 
-*** { @unit = "Due June 12", @title = "Introduce Yourself", @assignment, @foldout }
+*** { @unit = "WED June 8", @title = "Introduce Yourself", @assignment, @foldout }
 
 <br>
 
@@ -694,7 +694,7 @@ The following checklist will help you stay organized in your first week.
 
 <br>
 
-*** { @unit = "Due June 17", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "FRI June 10", @title = "Discussion Topic", @assignment, @foldout  }
 
 ## The Promise of Big, Open Data
 
@@ -732,7 +732,7 @@ You can earn up to 20 points a week, and points reseton the due date. You need t
 <br>
 <br>
 
-*** { @unit = "Due June 20", @title = "Lab 01", @assignment, @foldout  }
+*** { @unit = "SUN June 12", @title = "Lab 01", @assignment, @foldout  }
 
 <br>
 
@@ -896,7 +896,7 @@ The following checklist will help you stay organized in your second week.
 
 <br>
 
-*** { @unit = "Due June 24", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "FRI June 17", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 
@@ -933,7 +933,7 @@ Take note, this assignment asks you to explore a new community where the technic
 <br>
 <br>
 
-*** { @unit = "Due June 27", @title = "Lab 02", @assignment, @foldout }
+*** { @unit = "SUN June 19", @title = "Lab 02", @assignment, @foldout }
 
 <br>
 <br>
@@ -1096,7 +1096,7 @@ The following checklist will help you stay organized in your third week.
 
 <br>
 
-*** { @unit = "Due July 1", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "FRI June 24", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1116,7 +1116,7 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 <br>
 <br>
 
-*** { @unit = "Due July 5", @title = "Lab 03", @assignment, @foldout  }
+*** { @unit = "SUN Jun 26", @title = "Lab 03", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1289,7 +1289,7 @@ The following checklist will help you stay organized in your fourth week.
 
 <br>
 
-*** { @unit = "Due July 8", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "FRI July 1", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1311,7 +1311,7 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 <br>
 <br>
 
-*** { @unit = "Due July 11", @title = "Lab 04", @assignment, @foldout  }
+*** { @unit = "SUN July 3", @title = "Lab 04", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1466,7 +1466,7 @@ The following checklist will help you stay organized in your fifth week.
 
 <br>
 
-*** { @unit = "Due July 15", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "FRI July 8", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1500,7 +1500,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 <br>
 <br>
 
-*** { @unit = "Due July 18", @title = "Lab 05", @assignment, @foldout  }
+*** { @unit = "SUN July 10", @title = "Lab 05", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1609,7 +1609,7 @@ The following checklist will help you stay organized in your sixth week.
 
 <br>
 
-*** { @unit = "Due July 22", @title = "Discussion Topic", @assignment, @foldout  }
+*** { @unit = "FRI July 15", @title = "Discussion Topic", @assignment, @foldout  }
 
 <br>
 
@@ -1667,7 +1667,7 @@ Do you think open source frameworks would help open the black box and make gover
 <br>
 <br>
 
-*** { @unit = "Due July 25", @title = "Lab 06", @assignment, @foldout  }
+*** { @unit = "SUN July 17", @title = "Lab 06", @assignment, @foldout  }
 
 <br>
 <br>
@@ -1726,7 +1726,7 @@ The following checklist will help you stay organized for your final week.
 
 <br>
 
-*** { @unit = "Due July 29", @title = "Code-Through Project", @assignment, @foldout  }
+*** { @unit = "FRI July 22", @title = "Code-Through Project", @assignment, @foldout  }
 
 <br>
 
@@ -1755,7 +1755,7 @@ Download the recommended template for your code-through with the below link.
 <br>
 <br>
 
-*** { @unit = "Due July 30", @title = "Final Dashboard Project", @assignment, @foldout  }
+*** { @unit = "SUN July 24", @title = "Final Dashboard Project", @assignment, @foldout  }
 
 <br>
 
