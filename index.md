@@ -14,7 +14,7 @@ info:
  course_number: ECON 8000 / PMAP 8921 / CRJU 8830
  course_level: Graduate 
  course_website: 'https://gastate.view.usg.edu/d2l/home/2322808'
- course_start_end_dates: June 7 to July 26, 2021
+ course_start_end_dates: Monday, June 6 to Monday, July 25, 2022
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  Online
