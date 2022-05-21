@@ -272,7 +272,7 @@ For more information, refer to Georgia State University's **[Academic Honesty Gu
 
 ## A. Schedule: Overview of Readings and Assignments
 
-A schedule for each week of the Summer, 2021 term is outlined in the Course Schedule; the course is divided into seven units with specific learning objectives for each unit.
+A schedule for each week of the Summer, 2022 term is outlined in the Course Schedule; the course is divided into seven units with specific learning objectives for each unit.
 
 **Note:** The course instructor may from time to time adjust assigned readings or adjust the due dates for assignment. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
