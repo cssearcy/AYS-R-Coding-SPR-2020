@@ -1,6 +1,6 @@
 ---
 layout: schedule
-title: 2022 Schedule
+title: 2022 Summer Schedule
 
 canvas: 
   assignment_url: 'https://gastate.view.usg.edu/d2l/home/2322808'
