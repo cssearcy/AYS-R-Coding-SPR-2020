@@ -10,7 +10,6 @@ index:
 info: 
  program_title: AYS Digital Landscape Initiative
  program_website: 'https://aysps.gsu.edu/digital-landscape/'
- course_title: Coding in R for Policy Analytics
  course_number: ECON 8000 / PMAP 8921 / CRJU 8830
  course_level: Graduate 
  course_website: 'https://gastate.view.usg.edu/d2l/home/2578896'
