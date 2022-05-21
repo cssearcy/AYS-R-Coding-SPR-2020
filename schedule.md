@@ -3,7 +3,7 @@ layout: schedule
 title: 2022 Summer Schedule
 
 canvas: 
-  assignment_url: 'https://gastate.view.usg.edu/d2l/home/2322808'
+  assignment_url: 'https://gastate.view.usg.edu/d2l/home/2578896'
 ---
  
 <!--- 
@@ -20,7 +20,7 @@ Unit Metadata is comprised of:
 @assignment - turn on lecture icon
 @lecture - turn on lecture icon
 @foldout - activate unit content (allow foldout)
-Submit Button - <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">Submit Lab</a>
+Submit Button - <a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2578896">Submit Lab</a>
 -->
 
 
@@ -377,7 +377,7 @@ The following checklist will help you organize and prepare for success in this c
 - [ ] [Read the Syllabus](https://ds4ps.org/cpp-526-spr-2020/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
-- [ ] Introduce Yourself on [iCollege](https://gastate.view.usg.edu/d2l/le/2322808/discussions/List) (See Below)
+- [ ] Introduce Yourself on [iCollege](https://gastate.view.usg.edu/d2l/le/2578896/discussions/List) (See Below)
 - [ ] (Recommended) Skim Readings
 - [ ] (Recommended) Videos
 
@@ -395,7 +395,7 @@ We will be using the course discussion board in **iCollege** for this course. Fi
 2. Your previous experience with data analytics 
 3. One thing you hope to do with your new skills in data analytics 
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2322808/discussions/List">Post on iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2578896/discussions/List">Post on iCollege</a>
 
 <br>
 <br>
@@ -715,7 +715,7 @@ So ignoring potential problems with big and open data for now, read about two in
 
 **Please post your reflection as a new pin on iCollege.**
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2322808/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2578896/discussions/List">Post to iCollege</a>
 
 <br>
 
@@ -748,7 +748,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 ## Submit Solutions to iCollege
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2578896">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -928,7 +928,7 @@ Take note, this assignment asks you to explore a new community where the technic
 
 **Please post your reflection as a new pin on iCollege:**
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2322808/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2578896/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -962,7 +962,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 ## Submit Solutions to iCollege
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2578896">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -1111,7 +1111,7 @@ For example, I might say that I work creating budgets for a government organizat
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2322808/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2578896/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -1140,7 +1140,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 ## Submit Solutions to iCollege
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2578896">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -1306,7 +1306,7 @@ Find a graph that violates one of these principles, or commits an equally egregi
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2322808/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2578896/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -1330,7 +1330,7 @@ Click to download the lab template.
 
 ## Submit Solutions to iCollege
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2578896">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -1495,7 +1495,7 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 *Note, you do not have to show how to use the API for the post, just identify what information is accessible and how it might be used.* 
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2322808/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2578896/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -1519,7 +1519,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 ## Submit Solutions to iCollege
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2578896">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -1662,7 +1662,7 @@ For this week, read about how [GitHub has evolved to support government](https:/
 
 Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws? 
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2322808/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2578896/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -1684,7 +1684,7 @@ Click to download the lab template. Modify and submit using the instructions.
 
 ## Submit Solutions to iCollege
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT LAB</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2578896">SUBMIT LAB</a>
 
 <br>
 <br>
@@ -1746,11 +1746,11 @@ Download the recommended template for your code-through with the below link.
 
 ## Submit to iCollege
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT CODE-THROUGH</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2578896">SUBMIT CODE-THROUGH</a>
 
 ## Post on iCollege
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2322808/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/le/2578896/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -1776,7 +1776,7 @@ We recommended creating new tabs independently, then incorporating them into the
 
 ## Submit to iCollege
 
-<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2322808">SUBMIT DASHBOARD</a>
+<a class="uk-button uk-button-primary" href="https://gastate.view.usg.edu/d2l/home/2578896">SUBMIT DASHBOARD</a>
 
 <br>
 <br>
