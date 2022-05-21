@@ -383,7 +383,7 @@ The following checklist will help you organize and prepare for success in this c
 
 <br>
 
-*** { @unit = "WED June 8", @title = "Introduce Yourself", @assignment, @foldout }
+*** { @unit = "Due WED June 8", @title = "Introduce Yourself", @assignment, @foldout }
 
 <br>
 
