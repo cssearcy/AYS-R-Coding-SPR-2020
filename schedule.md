@@ -1755,7 +1755,7 @@ Download the recommended template for your code-through with the below link.
 <br>
 <br>
 
-*** { @unit = "SUN July 24", @title = "Final Dashboard Project", @assignment, @foldout  }
+*** { @unit = "MON July 25", @title = "Final Dashboard Project", @assignment, @foldout  }
 
 <br>
 
