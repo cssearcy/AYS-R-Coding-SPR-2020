@@ -325,7 +325,7 @@ Many learners find study groups helpful, while others use learning platforms suc
 Hence, there are three options:
 
 1. **Using Your Resources:** Researching the issue using built-in documentation in R, online vignettes, demo Shiny apps, graphic and widget galleries, discussion forums, GitHub repositories, etc.
-2. **Posting on GitHub Issues:** Asking a question by providing a very specific set of details, like expectation vs. the problem, relevant error messages, sample data, code for reproducing the issue, etc.
+2. **Posting on GitHub Issues:** Asking your class questions by providing a very specific set of details, like expectation vs. the problem, relevant error messages, sample data, code for reproducing the issue, etc.
 3. **Scheduling Office Hours:** Meeting with the professor when all else fails. 
 
 <br>
