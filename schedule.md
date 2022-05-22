@@ -306,19 +306,9 @@ Visit the [video](https://youtu.be/ALwHaNzQub0) to navigate using timestamps in 
 
 *** { @unit = "", @title = "Getting Help", @reading, @foldout  }
 
-## Understand Your Options
+## Understand You're Not Alone
 
-If you find that you need help at any point in the course, there are three main courses to take.
-
-1. Troubleshooting Research
-2. Posting on GitHub Issues
-3. Scheduling office hours
-
-<br>
-
-## Understand Your Resources
-
-There are several resources beyond the course's Syllabus, Schedule, and iCollege site. 
+Lorem ipsom.
 
 <br>
 
@@ -328,7 +318,25 @@ Adapted from **[SRGRAFO](https://www.srgrafo.com/)**.
 
 <br>
 
-## GitHub Issues
+## Understand Your Options
+
+Many learners find study groups helpful, while others use learning platforms such as Coursera or Data Camp to supplement this course. Emailing the instructor regarding assignments is discouraged as it does not contribute to public discussion on GitHub Issues. 
+
+Hence, there are three options:
+
+1. **Using Your Resources:** Researching the issue using documentation in R, vignettes online, discussion forums, etc.
+2. **Posting on GitHub Issues:** Asking a question by providing a very specific set of details, like a reproducible example.
+3. **Scheduling Office Hours:** Meeting with the professor when all else fails.
+
+<br>
+
+### Using Your Resources
+
+There are several resources beyond the course's Syllabus, Schedule, and iCollege site. 
+
+<br>
+
+### Posting on GitHub Issues
 
 Note that the discussion board is hosted by **[GitHub Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)**. It is a great forum because:
 
@@ -336,7 +344,11 @@ Note that the discussion board is hosted by **[GitHub Issues](https://github.com
 * You can cut and paste images directly into the message. 
 * You can direction responses using @username mentions. 
 
-----
+<br>
+
+### Scheduling Office Hours
+
+Lorem...
 
 <br>
 <br>
