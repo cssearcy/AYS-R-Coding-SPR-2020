@@ -185,7 +185,7 @@ The following criteria, description, and corresponding points are used to evalua
 
 iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover go in-depth into exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article. We will use iCollege discussion boards for this assignment. You earn points through your activities on the board. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit.  A total of 140 points are available to earn throughout the semester. Points are allocated as follows:
 
-  - **New Posts:** Creating a new, sbstantive post with at least 200 words **(5 pts)**
+  - **New Posts:** Creating a new, substantive post with at least 200 words **(5 pts)**
   - **Comments Received:** Receiving a substantive comment on your post **(2 pts)**
   - **Comments Made:** Creating a substantive comment on another post **(2 pts)**
 
