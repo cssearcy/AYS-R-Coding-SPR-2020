@@ -323,7 +323,7 @@ We are going to throw a lot at you, but also provide a lot of support. Over thes
 If you find something confusing, let us know (likely others will find it confusing as well). 
 
 * Schedule a Zoom call with your instructor and screen share to walk through issues
-* Post a question to the [course discussion board](https://ds4ps.org/cpp-526-sum-2020/help/)
+* Post a question to the course discussion board on **[GitHub Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)**
 * Request a walk-through and your instructor will provide examples and steps 
 
 As a general rule of thumb, if you are stuck on the math or code for a problem, need clarification about what the question is asking, want to make sure you understand a formula, or are having similar issues then the help discussion page is the easiest and quickest way to get help. If you are confused about concepts or having a hard time even formulating your question, then virtual office hours are your best option.
