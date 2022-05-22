@@ -338,7 +338,7 @@ Adapted from **[SRGRAFO](https://www.srgrafo.com/)**.
 
 ### The Benefits of GitHub Issues
 
-Note that the discussion board is hosted by the GitHub issues feature. It is a great forum because:
+Note that the discussion board is hosted by **[GitHub Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)**. It is a great forum because:
 
 * You can format code and math using standard markdown syntax. 
 * You can cut and paste images directly into the message. 
