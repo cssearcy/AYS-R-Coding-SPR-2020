@@ -334,7 +334,7 @@ Hence, there are three options:
 
 There are several resources beyond the course's Syllabus, Schedule, and iCollege site. Consider:
 
-1. Can you view built-in R documentation using [help function](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/help) `help()` or `?`
+1. Can you view built-in R documentation using the `?` function or [help function](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/help): `help()`?
 2. Have you checked online for longform documentation or [vignettes](https://r-pkgs.org/vignettes.html#:~:text=A%20vignette%20is%20like%20a,multiple%20functions%20to%20solve%20problems.)?
 3. Did you visit documentation on any library-specific sites, like [Tidyverse](https://www.tidyverse.org/)?
 4. Are there any instructional videos available, like on the [Course Youtube Channel](https://www.youtube.com/channel/UC7qXkCiERSNtT_1IHt_88kQ)?
@@ -345,7 +345,13 @@ There are several resources beyond the course's Syllabus, Schedule, and iCollege
 
 ### Posting on GitHub Issues
 
-Note that the discussion board is hosted by **[GitHub Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)**. It is a great forum because:
+A repository, or "repo", is a central collection of code, data, and supplementary files like images. For example, all of the code for this course: R, HTML, etc. are kept in a repo. Every GitHub repo also has an "Issues" tab, which allows both developers and users to effectively report bugs, dead links, etc. 
+
+Our **[Course Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)** page allows learners to share questions, problematic code, errors, and more. All posts are visible to the public and replies are posted within 24 hours. Since quick response is not always guaranteed, detailed posts are encouraged, especially after your research in *Using Your Resources* above.
+
+
+
+It is a great forum because:
 
 * You can format code and math using standard markdown syntax. 
 * You can cut and paste images directly into the message. 
