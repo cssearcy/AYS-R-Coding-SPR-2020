@@ -306,27 +306,19 @@ Visit the [video](https://youtu.be/ALwHaNzQub0) to navigate using timestamps in 
 
 *** { @unit = "", @title = "Getting Help", @reading, @foldout  }
 
-## Understand Your Resources
+## Understand Your Options
 
-Data analytics is a very social endeavor and real-world analytics projects are almost always collaborative. 
+If you find that you need help at any point in the course, there are three main courses to take.
 
-These courses are designed to be interactive, and a lot of learning occurs by practicing the technical jargon from the field and learning how to talk about data and models. 
-
-Learning how to seek help and use discussion boards will accelerate learning and facilitate collaboration. Social coding tools like GitHub use these features extensively. 
-
-We are going to throw a lot at you, but also provide a lot of support. Over these first couple of weeks feel free to reach out for anything you might need. 
+1. Troubleshooting Research
+2. Posting on GitHub Issues
+3. Scheduling office hours
 
 <br>
 
-### Troubleshooting & Clarification
+## Understand Your Resources
 
-If you find something confusing, let us know (likely others will find it confusing as well). 
-
-* Schedule a Zoom call with your instructor and screen share to walk through issues
-* Post a question to the course discussion board on **[GitHub Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)**
-* Request a walk-through and your instructor will provide examples and steps 
-
-As a general rule of thumb, if you are stuck on the math or code for a problem, need clarification about what the question is asking, want to make sure you understand a formula, or are having similar issues then the help discussion page is the easiest and quickest way to get help. If you are confused about concepts or having a hard time even formulating your question, then virtual office hours are your best option.
+There are several resources beyond the course's Syllabus, Schedule, and iCollege site. 
 
 <br>
 
@@ -336,32 +328,13 @@ Adapted from **[SRGRAFO](https://www.srgrafo.com/)**.
 
 <br>
 
-### The Benefits of GitHub Issues
+## GitHub Issues
 
 Note that the discussion board is hosted by **[GitHub Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)**. It is a great forum because:
 
 * You can format code and math using standard markdown syntax. 
 * You can cut and paste images directly into the message. 
 * You can direction responses using @username mentions. 
-
-Please preview your responses before posting to ensure proper formatting. Note that you format code by placing fences around the code:
-
-````
-```
-# your code here
-lm( y ~ x1 + x2 )
-```
-````
-
-The fences are made of three back-ticks. These look like quotation marks, but are actually the character at the top left of your keyboard (if you have a US or European keyboard) and shared with the *tilde* (`~`). 
-
-````
-```
-y = b0 + b1•X1 + b2•X2 + e
-
-b1 = cov(x,y) / var(x)
-```
-````
 
 ----
 
