@@ -332,7 +332,14 @@ Hence, there are three options:
 
 ### Using Your Resources
 
-There are several resources beyond the course's Syllabus, Schedule, and iCollege site. 
+There are several resources beyond the course's Syllabus, Schedule, and iCollege site. Consider:
+
+1. Can you view built-in R documentation using [help function](https://www.rdocumentation.org/packages/utils/versions/3.6.2/topics/help) `help()` or `?`
+2. Have you checked online for longform documentation or [vignettes](https://r-pkgs.org/vignettes.html#:~:text=A%20vignette%20is%20like%20a,multiple%20functions%20to%20solve%20problems.)?
+3. Did you visit documentation on any library-specific sites, like [Tidyverse](https://www.tidyverse.org/)?
+4. Are there any instructional videos available, like on the [Course Youtube Channel](https://www.youtube.com/channel/UC7qXkCiERSNtT_1IHt_88kQ)?
+5. Have you directly quoted any relevant error messages in your search engine?
+6. Did a simple Google search direct you to any helpful forums?
 
 <br>
 
