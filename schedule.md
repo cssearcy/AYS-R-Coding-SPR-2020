@@ -361,7 +361,8 @@ In fact, one of SO's most popular R posts is: **["How to make a great R reproduc
 
 Above all, **never paste pictures of code**. Instead, wrap your code in fences, or ```` ``` ````. For example:
 
-```` ```
+```` 
+```
 This is a block of text.
 
 It appears clean and tidy.
@@ -372,7 +373,9 @@ It appears clean and tidy.
 
 ## Scheduling Office Hours
 
-Barring emergencies, always sincerely attempt the steps listed in "Use Your Resources" and "Post on GitHub Issues" before attempting to schedule. Otherwise, **[visit your instructor's Calendly](https://calendly.com/jamisoncrawford/20min)** to schedule an appointment during office hours.
+Barring emergencies, always sincerely attempt the steps listed in "Use Your Resources" and "Post on GitHub Issues" before scheduling. 
+
+Then, and only then, should you **[schedule an appointment on your instructor's Calendly](https://calendly.com/jamisoncrawford/20min)**.
 
 <br>
 <br>
