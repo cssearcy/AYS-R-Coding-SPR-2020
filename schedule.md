@@ -363,9 +363,9 @@ Above all, **never paste pictures of code**. Instead, wrap your code in fences, 
 
 ```` 
 ```
-This is a block of text.
+This block of text is surrounded by fences.
 
-It appears clean and tidy.
+Fences are made with three "backticks".
 ```
 ````
 
