@@ -324,7 +324,7 @@ Adapted from **[SRGRAFO](https://www.srgrafo.com/)**.
 
 Many learners find study groups helpful, while others use learning platforms such as [Coursera](https://www.coursera.org/specializations/jhu-data-science) or [Data Camp](https://app.datacamp.com/learn/courses/free-introduction-to-r) to supplement this course. Emailing the instructor regarding assignments is discouraged as it does not contribute to public discussion on [GitHub Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues). 
 
-Hence, there are three options:
+Hence, there are three course-related options:
 
 1. **Use Your Resources:** Research the issue using built-in documentation in R, online vignettes, demo Shiny apps, graphic and widget galleries, discussion forums, GitHub repositories, etc.
 2. **Post on GitHub Issues:** Ask your class questions by providing a very specific set of details, like expectation vs. the problem, relevant error messages, sample data, code for reproducing the issue, etc.
