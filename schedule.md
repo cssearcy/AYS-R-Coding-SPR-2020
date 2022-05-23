@@ -306,7 +306,7 @@ Visit the [video](https://youtu.be/ALwHaNzQub0) to navigate using timestamps in 
 
 *** { @unit = "", @title = "Get Help", @reading, @foldout  }
 
-# Understand You're Not Alone
+# Need Help? You're Not Alone
 
 You will get stuck. A lot. Your instructor and classmates are here to help.
 
