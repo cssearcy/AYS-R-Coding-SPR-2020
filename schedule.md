@@ -340,8 +340,7 @@ There are several resources beyond the course's Syllabus, Schedule, and iCollege
 4. Are there any instructional videos available, like on the **[Course Youtube Channel](https://www.youtube.com/channel/UC7qXkCiERSNtT_1IHt_88kQ)**?
 5. Have you directly quoted any relevant error messages and included "r" in **[a Google search](https://www.google.com/search?q=object+%27oops%27+not+found+r)**?
 6. Can you invest time searching in helpful forums, e.g. **[Stack Overflow](https://stackoverflow.com/questions/tagged/r)**?
-
-Above all, *did you complete all relevant readings and/or videos?*
+7. Did you carefully review all relevant readings and videos?
 
 <br>
 
@@ -360,7 +359,14 @@ At our **[Course Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issue
 
 In fact, one of SO's most popular R posts is: **["How to make a great R reproducible example"](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)**
 
-Above all, **never paste pictures of code**. Instead, wrap your code in fences, or ```` ``` ````.
+Above all, **never paste pictures of code**. Instead, wrap your code in fences, or ```` ``` ````. For example:
+
+```` ```
+This is a block of text.
+
+It appears clean and tidy.
+```
+````
 
 <br>
 
