@@ -360,7 +360,7 @@ At our **[Course Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issue
 
 In fact, one of SO's most popular R posts is: **["How to make a great R reproducible example"](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)**
 
-Above all, **never paste screenshots of code**. Make blocks of code with the rich text editor or using 3 backticks: `````.
+Above all, **never paste pictures of code**. Instead, wrap your code in fences, or ```` ``` ````.
 
 <br>
 
