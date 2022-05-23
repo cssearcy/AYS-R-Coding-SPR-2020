@@ -318,19 +318,19 @@ Adapted from **[SRGRAFO](https://www.srgrafo.com/)**.
 
 <br>
 
-# Understand Your Options
+# Know Your Options
 
 Many learners find study groups helpful, while others use learning platforms such as [Coursera](https://www.coursera.org/specializations/jhu-data-science) or [Data Camp](https://app.datacamp.com/learn/courses/free-introduction-to-r) to supplement this course. Emailing the instructor regarding assignments is discouraged as it does not contribute to public discussion on [GitHub Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues). 
 
 Hence, there are three options:
 
-1. **Using Your Resources:** Researching the issue using built-in documentation in R, online vignettes, demo Shiny apps, graphic and widget galleries, discussion forums, GitHub repositories, etc.
-2. **Posting on GitHub Issues:** Asking your class questions by providing a very specific set of details, like expectation vs. the problem, relevant error messages, sample data, code for reproducing the issue, etc.
-3. **Scheduling Office Hours:** Meeting with the professor when all else fails. 
+1. **Use Your Resources:** Research the issue using built-in documentation in R, online vignettes, demo Shiny apps, graphic and widget galleries, discussion forums, GitHub repositories, etc.
+2. **Post on GitHub Issues:** Ask your class questions by providing a very specific set of details, like expectation vs. the problem, relevant error messages, sample data, code for reproducing the issue, etc.
+3. **Schedule Office Hours:** Meeting with the professor when all else fails. 
 
 <br>
 
-## Using Your Resources
+## Use Your Resources
 
 There are several resources beyond the course's Syllabus, Schedule, and iCollege site. Consider:
 
@@ -339,29 +339,34 @@ There are several resources beyond the course's Syllabus, Schedule, and iCollege
 3. Did you visit documentation on any library-specific sites, like **[Tidyverse](https://www.tidyverse.org/)**?
 4. Are there any instructional videos available, like on the **[Course Youtube Channel](https://www.youtube.com/channel/UC7qXkCiERSNtT_1IHt_88kQ)**?
 5. Have you directly quoted any relevant error messages and included "r" in **[a Google search](https://www.google.com/search?q=object+%27oops%27+not+found+r)**?
-6. Invest time searching in helpful forums, e.g. **[Stack Overflow](https://stackoverflow.com/questions/tagged/r)**?
+6. Can you invest time searching in helpful forums, e.g. **[Stack Overflow](https://stackoverflow.com/questions/tagged/r)**?
+
+Above all, *did you complete all relevant readings and/or videos?*
 
 <br>
 
-## Posting on GitHub Issues
+## Post on GitHub Issues
 
 A repository, or "repo", is a central collection of code, data, images, and other files. This entire course is kept in a repo, e.g. Every repo also has an "Issues" page, allowing users to report bugs, dead links, etc. 
 
-At our **[Course Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)** page, you can share questions, problematic code, errors, and more. All posts are public and replies are posted within 24 hours. Detailed posts are strongly encouraged and should include the following:
+At our **[Course Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)** page, you can share questions, problematic code, errors, and more. All posts are public and replies are posted within 24 hours. However, highly detailed posts are strongly encouraged and should include the following:
 
 1. Title with clear information, such as week, lab, and/or question number
 2. Clearly stated intentions, expectations, unexpected results, and question(s)
-3. Minimum amount of code and data, real or fake, to reproduce any error(s)
-4. Warnings, error messages, or other text printed to the console
-5. Any libraries necessary to reproduce the error
+3. Findings from researching documentation, forums, videos, readings, etc.
+4. Minimum amount of code and data, real or fake, to reproduce any error(s)
+5. Warnings, error messages, or other text printed to the console
+6. Any libraries necessary to reproduce the error
 
 In fact, one of SO's most popular R posts is: **["How to make a great R reproducible example"](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)**
 
+Above all, **never paste screenshots of code**. Make blocks of code with the rich text editor or using 3 backticks: `````.
+
 <br>
 
-### Scheduling Office Hours
+## Scheduling Office Hours
 
-If you have completed all troubleshooting steps in "Using Your Resources" and are not getting the help you need by posting your questions to GitHub Issues, please [visit your instructor's Calendly](https://calendly.com/jamisoncrawford/20min) to schedule an appointment during office hours.
+Barring emergencies, always sincerely attempt the steps listed in "Use Your Resources" and "Post on GitHub Issues" before attempting to schedule. Otherwise, **[visit your instructor's Calendly](https://calendly.com/jamisoncrawford/20min)** to schedule an appointment during office hours.
 
 <br>
 <br>
