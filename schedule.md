@@ -304,7 +304,7 @@ Visit the [video](https://youtu.be/ALwHaNzQub0) to navigate using timestamps in 
 <br>
 <br>
 
-*** { @unit = "", @title = "Getting Help", @reading, @foldout  }
+*** { @unit = "", @title = "Get Help", @reading, @foldout  }
 
 # Understand You're Not Alone
 
