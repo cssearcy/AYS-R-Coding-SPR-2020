@@ -320,7 +320,7 @@ Adapted from **[SRGRAFO](https://www.srgrafo.com/)**.
 
 ## Understand Your Options
 
-Many learners find study groups helpful, while others use learning platforms such as Coursera or Data Camp to supplement this course. Emailing the instructor regarding assignments is discouraged as it does not contribute to public discussion on GitHub Issues. 
+Many learners find study groups helpful, while others use learning platforms such as [Coursera](https://www.coursera.org/specializations/jhu-data-science) or [Data Camp](https://app.datacamp.com/learn/courses/free-introduction-to-r) to supplement this course. Emailing the instructor regarding assignments is discouraged as it does not contribute to public discussion on [GitHub Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues). 
 
 Hence, there are three options:
 
@@ -339,17 +339,29 @@ There are several resources beyond the course's Syllabus, Schedule, and iCollege
 3. Did you visit documentation on any library-specific sites, like **[Tidyverse](https://www.tidyverse.org/)**?
 4. Are there any instructional videos available, like on the **[Course Youtube Channel](https://www.youtube.com/channel/UC7qXkCiERSNtT_1IHt_88kQ)**?
 5. Have you directly quoted any relevant error messages and included "r" in **[a Google search](https://www.google.com/search?q=object+%27oops%27+not+found+r)**?
-6. Invest time searching in helpful forums, e.g. **[StackOverflow](https://stackoverflow.com/questions/tagged/r)**?
+6. Invest time searching in helpful forums, e.g. **[Stack Overflow](https://stackoverflow.com/questions/tagged/r)**?
 
 <br>
 
 ### Posting on GitHub Issues
 
-A repository, or "repo", is a central collection of code, data, and supplementary files like images. For example, all of the code for this course: R, HTML, etc. are kept in a repo. Every GitHub repo also has an "Issues" tab, which allows both developers and users to effectively report bugs, dead links, etc. 
+##### What is GitHub Issues?
 
-Our **[Course Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)** page allows learners to share questions, problematic code, errors, and more. All posts are visible to the public and replies are posted within 24 hours. Since quick response is not always guaranteed, detailed posts are encouraged, especially after your research in *Using Your Resources* above.
+A repository, or "repo", is a central collection of code, data, images, and other files. This entire course is kept in a repo, e.g. Every repo also has an "Issues" page, allowing users to report bugs, dead links, etc. 
 
+At our **[Course Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)** page, you can share questions, problematic code, errors, and more. All posts are public and replies are posted within 24 hours. Detailed posts are strongly encouraged and should include the following:
 
+1. Title with clear information, such as week, lab, and/or question number
+2. Clearly stated intentions, expectations, unexpected results, and question(s)
+3. Minimum amount of code and data, real or fake, to reproduce any error(s)
+4. Warnings, error messages, or other text printed to the console
+5. Any libraries necessary to reproduce the error
+
+In fact, one of the highest-rated R questions on Stack Overflow is: **["How to make a great R reproducible example"](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)**
+
+<br>
+
+##### Formatting Questions with Markdown
 
 It is a great forum because:
 
@@ -361,7 +373,7 @@ It is a great forum because:
 
 ### Scheduling Office Hours
 
-Lorem...
+If you have completed all troubleshooting steps in "Using Your Resources" and are not getting the help you need by posting your questions to GitHub Issues, please [visit your instructor's Calendly](https://calendly.com/jamisoncrawford/20min) to schedule an appointment during office hours.
 
 <br>
 <br>
