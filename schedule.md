@@ -308,9 +308,7 @@ Visit the [video](https://youtu.be/ALwHaNzQub0) to navigate using timestamps in 
 
 # Understand You're Not Alone
 
-You will get stuck a lot. Learning R requires grit and resilience.
-
-Your instructor and classmates are here to help. Your options are clear.
+You will get stuck. A lot. Your instructor and classmates are here to help.
 
 <br>
 
