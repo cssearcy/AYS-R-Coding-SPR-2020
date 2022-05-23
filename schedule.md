@@ -373,7 +373,7 @@ Fences are made with three "backticks".
 
 <br>
 
-## Scheduling Office Hours
+## Schedule Office Hours
 
 Barring emergencies, always sincerely attempt the steps listed in "Use Your Resources" and "Post on GitHub Issues" before scheduling. 
 
