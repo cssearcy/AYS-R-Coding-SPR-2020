@@ -306,7 +306,7 @@ Visit the [video](https://youtu.be/ALwHaNzQub0) to navigate using timestamps in 
 
 *** { @unit = "", @title = "Getting Help", @reading, @foldout  }
 
-## Understand You're Not Alone
+# Understand You're Not Alone
 
 Lorem ipsom.
 
@@ -318,7 +318,7 @@ Adapted from **[SRGRAFO](https://www.srgrafo.com/)**.
 
 <br>
 
-## Understand Your Options
+# Understand Your Options
 
 Many learners find study groups helpful, while others use learning platforms such as [Coursera](https://www.coursera.org/specializations/jhu-data-science) or [Data Camp](https://app.datacamp.com/learn/courses/free-introduction-to-r) to supplement this course. Emailing the instructor regarding assignments is discouraged as it does not contribute to public discussion on [GitHub Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues). 
 
@@ -330,7 +330,7 @@ Hence, there are three options:
 
 <br>
 
-### Using Your Resources
+## Using Your Resources
 
 There are several resources beyond the course's Syllabus, Schedule, and iCollege site. Consider:
 
@@ -343,9 +343,7 @@ There are several resources beyond the course's Syllabus, Schedule, and iCollege
 
 <br>
 
-### Posting on GitHub Issues
-
-##### What is GitHub Issues?
+## Posting on GitHub Issues
 
 A repository, or "repo", is a central collection of code, data, images, and other files. This entire course is kept in a repo, e.g. Every repo also has an "Issues" page, allowing users to report bugs, dead links, etc. 
 
@@ -357,17 +355,7 @@ At our **[Course Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issue
 4. Warnings, error messages, or other text printed to the console
 5. Any libraries necessary to reproduce the error
 
-In fact, one of the highest-rated R questions on Stack Overflow is: **["How to make a great R reproducible example"](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)**
-
-<br>
-
-##### Formatting Questions with Markdown
-
-It is a great forum because:
-
-* You can format code and math using standard markdown syntax. 
-* You can cut and paste images directly into the message. 
-* You can direction responses using @username mentions. 
+In fact, one of SO's most popular R posts is: **["How to make a great R reproducible example"](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)**
 
 <br>
 
