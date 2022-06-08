@@ -326,7 +326,7 @@ dat %>% group_by( factor ) %>% summarize( my.stat = formula or logical statement
 * Note that in the summarize function you can count occurrences by **n=n()** 
   
   
-  ```{r, echo=F}
+```{r, echo=F}
 dat %>%
   group_by( day ) %>%
   summarize( n=n(), 
@@ -338,20 +338,20 @@ dat %>%
 ```
 
 <br>
-  <br>
+<br>
   
   
   
   
-  ## PART 2: Age Groups
+## PART 2: Age Groups
   
   
-  #### 1) Create a table of counts of accidents by time of day (24 one-hour segments) and age of driver (use the factor age groups). 
+#### 1) Create a table of counts of accidents by time of day (24 one-hour segments) and age of driver (use the factor age groups). 
   
   
-  Which age group has the largest number of accidents at 7am? 
+Which age group has the largest number of accidents at 7am? 
   
-  You can use the dplyr **count()** function for this (or use **table()** in core R if you are old school like that). 
+You can use the dplyr **count()** function for this (or use **table()** in core R if you are old school like that). 
 
 
 
@@ -359,14 +359,14 @@ dat %>%
 
 <br><br>
   
-  ## PART 3: Rates of Harm
+## PART 3: Rates of Harm
   
-  As a public health expert specializing in traffic accidents, you need to think about how to best target traffic accidents to reduce harm. 
+As a public health expert specializing in traffic accidents, you need to think about how to best target traffic accidents to reduce harm. 
 
 Should we focus on the volume of traffic accidents, or the types of accidents that are most likely to cause harm? 
   
   
-  ```{r, echo=F}
+```{r, echo=F}
 d2 <- 
   dat %>% 
   count( hour )
