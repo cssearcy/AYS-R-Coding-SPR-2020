@@ -6,8 +6,8 @@ output:
     df_print: paged
     theme: flatly
     highlight: haddock
-    toc: no
-    toc_float: no
+    toc: yes
+    toc_float: yes
 ---
 
 ```{r include = FALSE, cache = TRUE}
@@ -254,7 +254,7 @@ template for your submission.
 
 <center>
 
-[![](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/blob/master/LABS/images/download.png?raw=true)](https://www.google.com)
+[![](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/blob/master/LABS/images/download.png?raw=true)](https://github.com/DS4PS/ays-r-coding-sum-2022/blob/main/labs/Lab-06-LastName_v3.zip?raw=true)
 
 </center>
 
