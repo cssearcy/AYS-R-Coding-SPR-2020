@@ -29,7 +29,7 @@ You can create a new R Markdown file, or download the **LAB-03 RMD template**:
 
 <center>
 
-[![](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/blob/master/LABS/images/download.png?raw=true)](https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-03-v2-LastName.zip?raw=true)
+[![](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/blob/master/LABS/images/download.png?raw=true)](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/blob/master/LABS/Lab-03-v3-LastName.zip?raw=true)
 
 </center>
 
