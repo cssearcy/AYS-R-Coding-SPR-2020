@@ -45,17 +45,18 @@ educational non-profit fighting global misconceptions" about anything from
 plastic in the ocean to farmers income and a host of other compelling and 
 robust global data sources. 
 
-*Gapminder's* life expectancy data rose to prominence following a particularly 
-legendary example of data storytelling by Swedish physician, academic, and 
+*Gapminder's* life expectancy data rose to prominence following particularly 
+legendary examples of data storytelling by Swedish physician, academic, and 
 *Gapminder* Co-Founder and Chairman 
-**[Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling)**. Watch the famous TED 
-Talk below to familiarize yourself with *Gapminder.* 
+**[Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling)**. Watch one of his
+famous TED Talks by clicking on the image below to familiarize yourself with 
+*Gapminder.* 
 
 <br>
 
 <center>
 
-<iframe width="728" height="410" src="https://www.youtube.com/embed/hVimVzgtD6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/blob/master/LABS/best_hans_talks_1200x627.jpg?raw=true)](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
 
 </center>
 
