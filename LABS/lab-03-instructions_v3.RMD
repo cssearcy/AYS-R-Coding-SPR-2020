@@ -215,11 +215,31 @@ year_avg <- life_exp %>%
 
 ### Preview
 
-The following shows the first 10 observations in the life expectancy data. 
+The following shows the first 10 observations in the life expectancy data: `life_exp`. 
 
 ```{r}
 
 head(life_exp, 10)
+
+```
+
+<br>
+
+The following shows the first 10 observations in the regional average data: `region_avgs`. 
+
+```{r}
+
+head(region_avgs, 10)
+
+```
+
+<br>
+
+The following shows the first 10 observations in the regional average data: `region_avgs`. 
+
+```{r}
+
+head(year_avg, 10)
 
 ```
 
